@@ -1,0 +1,48 @@
+Post 1 .......................................................................
+https://securelist.com/it-threat-evolution-in-q2-2016-overview/75615/
+
+Top N Summary
+-------------
+Download the full report (PDF)  Targeted attacks and malware campaigns  Cha-ching! Skimming off the cream  Earlier in the year, as part of an incident response investigation, we uncovered a new version of the Skimer ATM malware
+
+Mean Scored Summary
+-------------------
+Download the full report (PDF)  Targeted attacks and malware campaigns  Cha-ching!
+
+Post 2 .......................................................................
+https://securelist.com/cve-2015-2545-overview-of-current-threats/74828/
+
+Top N Summary
+-------------
+The error enables an attacker to execute arbitrary code using a specially crafted EPS image file. In this research paper, we discuss examples of attacks using the CVE-2015-2545 vulnerability undertaken by some of these groups. The document is written in good Japanese, as shown below. For information about the service, please write to intelreports@kaspersky.com . Danti attacks  Danti (Kaspersky Labs internal name) is an APT actor that has been active at least since 2015, predominantly targeting Indian government organizations.
+
+Mean Scored Summary
+-------------------
+The error enables an attacker to execute arbitrary code using a specially crafted EPS image file. Over the following months, there was significant growth in the number of threat actors using the vulnerability as a primary tool for initial penetration, with both the attack groups and their targets located in South-East and Central Asia and the Far East. In this research paper, we discuss examples of attacks using the CVE-2015-2545 vulnerability undertaken by some of these groups. Its attacks can be traced as far back as 2009. The group is notable for exploiting 0-day vulnerabilities and carrying out a small number of highly focused targeted attacks  mostly against government agencies in Malaysia, Indonesia, China and India. In order to infect victims, the attacker sent an email with an attached DOCX file exploiting the CVE-2015-2545 vulnerability in Microsoft Office using an embedded EPS (Encapsulated Postscript) object. The document is written in good Japanese, as shown below. This attack was also described in the FireEye report , mentioned above. For information about the service, please write to intelreports@kaspersky.com . Danti attacks  Danti (Kaspersky Labs internal name) is an APT actor that has been active at least since 2015, predominantly targeting Indian government organizations.
+
+Post 3 .......................................................................
+https://www.securityweek.com/microsoft-office-flaw-exploited-several-apt-actors
+
+Top N Summary
+-------------
+Microsoft Office Flaw Exploited by Several APT Actors
+
+An Office vulnerability patched by Microsoft last year has been exploited by several advanced persistent threat (APT) actors in operations aimed at organizations in Asia, Kaspersky Lab's Global Research and Analysis Team reported on Wednesday. The actor, which has been known to target organizations in South and Southeast Asia, has been active since at least 2009. One of the first APT groups to start leveraging CVE-2015-2545 after it was fixed by Microsoft is EvilPost, a China-linked gang that used weaponized Word documents to attack a Japanese defense contractor in December 2015. Danti used CVE-2015-2545 in February and March to launch attacks against Indian diplomatic organizations, including many embassies. The groups activities were also analyzed recently by Palo Alto Networks, which found connections between the malware used in the attacks aimed at Indian embassies and malware used in 2013 in a campaign called Operation Ke3chang.
+
+Mean Scored Summary
+-------------------
+Microsoft Office Flaw Exploited by Several APT Actors
+
+An Office vulnerability patched by Microsoft last year has been exploited by several advanced persistent threat (APT) actors in operations aimed at organizations in Asia, Kaspersky Lab's Global Research and Analysis Team reported on Wednesday. The actor, which has been known to target organizations in South and Southeast Asia, has been active since at least 2009. One of the first APT groups to start leveraging CVE-2015-2545 after it was fixed by Microsoft is EvilPost, a China-linked gang that used weaponized Word documents to attack a Japanese defense contractor in December 2015. At around the same time, a different Chinese attacker dubbed APT16 used an exploit for this Office vulnerability to target media and government agencies in Taiwan. Its believed to be a new group that is related to the NetTraveler and DragonOK cyberspies, whose activities were analyzed in 2013 and 2014. Danti used CVE-2015-2545 in February and March to launch attacks against Indian diplomatic organizations, including many embassies. The groups activities were also analyzed recently by Palo Alto Networks, which found connections between the malware used in the attacks aimed at Indian embassies and malware used in 2013 in a campaign called Operation Ke3chang. Palo Alto Networks recently also analyzed a campaign where an APT group leveraged the Office flaw to deliver a Poison Ivy variant named SPIVY to organizations in Hong Kong. In addition to APT actors, traditional cybercriminals have also leveraged the Office exploit in mass spam campaigns.
+
+Post 4 .......................................................................
+https://www.securityweek.com/year-old-office-vulnerabilities-most-popular-current-attacks
+
+Top N Summary
+-------------
+What might be surprising is that cybercriminals stayed with CVE-2012-0158 for so long and that they suddenly moved to a new vulnerability. SophosLabs researchers, however, say that this makes perfect sense. The CVE-2015-2545 vulnerability started its lifecycle as many other Office exploits do: high-end APT groups were using it at the 0-day stage, before an official patch was released for it. However, other groups started using it after the patch, including EvilPost and APT16, as well as NetTraveler. According to Sophos, from a criminals point of view, CVE-2015-2545 and CVE-2015-1641 appear as good replacements for the CVE-2012-0158 exploit, especially since the latter is already included in MWI and AK-2 exploit kits.
+
+Mean Scored Summary
+-------------------
+What might be surprising is that cybercriminals stayed with CVE-2012-0158 for so long and that they suddenly moved to a new vulnerability. The CVE-2015-2545 vulnerability started its lifecycle as many other Office exploits do: high-end APT groups were using it at the 0-day stage, before an official patch was released for it. However, other groups started using it after the patch, including EvilPost and APT16, as well as NetTraveler.
+

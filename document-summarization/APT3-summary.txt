@@ -1,0 +1,168 @@
+Post 1 .......................................................................
+https://www.crowdstrike.com/blog/crowdstrike-falcon-defeats-gothic-panda-in-mitre-nation-state-emulation-test/
+
+Top N Summary
+-------------
+For the roughly three decades that the commercial cybersecurity industry has existed, it has struggled with a fundamental problem  a lack of realistic attack testing to determine whether the products that companies and consumers buy actually work in stopping real in-the-wild threats. Today Im thrilled to announce that CrowdStrike Falcon, backed by our elite Falcon OverWatch team, aced the simulation  detecting and providing visibility into nearly every technique tested by the MITRE team. Our OverWatch team detects, stops and notifies our customers of about 400 serious breach attempts every single week  two per hour, on average. The one red cell below  Exfiltration Over Command and Control Channel (in this case, DNS)  was the only one missed by Falcon. The results of this emulation come on the heels of CrowdStrike being positioned highest for ability to execute and furthest for completeness of vision in the Visionary Quadrant of the 2018 Gartner Magic Quadrantfor endpoint protection platforms, further validating our leadership position in the endpoint protection space.
+
+Mean Scored Summary
+-------------------
+For the roughly three decades that the commercial cybersecurity industry has existed, it has struggled with a fundamental problem  a lack of realistic attack testing to determine whether the products that companies and consumers buy actually work in stopping real in-the-wild threats. It is the cybersecurity equivalent of Heisenbergs uncertainty principle: The more precisely you can determine the efficacy of a security product against tested malware and exploits, the less realistic that result is, since to be tested, those threats have to be already known and widely available. Today Im thrilled to announce that CrowdStrike Falcon, backed by our elite Falcon OverWatch team, aced the simulation  detecting and providing visibility into nearly every technique tested by the MITRE team. Our OverWatch team detects, stops and notifies our customers of about 400 serious breach attempts every single week  two per hour, on average. The one red cell below  Exfiltration Over Command and Control Channel (in this case, DNS)  was the only one missed by Falcon. The results of this emulation come on the heels of CrowdStrike being positioned highest for ability to execute and furthest for completeness of vision in the Visionary Quadrant of the 2018 Gartner Magic Quadrantfor endpoint protection platforms, further validating our leadership position in the endpoint protection space.
+
+Post 2 .......................................................................
+https://www.crowdstrike.com/blog/two-birds-one-stone-panda/
+
+Top N Summary
+-------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data.
+
+Mean Scored Summary
+-------------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. From there, a trail of overlapping registrant details reveals ZHANGs hanzi characters for his name (), likely one of his personal home addresses, potential work addresses and several email addresses:
+
+long@xiaohong[. ]org
+baobei@xiaohong[. ]org
+atreexp@yahoo[. ]com.cn 
+robin4700@foxmail[. ]com
+eshilong@vip.qq[. As the IntrusionTruth blog post mentions, it is a registered firm with two listed representatives, Fang Ting () and Sun Lei (), and a listed address of 1906 Fuyu Mansion (1-1906). This is interesting considering STONE PANDAs extensive targeting of Japanese defense firms after this time period, but it is by no means conclusive evidence that the firm is connected to STONE PANDA. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data. As such, CrowdStrike Falcon Intelligence assesses that although Boyusec may have shuttered, elements of GOTHIC PANDA are likely to still be active.
+
+Post 3 .......................................................................
+https://www.fireeye.com//blog/threat-research/2015/06/operation-clandestine-wolf-adobe-flash-zero-day.html
+
+Top N Summary
+-------------
+A neat trick to their ROP technique makes it simpler to exploit and will evade some ROP detection techniques. Return-Oriented Programming  The attackers use a ROP chain to call kernel32!VirtualAlloc to mark their shellcode as executable before jumping to their shellcode. Free approximately every 3 rd Vector in the spray  6. Corrupt a second Vector (Vector2)  a. Call the corrupted CustomClass.victimFunction from step 6.a.i  i.
+
+Mean Scored Summary
+-------------------
+A neat trick to their ROP technique makes it simpler to exploit and will evade some ROP detection techniques. The attacker can then perform subsequent reads and writes to memory outside the intended boundaries of the corrupted Vector object from AS3. This second Vector is used for the remainder of the exploit. Return-Oriented Programming  The attackers use a ROP chain to call kernel32!VirtualAlloc to mark their shellcode as executable before jumping to their shellcode. Additionally, storing the ROP chain on the stack will evade ROP detection mechanisms designed around detecting when the stack pointer points outside of a threads stack region. this.customObj.victimFunction( 6f73b68b, // ret; (ROPsled) , 6f73b68a, //pop eax 1f140100, 6fd36da1, //call Kernel32!VirtualAlloc(0x1f140000, 0x10000, 0x1000, 0x40) 1f140000, // Address 00010000, // Size 00001000, // Type 00000040, // Protection = RWX 6f73b68b*9 // ret (ROPsled) 6fd36da7*2 // ret 6f73aff0 pop ecx 6fd36da7 6fd36da7 jmp [eax]  ) this.customObj.victimFunction pointer modified to: 00000000`6de533dc 5e pop rsi 00000000`6de533dd 83c448 add esp,48h 00000000`6de533e0 c3 ret  Lastly, the ROP chain has a ROPsled following the call to VirtualAlloc. Free approximately every 3 rd Vector in the spray  6. Find the corrupted vector  a. Search through Vectors from step 4  b. Corrupt a second Vector (Vector2)  a. Overwrite the length field with 0x3fffffff  iii. Verify that a corrupted vector with length 0x3fffffff now exists in the spray  1. If not, undo corruption and attempt to corrupt the next vector  11. Call the corrupted CustomClass.victimFunction from step 6.a.i  i. Arguments to the function are the gadgets of the ROP chain  ii. The pivot just adds to to the stack pointer and returns because the ROP chain is on  the stack  14. ROP chain calls shellcode  a.
+
+Post 4 .......................................................................
+https://securelist.com/the-naikon-apt-and-the-msnmm-campaigns/70029/
+
+Top N Summary
+-------------
+The MsnMM Campaigns [pdf]  For over half a decade, the Naikon APT waged multiple attack campaigns on sensitive targets throughout South-eastern Asia and around the South China Sea. Targets and victims included ASEAN governmental agencies and government departments, investment enterprises, military, law enforcement and border control organizations, embassies, university faculties and others. The Naikon attackers attempted to exfiltrate sensitive geo-political, military, and economic data; to intercept communications and to maintain surveillance on their victims throughout the MsnMM campaigns. Their toolset and techniques changed over time in many minor ways, and appear to be run by Chinese-speaking individuals. The consistent list of military, economic, and political targets gave away the actors interests.
+
+Mean Scored Summary
+-------------------
+Targets and victims included ASEAN governmental agencies and government departments, investment enterprises, military, law enforcement and border control organizations, embassies, university faculties and others. The Naikon attackers attempted to exfiltrate sensitive geo-political, military, and economic data; to intercept communications and to maintain surveillance on their victims throughout the MsnMM campaigns. The consistent list of military, economic, and political targets gave away the actors interests.
+
+Post 5 .......................................................................
+https://securelist.com/the-naikon-apt/69953/
+
+Top N Summary
+-------------
+Considering the volume of Naikon activity observed and its relentless, repeated attack attempts, such a confrontation was worth looking into, so we did. In other cases, the connection was established via dedicated proxy servers installed on dedicated servers rented in third countries. Below is a partial list of organizations affected by Naikons operator Xs espionage campaign in country X. If necessary, operator X delivered them via the remote control client. The empire strikes back  Every once in a while the Naikon group clashes with other APT groups that are also active in the region.
+
+Mean Scored Summary
+-------------------
+Considering the volume of Naikon activity observed and its relentless, repeated attack attempts, such a confrontation was worth looking into, so we did. It is hardly surprising that there is an element of overlap, considering both actors have for years mined victims in the South China Sea area, apparently in search of geo-political intelligence. There are no fundamental differences between modifications; its just that extra features get added to the latest versions, such as compression and encryption of transmitted data, or the piecemeal download of large files. d085ba82824c1e61e93e113a705b8e9a  118272  Aug 23 18:46:57 2012    b4a8dc9eb26e727eafb6c8477963829c  140800  May 20 11:56:38 2013    172fd9cce78de38d8cbcad605e3d6675  118784  Jun 13 12:14:40 2013    d74a7e7a4de0da503472f1f051b68745  190464  Aug 19 05:30:12 2013    93e84075bef7a11832d9c5aa70135dc6  154624  Jan 07 04:39:43 2014      CC-Proxy-Op  C&C server operations are characterized by the following:   Low maintenance requirements  Organized geo-specific task assignments  Different approaches to communication   The C&C servers must have required only a few operators to manage the entire network. In other cases, the connection was established via dedicated proxy servers installed on dedicated servers rented in third countries. It can be used to manage an entire network of infected clients. Below is a partial list of organizations affected by Naikons operator Xs espionage campaign in country X. If necessary, operator X delivered them via the remote control client. The empire strikes back  Every once in a while the Naikon group clashes with other APT groups that are also active in the region.
+
+Post 6 .......................................................................
+https://www.securityweek.com/apt3-hackers-linked-chinese-ministry-state-security
+
+Top N Summary
+-------------
+Their research led to two individuals, named Wu Yingzhuo and Dong Hao, who apparently registered many of the domains used by the threat actor. Both these individuals are listed as shareholders for a China-based security firm called the Guangzhou Boyu Information Technology Company, or Boyusec. In November 2016, the Washington Free Beacon learned from Pentagon intelligence officials that this company had been working with Chinese telecoms giant Huawei to develop spyware-laden security products that would be loaded onto computers and phones. Companies in sectors that have been victimized by APT3 now must adjust their strategies to defend against the resources and technology of the Chinese government. In this real-life David vs. Goliath situation, customers need both smart security controls and policy, as well as actionable and strategic threat intelligence, Recorded Future said in its report.
+
+Mean Scored Summary
+-------------------
+Their research led to two individuals, named Wu Yingzhuo and Dong Hao, who apparently registered many of the domains used by the threat actor. Both these individuals are listed as shareholders for a China-based security firm called the Guangzhou Boyu Information Technology Company, or Boyusec. In November 2016, the Washington Free Beacon learned from Pentagon intelligence officials that this company had been working with Chinese telecoms giant Huawei to develop spyware-laden security products that would be loaded onto computers and phones. Companies in sectors that have been victimized by APT3 now must adjust their strategies to defend against the resources and technology of the Chinese government. In this real-life David vs. Goliath situation, customers need both smart security controls and policy, as well as actionable and strategic threat intelligence, Recorded Future said in its report.
+
+Post 7 .......................................................................
+https://www.securityweek.com/china-linked-apt3-group-focuses-attacks-hong-kong
+
+Top N Summary
+-------------
+FireEye reported last week that APT3, a threat actor believed to be sponsored by China, had targeted two Hong Kong government agencies in early August. APT3, also known as UPS Team, Gothic Panda, Buckeye and TG-0110, has been active since at least 2009. However, Symantec, which tracks the threat actor as Buckeye, noticed last year that the hackers had become increasingly interested in Hong Kong. In the recent attacks observed by Symantec, mostly aimed at political entities in Hong Kong, APT3 used ZIP archives and Windows shortcut (.lnk) files to deliver a backdoor dubbed by the security firm Pirpi. In addition to Pirpi, Symantec observed APT3 using various other tools, including keyloggers, remote command execution tools, system information harvesting tools, and browser password stealers.
+
+Mean Scored Summary
+-------------------
+FireEye reported last week that APT3, a threat actor believed to be sponsored by China, had targeted two Hong Kong government agencies in early August. However, Symantec, which tracks the threat actor as Buckeye, noticed last year that the hackers had become increasingly interested in Hong Kong. In the recent attacks observed by Symantec, mostly aimed at political entities in Hong Kong, APT3 used ZIP archives and Windows shortcut (.lnk) files to deliver a backdoor dubbed by the security firm Pirpi. In addition to Pirpi, Symantec observed APT3 using various other tools, including keyloggers, remote command execution tools, system information harvesting tools, and browser password stealers.
+
+Post 8 .......................................................................
+https://www.securityweek.com/apt3-group-using-windows-ole-vulnerability-fireeye
+
+Top N Summary
+-------------
+APT3 is believed to be behind 'Operation Clandestine Fox', a campaign first disclosed in April when the group began using a zero-day in Internet Explorer in targeted attacks. In May, the attackers began specifically targeting Windows XP machines running Internet Explorer 8. "APT3the actors responsible forOperation Clandestine Foxhas quietly continued to send waves of spearphishing messages over the past few months," FireEye researchers blogged. CVE-2014-4113 meanwhile exists when the Windows kernel-mode driver improperly handles objects in memory. An attacker who exploited it could potentially run arbitrary code in kernel mode.
+
+Mean Scored Summary
+-------------------
+APT3 is believed to be behind 'Operation Clandestine Fox', a campaign first disclosed in April when the group began using a zero-day in Internet Explorer in targeted attacks. In May, the attackers began specifically targeting Windows XP machines running Internet Explorer 8. "APT3the actors responsible forOperation Clandestine Foxhas quietly continued to send waves of spearphishing messages over the past few months," FireEye researchers blogged. CVE-2014-4113 meanwhile exists when the Windows kernel-mode driver improperly handles objects in memory. An attacker who exploited it could potentially run arbitrary code in kernel mode. "Since Operation Clandestine Fox, we have observed this actor execute multiple attacks that did not rely on zero-day exploits.
+
+Post 9 .......................................................................
+https://www.securityweek.com/flash-player-flaw-used-apt3-group-added-magnitude-exploit-kit
+
+Top N Summary
+-------------
+Flash Player Flaw Used by APT3 Group Added to Magnitude Exploit Kit
+
+An exploit for a Flash Player vulnerability patched by Adobe last week with the release of version 18.0.0.194 has been integrated into the Magnitude exploit kit. The existence of the heap buffer overflow vulnerability (CVE-2015-3113) that can be exploited for arbitrary code execution was brought to light by FireEye. The expert reported on Sunday that cybercriminals have been using the exploit to deliver the Cryptowall ransomware. In late May, an exploit for a Flash Player bug fixed by Adobe on May 11 was added to the Angler exploit kit. Once a new exploit has been introduced in one kit, its pretty easy for others to copy it, Timo Hirvonen, senior researcher at F-Secure, told SecurityWeek earlier this month.
+
+Mean Scored Summary
+-------------------
+Flash Player Flaw Used by APT3 Group Added to Magnitude Exploit Kit
+
+An exploit for a Flash Player vulnerability patched by Adobe last week with the release of version 18.0.0.194 has been integrated into the Magnitude exploit kit. The existence of the heap buffer overflow vulnerability (CVE-2015-3113) that can be exploited for arbitrary code execution was brought to light by FireEye. In late May, an exploit for a Flash Player bug fixed by Adobe on May 11 was added to the Angler exploit kit. Once a new exploit has been introduced in one kit, its pretty easy for others to copy it, Timo Hirvonen, senior researcher at F-Secure, told SecurityWeek earlier this month.
+
+Post 10 .......................................................................
+https://www.securityweek.com/us-indicts-chinese-hacking-siemens-moody
+
+Top N Summary
+-------------
+Wu Yingzhuo, Dong Hao and Xia Lei, who the Department of Justice (DOJ) says are Chinese nationals and residents of China, were indicted by a grand jury for a series of cyber-attacks against three corporate victims in the financial, engineering and technology industries between 2011 and May 2017. Their research led to two individuals, named Wu Yingzhuo and Dong Hao, who apparently registered many of the domains used by the threat actor. Researchers noticed last year that the group had shifted its attention from the U.S. and the U.K. to Hong Kong, where it had mainly targeted political entities using a backdoor dubbed Pirpi.
+CrowdStrike has seen an uptick in activity by the group since 2016, Meyers said. Researchers said the group appears to be focusing on file and print servers, which suggests they are mainly interested in stealing documents to support their espionage efforts. These conspirators masked their criminal conspiracy by exploiting unwitting computers, called hop points, conducting spearphish email campaigns to gain unauthorized access to corporate computers, and deploying malicious code to infiltrate the victim computer networks.
+
+Mean Scored Summary
+-------------------
+Wu Yingzhuo, Dong Hao and Xia Lei, who the Department of Justice (DOJ) says are Chinese nationals and residents of China, were indicted by a grand jury for a series of cyber-attacks against three corporate victims in the financial, engineering and technology industries between 2011 and May 2017. Their research led to two individuals, named Wu Yingzhuo and Dong Hao, who apparently registered many of the domains used by the threat actor. Researchers noticed last year that the group had shifted its attention from the U.S. and the U.K. to Hong Kong, where it had mainly targeted political entities using a backdoor dubbed Pirpi.
+CrowdStrike has seen an uptick in activity by the group since 2016, Meyers said. Researchers said the group appears to be focusing on file and print servers, which suggests they are mainly interested in stealing documents to support their espionage efforts.
+
+Post 11 .......................................................................
+https://www.securityweek.com/adobe-flash-player-zero-day-exploited-attack-campaign
+
+Top N Summary
+-------------
+According to FireEye, the attackers' emails contained links to compromised web servers that served either benign content or a malicious Adobe Flash Player file exploiting the bug. "Once a target host was profiled, victims downloaded a malicious Adobe Flash Player SWF file and an FLV file, detailed below. "The attack exploits an unpatched vulnerability in the way Adobe Flash Player parses Flash Video (FLV) files," the researchers explained. 0-days once discovered this way tend to spread quickly to other cyber criminal groups. Adobe mentions that all known targets seem to use Windows 7 and Internet Explorer and Firefox on Windows XP, but we don't recommend holding back on patching even if you are running other configurations (hopefully not XP, though).
+
+Mean Scored Summary
+-------------------
+According to FireEye, the attackers' emails contained links to compromised web servers that served either benign content or a malicious Adobe Flash Player file exploiting the bug. "Once a target host was profiled, victims downloaded a malicious Adobe Flash Player SWF file and an FLV file, detailed below. "The attack exploits an unpatched vulnerability in the way Adobe Flash Player parses Flash Video (FLV) files," the researchers explained. 0-days once discovered this way tend to spread quickly to other cyber criminal groups. Adobe mentions that all known targets seem to use Windows 7 and Internet Explorer and Firefox on Windows XP, but we don't recommend holding back on patching even if you are running other configurations (hopefully not XP, though).
+
+Post 12 .......................................................................
+https://www.securityweek.com/state-sponsored-attackers-use-web-analytics-reconnaissance
+
+Top N Summary
+-------------
+On these websites, the malicious hackers injected a small piece of code that silently redirects visitors to a second compromised website that hosts a profiling script. The script, dubbed by FireEye WITCHCOVEN, collects the victims computer and browser configuration and deploys a persistent tracking cookie, also known as a supercookie, on their device. For example, if the attackers determine that the targeted user is running outdated software that is known to contain serious vulnerabilities, they can easily hack their machine using available exploits, without the need to expose zero-days. FireEye says this tactic has been used in targeted operations by other APT groups, including the Chinese actor APT3 in Operation Clandestine Wolf, and the Russian group APT28 in Operation Russian Doll. FireEye has determined that the more than 100 compromised websites are likely to be visited by people interested in international travel, diplomacy, international economics, energy production and policy, and government matters.
+
+Mean Scored Summary
+-------------------
+On these websites, the malicious hackers injected a small piece of code that silently redirects visitors to a second compromised website that hosts a profiling script. The script, dubbed by FireEye WITCHCOVEN, collects the victims computer and browser configuration and deploys a persistent tracking cookie, also known as a supercookie, on their device. For example, if the attackers determine that the targeted user is running outdated software that is known to contain serious vulnerabilities, they can easily hack their machine using available exploits, without the need to expose zero-days. FireEye says this tactic has been used in targeted operations by other APT groups, including the Chinese actor APT3 in Operation Clandestine Wolf, and the Russian group APT28 in Operation Russian Doll. FireEye has determined that the more than 100 compromised websites are likely to be visited by people interested in international travel, diplomacy, international economics, energy production and policy, and government matters. Of particular interest appear to be executives, military personnel, government officials, and diplomats from Europe and the United States.
+
+Post 13 .......................................................................
+https://www.securityweek.com/new-adobe-flash-player-flaw-shares-similarities-previous-vulnerability-trend-micro
+
+Top N Summary
+-------------
+"Our analysis of the current flaw reveals that the root cause of CVE-2015-3113 is similar to CVE-2015-3043," blogged Trend Micro Threats Analyst Peter Pi. In fact, code targeting the previous exploit can also cause crashes in version 18.0.0.160 (the version immediately before this emergency update)." "CVE-2015-3043 and CVE-2015-3113 both trigger this bug using sample_count * sample_size > 0x2000, and bypass the length check." In version 18.0.0.160, the code underwent significant changes, Pi noted. "The GetSampleCount function checks the final buffer size needed," he explained.
+
+Mean Scored Summary
+-------------------
+"Our analysis of the current flaw reveals that the root cause of CVE-2015-3113 is similar to CVE-2015-3043," blogged Trend Micro Threats Analyst Peter Pi. In fact, code targeting the previous exploit can also cause crashes in version 18.0.0.160 (the version immediately before this emergency update)." "CVE-2015-3043 and CVE-2015-3113 both trigger this bug using sample_count * sample_size > 0x2000, and bypass the length check." In version 18.0.0.160, the code underwent significant changes, Pi noted. "The GetSampleCount function checks the final buffer size needed," he explained. "We will be performing a 0-day review on this issue to determine whether the regression test did not consistently reproduce the issue or whether there is another reason the similarity was not immediately noted and addressed."
+
+Post 14 .......................................................................
+https://www.symantec.com/connect/blogs/buckeye-cyberespionage-group-shifts-gaze-us-hong-kong
+
+Top N Summary
+-------------
+However, Buckeyes focus appears to have changed as of June 2015, when the group began compromising political entities in Hong Kong. From 2015 to date, Symantec identified approximately 82 organizations in various regions that had Buckeye tools present on their network. Up to mid-2015, Buckeyes traditional targets were varying categories of US organizations, which match the types of victims seen in the UK. Malware and tools Buckeye uses a number of hacking tools as well as malware. As mentioned previously, Buckeye also uses a number of hacking tools, including the following: Keylogger: The keylogger is configured using the command line parameters: NetworkService, Replace, Install, Register and Unregister.
+
+Mean Scored Summary
+-------------------
+However, Buckeyes focus appears to have changed as of June 2015, when the group began compromising political entities in Hong Kong. From 2015 to date, Symantec identified approximately 82 organizations in various regions that had Buckeye tools present on their network. After these filters were applied to our data, we found a total of 17 organizations, located in Hong Kong (13), the US (3), and the UK (1). Up to mid-2015, Buckeyes traditional targets were varying categories of US organizations, which match the types of victims seen in the UK. Malware and tools Buckeye uses a number of hacking tools as well as malware. As mentioned previously, Buckeye also uses a number of hacking tools, including the following: Keylogger: The keylogger is configured using the command line parameters: NetworkService, Replace, Install, Register and Unregister. This, coupled with the groups use of zero-day exploits in the past, customized tools, and the types of organizations being targeted would suggest that Buckeye is a state-sponsored cyberespionage group.
+

@@ -1,0 +1,33 @@
+Post 1 .......................................................................
+https://www.securityweek.com/chinese-cyberspies-target-european-drone-maker-energy-firm
+
+Top N Summary
+-------------
+Researchers pointed out that both Emissary Panda and Dynamite Panda have targeted the defense and aerospace industries, but only the former is known to attack organizations in the energy sector. In September 2015, U.S. President Barack Obama and his Chinese counterpart, President Xi Jinping, agreed not to conduct cyber espionage for economic gain. The subsidiary of the French energy management firm targeted in the attacks observed by ThreatConnect has been contracted by the U.S. government, including the Department of Defense. In some ways, solidifying the dominant Chinese firm in a market feels like the next chapter in economic espionage. Furthermore, China may also be attempting to be more efficient as it focuses collection on organizations that meet multiple intelligence requirements.
+
+Mean Scored Summary
+-------------------
+In September 2015, U.S. President Barack Obama and his Chinese counterpart, President Xi Jinping, agreed not to conduct cyber espionage for economic gain. The subsidiary of the French energy management firm targeted in the attacks observed by ThreatConnect has been contracted by the U.S. government, including the Department of Defense. In some ways, solidifying the dominant Chinese firm in a market feels like the next chapter in economic espionage.
+
+Post 2 .......................................................................
+https://www.securityweek.com/chinese-cyberspies-target-national-data-center-asia
+
+Top N Summary
+-------------
+The threat actor is tracked as LuckyMouse, Emissary Panda, APT27 and Threat Group 3390. Researchers at Kaspersky Lab recently identified a new attack carried out by this actor. The attack targeted a national data center in an unnamed country in Central Asia. Kaspersky has not been able to determine how the national data center was breached, but believes the hackers may have used watering hole attacks aimed at the organizations employees or through weaponized Office documents  the threat group has been spotted using CVE-2017-11882. A national data center is a valuable source of data that can also be abused to compromise official websites, Kaspersky researchers said in a blog post.
+
+Mean Scored Summary
+-------------------
+The threat actor is tracked as LuckyMouse, Emissary Panda, APT27 and Threat Group 3390. Researchers at Kaspersky Lab recently identified a new attack carried out by this actor. The attack targeted a national data center in an unnamed country in Central Asia. Kaspersky has not been able to determine how the national data center was breached, but believes the hackers may have used watering hole attacks aimed at the organizations employees or through weaponized Office documents  the threat group has been spotted using CVE-2017-11882. A national data center is a valuable source of data that can also be abused to compromise official websites, Kaspersky researchers said in a blog post.
+
+Post 3 .......................................................................
+https://www.securityweek.com/china-linked-hackers-use-signed-network-filtering-driver-recent-attacks
+
+Top N Summary
+-------------
+The most interesting aspect of the incidents, however, was that the driver was signed with a digital certificate belonging to Shenzhen, Guangdong-based information security software developer LeagSoft. Highly targeted at Middle Asian government entities, Kaspersky is confident that LuckyMouse is behind it. These three modules (installer, driver, and Trojan) allow attackers to silently move laterally across infected infrastructure. The injected Trojan is a full-featured RAT that can execute common tasks onto the compromised machine, including running commands and downloading/uploading files. All this combines to make attribution more difficult, Kaspersky concludes.
+
+Mean Scored Summary
+-------------------
+The most interesting aspect of the incidents, however, was that the driver was signed with a digital certificate belonging to Shenzhen, Guangdong-based information security software developer LeagSoft. Highly targeted at Middle Asian government entities, Kaspersky is confident that LuckyMouse is behind it. These three modules (installer, driver, and Trojan) allow attackers to silently move laterally across infected infrastructure. The injected Trojan is a full-featured RAT that can execute common tasks onto the compromised machine, including running commands and downloading/uploading files. All this combines to make attribution more difficult, Kaspersky concludes.
+

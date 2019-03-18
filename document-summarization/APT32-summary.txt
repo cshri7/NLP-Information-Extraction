@@ -1,0 +1,100 @@
+Post 1 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/05/cyber-espionage-apt32.html
+
+Top N Summary
+-------------
+Year   Country   Industry   Malware   2014   Vietnam   Network Security   WINDSHIELD   2014   Germany   Manufacturing   WINDSHIELD   2015   Vietnam   Media   WINDSHIELD   2016   Philippines   Consumer products   KOMPROGO WINDSHIELD SOUNDBITE BEACON   2016   Vietnam   Banking   WINDSHIELD   2016   Philippines   Technology Infrastructure   WINDSHIELD   2016   China   Hospitality   WINDSHIELD   2016   Vietnam   Media   WINDSHIELD   2016   United States   Consumer Products   WINDSHIELD PHOREAL BEACON SOUNDBITE   Table 1: APT32 Private Sector Targeting Identified by FireEye  APT32 Interest in Political Influence and Foreign Governments  In addition to focused targeting of the private sector with ties to Vietnam, APT32 has also targeted foreign governments, as well as Vietnamese dissidents and journalists since at least 2013. Figure 1 shows a fake Gmail-theme paired with a hexadecimal error code that encourages the recipient to enable content to resolve the error. The second named scheduled task, loaded as an XML file to falsify task attributes, ran a JavaScript code block that downloaded and launched a secondary backdoor, delivered as a multi-stage PowerShell script. Figure 4: APT32 ActiveMime Lures Create Two Named Scheduled Tasks  In this example, a scheduled task named Windows Scheduled Maintenance was created to run Casey Smiths Squiblydoo App Whitelisting bypass every 30 minutes. Figure 5 illustrates the chain of events for a single successful APT32 phishing lure that dynamically injects two multi-stage malware frameworks into memory.
+
+Mean Scored Summary
+-------------------
+In March 2017, in response to active targeting of FireEye clients, the team launched a Community Protection Event (CPE)  a coordinated effort between Mandiant incident responders, FireEye as a Service (FaaS), FireEye iSight Intelligence, and FireEye product engineering  to protect all clients from APT32 activity. This focused intelligence and detection effort led to new external victim identifications as well as providing sufficient technical evidence to link twelve prior intrusions, consolidating four previously unrelated clusters of threat actor activity into FireEyes newest named advanced persistent threat group: APT32. In 2016, Vietnamese and foreign-owned corporations working in network security, technology infrastructure, banking, and media industries were targeted. Year   Country   Industry   Malware   2014   Vietnam   Network Security   WINDSHIELD   2014   Germany   Manufacturing   WINDSHIELD   2015   Vietnam   Media   WINDSHIELD   2016   Philippines   Consumer products   KOMPROGO WINDSHIELD SOUNDBITE BEACON   2016   Vietnam   Banking   WINDSHIELD   2016   Philippines   Technology Infrastructure   WINDSHIELD   2016   China   Hospitality   WINDSHIELD   2016   Vietnam   Media   WINDSHIELD   2016   United States   Consumer Products   WINDSHIELD PHOREAL BEACON SOUNDBITE   Table 1: APT32 Private Sector Targeting Identified by FireEye  APT32 Interest in Political Influence and Foreign Governments  In addition to focused targeting of the private sector with ties to Vietnam, APT32 has also targeted foreign governments, as well as Vietnamese dissidents and journalists since at least 2013. Figure 1 shows a fake Gmail-theme paired with a hexadecimal error code that encourages the recipient to enable content to resolve the error. Mandiant consultants suspect that APT32 was monitoring web logs to track the public IP address used to request remote images. The second named scheduled task, loaded as an XML file to falsify task attributes, ran a JavaScript code block that downloaded and launched a secondary backdoor, delivered as a multi-stage PowerShell script. Figure 4: APT32 ActiveMime Lures Create Two Named Scheduled Tasks  In this example, a scheduled task named Windows Scheduled Maintenance was created to run Casey Smiths Squiblydoo App Whitelisting bypass every 30 minutes. Figure 5 illustrates the chain of events for a single successful APT32 phishing lure that dynamically injects two multi-stage malware frameworks into memory.
+
+Post 2 .......................................................................
+https://www.securityweek.com/apt32-vietnamese-hackers-target-foreign-corporations
+
+Top N Summary
+-------------
+"APT32," writes Nick Carr, senior manager of FireEye's Mandiant Incident Response team, "leverages a unique suite of fully-featured malware, in conjunction with commercially-available tools, to conduct targeted operations that are aligned with Vietnamese state interests." Other attacks, however, have been targeted at individuals outside of Vietnam -- more specifically governments, journalists, and members of the Vietnam diaspora who, warns Carr, "may continue to be targeted." FireEye's analysis of APT32's current campaign depicts a well-resourced and innovative attacker. It uses phishing emails containing a weaponized attachment. ]org, share.codehao[.
+
+Mean Scored Summary
+-------------------
+"APT32," writes Nick Carr, senior manager of FireEye's Mandiant Incident Response team, "leverages a unique suite of fully-featured malware, in conjunction with commercially-available tools, to conduct targeted operations that are aligned with Vietnamese state interests." Other attacks, however, have been targeted at individuals outside of Vietnam -- more specifically governments, journalists, and members of the Vietnam diaspora who, warns Carr, "may continue to be targeted." FireEye's analysis of APT32's current campaign depicts a well-resourced and innovative attacker. It uses phishing emails containing a weaponized attachment. ]org, share.codehao[. "FireEye assesses that APT32 is a cyber espionage group aligned with Vietnamese government interests," writes Carr.
+
+Post 3 .......................................................................
+https://www.securityweek.com/how-apt32-hacked-global-asian-firm-persistence
+
+Top N Summary
+-------------
+Earlier this month, FireEye all but declared the group -- designated by FireEye as APT32 - to be a Vietnamese nation-state actor. In both cases, the end purpose was to download secondary payloads including Cobalt Strike Beacon. "
+The attacker also used DLL hijacking leveraging Windows Search, Google Update and Kaspersky's Avpia to load fake DLLs containing malicious code. As for the group itself, Operation Cobalt Kitty outlines attackers with "a remarkable ability to quickly adapt, introduce new tools and fine tune existing ones to bypass security solutions and avoid detection. Simultaneously orchestrating multiple APT campaigns of such magnitude and sophistication takes time, financial resources and a large team who can support it."
+
+Mean Scored Summary
+-------------------
+Earlier this month, FireEye all but declared the group -- designated by FireEye as APT32 - to be a Vietnamese nation-state actor. Cybereason was able to uncover the entire lifecycle of the Cobalt Kitty operation. In both cases, the end purpose was to download secondary payloads including Cobalt Strike Beacon. "
+The attacker also used DLL hijacking leveraging Windows Search, Google Update and Kaspersky's Avpia to load fake DLLs containing malicious code. "To ensure that the DNS traffic will not be filtered," reports Cybereason, "the attackers configured the backdoor to communicate with Google and OpenDNS DNS servers, since most organizations and security products will not filter traffic to those two major DNS services." This type of customization requires good coding skills and understanding of how those tools work." As for the group itself, Operation Cobalt Kitty outlines attackers with "a remarkable ability to quickly adapt, introduce new tools and fine tune existing ones to bypass security solutions and avoid detection. Simultaneously orchestrating multiple APT campaigns of such magnitude and sophistication takes time, financial resources and a large team who can support it."
+
+Post 4 .......................................................................
+https://www.securityweek.com/oceanlotus-spies-use-new-backdoor-recent-attacks
+
+Top N Summary
+-------------
+For distribution purposes, OceanLotus uses a two-stage attack that employs a dropper to gain initial foothold on the targeted system and prepare the stage for the backdoor, ESET explains in a new report (PDF). A digitally-signed Symantec executable (rastlsc.exe) is also dropped, along with a malicious Dynamic Link Library (DLL) named rastls.dll (detected as Win32/Salgorea.BD). The backdoor supports over 23 commands to: fingerprint the system; read a file or registry key; create a process; create a file, a registry entry or a stream in memory; write to or query the registry; search for files on the system; move files to directories or delete them from disk; list the drives mapped to the system; create or delete directories; call the PE Loader; drop and execute a program; run shellcode in a new thread, and more. This also demonstrates its intention to remain hidden by picking its targets, limiting the distribution of their malware and using several different servers to avoid attracting attention to a single domain or IP address. The encryption of the payload, together with the side-loading technique  despite its age  is a good way to stay under the radar, since the malicious activities look like they come from the legitimate application, ESET concludes.
+
+Mean Scored Summary
+-------------------
+For distribution purposes, OceanLotus uses a two-stage attack that employs a dropper to gain initial foothold on the targeted system and prepare the stage for the backdoor, ESET explains in a new report (PDF). A digitally-signed Symantec executable (rastlsc.exe) is also dropped, along with a malicious Dynamic Link Library (DLL) named rastls.dll (detected as Win32/Salgorea.BD). The backdoor supports over 23 commands to: fingerprint the system; read a file or registry key; create a process; create a file, a registry entry or a stream in memory; write to or query the registry; search for files on the system; move files to directories or delete them from disk; list the drives mapped to the system; create or delete directories; call the PE Loader; drop and execute a program; run shellcode in a new thread, and more. This also demonstrates its intention to remain hidden by picking its targets, limiting the distribution of their malware and using several different servers to avoid attracting attention to a single domain or IP address.
+
+Post 5 .......................................................................
+https://www.securityweek.com/campaign-targets-russian-speaking-enterprises-new-backdoor
+
+Top N Summary
+-------------
+Campaign Targets Russian-Speaking Enterprises With New Backdoor
+
+A malicious email campaign that has been active for at least two months is targeting Russian-speaking enterprises and delivering a new Windows-based backdoor, Trend Micro warns. The earliest sample associated with the attack was uploaded to VirusTotal on June 6, 2017 and Trend Micro observed five spam runs from June 23 to July 27, 2017. When opened, the Excel header is ignored and the file is treated as an HTML Application file by the Windows component mshta.exe. While Squiblydoo is already a known attack vector, this is the first time weve seen it combined with odbcconf.exe, Trend Micro notes. Alternately, employing firewalls, intrusion detection and prevention systems, virtual patching, and URL categorization, as well as enforcing robust patch management policies, will significantly reduce the systems attack surface, Trend Micro notes.
+
+Mean Scored Summary
+-------------------
+Campaign Targets Russian-Speaking Enterprises With New Backdoor
+
+A malicious email campaign that has been active for at least two months is targeting Russian-speaking enterprises and delivering a new Windows-based backdoor, Trend Micro warns. The earliest sample associated with the attack was uploaded to VirusTotal on June 6, 2017 and Trend Micro observed five spam runs from June 23 to July 27, 2017. Once the exploit code was executed, it downloads a fake XLS file embedded with malicious JavaScript. When opened, the Excel header is ignored and the file is treated as an HTML Application file by the Windows component mshta.exe. While Squiblydoo is already a known attack vector, this is the first time weve seen it combined with odbcconf.exe, Trend Micro notes. Alternately, employing firewalls, intrusion detection and prevention systems, virtual patching, and URL categorization, as well as enforcing robust patch management policies, will significantly reduce the systems attack surface, Trend Micro notes.
+
+Post 6 .......................................................................
+https://www.securityweek.com/vietnamese-spies-rival-notorious-russian-group-sophistication
+
+Top N Summary
+-------------
+Volexity believes the size and scale of this attack campaign have only previously been rivaled by a Russian APT group commonly referred to as Turla, the security firm said in a blog post. Targeted users are shown a fake screen designed to trick them into authorizing a malicious Google app that could access the victims emails and contacts. Some of the compromised websites were also set up to deliver backdoors and other types of tools, including legitimate software (e.g. Researchers also noticed that the attackers created many fake domains designed to mimic legitimate services such as AddThis, Akamai, Baidu, Cloudflare, Disqus, Facebook and Google. Many of these websites leveraged SSL certificates provided by Lets Encrypt, whose services have been increasingly abused by cybercriminals.
+
+Mean Scored Summary
+-------------------
+Volexity believes the size and scale of this attack campaign have only previously been rivaled by a Russian APT group commonly referred to as Turla, the security firm said in a blog post. Targeted users are shown a fake screen designed to trick them into authorizing a malicious Google app that could access the victims emails and contacts. Some of the compromised websites were also set up to deliver backdoors and other types of tools, including legitimate software (e.g. Researchers also noticed that the attackers created many fake domains designed to mimic legitimate services such as AddThis, Akamai, Baidu, Cloudflare, Disqus, Facebook and Google.
+
+Post 7 .......................................................................
+https://www.securityweek.com/new-macos-backdoor-linked-cyber-espionage-group
+
+Top N Summary
+-------------
+New macOS Backdoor Linked to Cyber-espionage Group
+
+A recently discovered macOS backdoor is believed to be a new version of malware previously associated with the OceanLotus cyber-espionage group, Trend Micro says. Some of the groups targets include human rights organizations, media organizations, research institutes, and maritime construction firms. The newly discovered macOS backdoor, which Trend Micro detects as OSX_OCEANLOTUS.D, has been observed on machines that have the Perl programming language installed. The document contains malicious, obfuscated macros with a payload written in Perl. Malicious attacks targeting Mac devices are not as common as its counterparts, but the discovery of this new macOS backdoor that is presumably distributed via phishing email calls for every user to adopt best practices for phishing attacks regardless of operating system, Trend Micro concludes.
+
+Mean Scored Summary
+-------------------
+New macOS Backdoor Linked to Cyber-espionage Group
+
+A recently discovered macOS backdoor is believed to be a new version of malware previously associated with the OceanLotus cyber-espionage group, Trend Micro says. The newly discovered macOS backdoor, which Trend Micro detects as OSX_OCEANLOTUS.D, has been observed on machines that have the Perl programming language installed. The document contains malicious, obfuscated macros with a payload written in Perl. Malicious attacks targeting Mac devices are not as common as its counterparts, but the discovery of this new macOS backdoor that is presumably distributed via phishing email calls for every user to adopt best practices for phishing attacks regardless of operating system, Trend Micro concludes.
+
+Post 8 .......................................................................
+https://www.securityweek.com/breaches-increasingly-discovered-internally-mandiant
+
+Top N Summary
+-------------
+Breaches Increasingly Discovered Internally: Mandiant
+
+Organizations are getting increasingly better at discovering data breaches on their own, with more than 60% of intrusions in 2017 detected internally, according to FireEye-owned Mandiant. The companys M-Trends report for 2018 shows that the global median time for internal detection dropped to 57.5 days in 2017, compared to 80 days in the previous year. Of the total number of breaches investigated by Mandiant last year, 62% were discovered internally, up from 53% in 2016. Last year, FireEye assigned names to four state-sponsored threat groups, including the Vietnam-linked APT32 (OceanLotus), and the Iran-linked APT33, APT34 (OilRig), and APT35 (NewsBeef, Newscaster and Charming Kitten). Today they leverage strategic web compromises (SWC) to ensnare more victims, and concurrently maintain persistence across multiple organizations for months and sometimes years.
+
+Mean Scored Summary
+-------------------
+The companys M-Trends report for 2018 shows that the global median time for internal detection dropped to 57.5 days in 2017, compared to 80 days in the previous year. Of the total number of breaches investigated by Mandiant last year, 62% were discovered internally, up from 53% in 2016. Today they leverage strategic web compromises (SWC) to ensnare more victims, and concurrently maintain persistence across multiple organizations for months and sometimes years.
+

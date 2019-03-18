@@ -1,0 +1,394 @@
+Post 1 .......................................................................
+https://www.crowdstrike.com/blog/two-birds-one-stone-panda/
+
+Top N Summary
+-------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data.
+
+Mean Scored Summary
+-------------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. From there, a trail of overlapping registrant details reveals ZHANGs hanzi characters for his name (), likely one of his personal home addresses, potential work addresses and several email addresses:
+
+long@xiaohong[. ]org
+baobei@xiaohong[. ]org
+atreexp@yahoo[. ]com.cn 
+robin4700@foxmail[. ]com
+eshilong@vip.qq[. As the IntrusionTruth blog post mentions, it is a registered firm with two listed representatives, Fang Ting () and Sun Lei (), and a listed address of 1906 Fuyu Mansion (1-1906). This is interesting considering STONE PANDAs extensive targeting of Japanese defense firms after this time period, but it is by no means conclusive evidence that the firm is connected to STONE PANDA. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data. As such, CrowdStrike Falcon Intelligence assesses that although Boyusec may have shuttered, elements of GOTHIC PANDA are likely to still be active.
+
+Post 2 .......................................................................
+https://www.crowdstrike.com/blog/whois-anchor-panda/
+
+Top N Summary
+-------------
+What adversary, you may ask? Some in the community refer to the adversary by the malware detection name from a specific anti-virus vendor, e.g. This is where we are going to run into problems  we are starting to develop the same naming schemes as A/V, which will eventually lead to confusion. This is an adversary that CrowdStrike has tracked extensively over the last year targeting both civilian and military maritime operations in the green/brown water regions primarily in the area of operations of the South Sea Fleet of the PLA Navy. alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA - Adobe Gh0st Beacon"; flow: established, to_server; content: "Adobe"; offset: 0; depth: 5; content: "|e0 00 00 00 78 9c|"; distance: 4; within: 15; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $CONTROLLER any -> $VICTIM any (msg: "[CrowdStrike] ANCHOR PANDA - Poison Ivy Keep-Alive - From Controller"; dsize: 48; flow: established, from_server; content: "|54 90 1d b0 18 1b 7c ce f4 5b 24 2f ec c7 d2 21|"; depth: 16; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA - Poison Ivy Keep-Alive - From Victim"; dsize: 48; flow: established, to_server; content: "|af c0 bb 65 5d 07 e0 0d bf ab 75 2f 82 79 ae 26|"; depth: 16; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA Torn RAT Beacon Message Header Local"; flow: established, to_server; dsize: 16; content: "|00 00 00 11 c8 00 00 00 00 00 00 00 00 00 00 00|"; depth: 16; flowbits: set,toread_header; flowbits: noalert; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA Torn RAT Beacon Message"; dsize: 200; flow: to_server,established; flowbits: isset,toread_header; content: "|40 7e 7e 7e|"; offset: 196; depth: 4; sid: xxx; rev: 1; reference: url, https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+
+Be sure to follow @CrowdStrike on Twitter as we continue to provide more intelligence and adversaries over the coming weeks.
+
+Mean Scored Summary
+-------------------
+What adversary, you may ask? Some in the community refer to the adversary by the malware detection name from a specific anti-virus vendor, e.g. This is where we are going to run into problems  we are starting to develop the same naming schemes as A/V, which will eventually lead to confusion. This is an adversary that CrowdStrike has tracked extensively over the last year targeting both civilian and military maritime operations in the green/brown water regions primarily in the area of operations of the South Sea Fleet of the PLA Navy. alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA - Adobe Gh0st Beacon"; flow: established, to_server; content: "Adobe"; offset: 0; depth: 5; content: "|e0 00 00 00 78 9c|"; distance: 4; within: 15; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $CONTROLLER any -> $VICTIM any (msg: "[CrowdStrike] ANCHOR PANDA - Poison Ivy Keep-Alive - From Controller"; dsize: 48; flow: established, from_server; content: "|54 90 1d b0 18 1b 7c ce f4 5b 24 2f ec c7 d2 21|"; depth: 16; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA - Poison Ivy Keep-Alive - From Victim"; dsize: 48; flow: established, to_server; content: "|af c0 bb 65 5d 07 e0 0d bf ab 75 2f 82 79 ae 26|"; depth: 16; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA Torn RAT Beacon Message Header Local"; flow: established, to_server; dsize: 16; content: "|00 00 00 11 c8 00 00 00 00 00 00 00 00 00 00 00|"; depth: 16; flowbits: set,toread_header; flowbits: noalert; sid: xxx; rev: 1; reference: url,https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+alert tcp $VICTIM any -> $CONTROLLER any (msg: "[CrowdStrike] ANCHOR PANDA Torn RAT Beacon Message"; dsize: 200; flow: to_server,established; flowbits: isset,toread_header; content: "|40 7e 7e 7e|"; offset: 196; depth: 4; sid: xxx; rev: 1; reference: url, https://www.crowdstrike.com/blog/whois-anchor-panda/index.html; )
+
+
+Be sure to follow @CrowdStrike on Twitter as we continue to provide more intelligence and adversaries over the coming weeks.
+
+Post 3 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/12/apt1-threat-actors-breaches.html
+
+Top N Summary
+-------------
+This was highlighted by our APT1 report and the growing awareness that cybersecurity threats aren't just irritating, they severely impact an organization's bottom line. In case you missed some of our most read posts, here is a list that will give you insight into what content was top of mind with our Suite Spot M-Unition readers:  Mandiant Exposes APT1 - One of China's Cyber Espionage Units & Releases 3,000 Indicators  The Mandiant Intelligence Center released an unprecedented report exposing APT1s multi-year, enterprise-scale computer espionage campaign. Chinese Leadership Change and the Advanced Persistent Threat  We at Mandiant have considered the strategic impact of the Chinese change in leadership and its impact on Advanced Persistent Threat (APT) groups and the current cyber espionage campaign that has been traced back to the PRC. However, we can confirm that APT1 continues cyber espionage operations against targeted computer networks. In this post, Richard Bejtlich writes about his first experiences learning to find intruders when he served in the Air Force Computer Emergency Response Team (AFCERT).
+
+Mean Scored Summary
+-------------------
+This was highlighted by our APT1 report and the growing awareness that cybersecurity threats aren't just irritating, they severely impact an organization's bottom line. In case you missed some of our most read posts, here is a list that will give you insight into what content was top of mind with our Suite Spot M-Unition readers:  Mandiant Exposes APT1 - One of China's Cyber Espionage Units & Releases 3,000 Indicators  The Mandiant Intelligence Center released an unprecedented report exposing APT1s multi-year, enterprise-scale computer espionage campaign. However, we can confirm that APT1 continues cyber espionage operations against targeted computer networks. In this post, Richard Bejtlich writes about his first experiences learning to find intruders when he served in the Air Force Computer Emergency Response Team (AFCERT).
+
+Post 4 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/02/netizen-research-bolsters-apt1-attribution.html
+
+Top N Summary
+-------------
+This apartment complex is only a 600-meter walk away from the Unit 61398 headquarters building, as depicted in Figure 3. "[2] Furthermore, a person named Mei Qiang () co-authored two papers in 2007 and 2008 that are associated with the PLAIEU. However, if it is, it would indicate that he was probably a student at SJTU when he posed his question about Chinese cyber troops to Zhang Zhaozhong. An article published in the China Digital Times disclosed a 2004 recruitment notice on the Zhejiang University website advertising, "Unit 61398 of China's People's Liberation Army (located in Pudong District, Shanghai) seeks to recruit 2003-class computer science graduate students." But if you have to do more work to deny something than to accept it, you might want to reconsider your chain of logic.
+
+Mean Scored Summary
+-------------------
+We are excited to see people using our data, both for online research and for their network defense. In this post we want to highlight and summarize information that others have discovered. This apartment complex is only a 600-meter walk away from the Unit 61398 headquarters building, as depicted in Figure 3. On his blog, Cyb3rsleuth disclosed a person using the username "Superhard_M" and the email address mei_qiang_82@hotmail.com. "[2] Furthermore, a person named Mei Qiang () co-authored two papers in 2007 and 2008 that are associated with the PLAIEU. However, if it is, it would indicate that he was probably a student at SJTU when he posed his question about Chinese cyber troops to Zhang Zhaozhong. An article published in the China Digital Times disclosed a 2004 recruitment notice on the Zhejiang University website advertising, "Unit 61398 of China's People's Liberation Army (located in Pudong District, Shanghai) seeks to recruit 2003-class computer science graduate students." Finally, our thanks to Wendy Nather, who expanded on our Occam's Razor arguments in her Idoneous Security blog. But if you have to do more work to deny something than to accept it, you might want to reconsider your chain of logic. This is when we discovered an unfortunate typo in the video narration script, which read "7729" instead of "7229" that was on the screen. The number was correctly published as "7229" in our main report.
+
+Post 5 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/05/apt1-months-significantly-impacted-active-rebuilding.html
+
+Top N Summary
+-------------
+The scale and impact of APT1s operations compelled us to write the report and release more than 3,000 Indicators to help organizations defend against APT1's tactics. However, we can confirm that APT1 continues cyber espionage operations against targeted computer networks. Since the report, APT1 has stopped using the vast majority of the infrastructure that was disclosed with the release of the indicators. The discovery and attribution of APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Unit Cover Designator 61398) also elevated the public dialogue about cyber espionage and the theft of intellectual property to a level not seen before. The subject of Chinese attacks, such as those conducted by APT1, seems poised to stay front and center on the diplomatic agenda where, according to the New York Times , it will be a "central issue in an upcoming visit to China by President Obama's national security adviser, Thomas Donilon."
+
+Mean Scored Summary
+-------------------
+However, we can confirm that APT1 continues cyber espionage operations against targeted computer networks. Since the report, APT1 has stopped using the vast majority of the infrastructure that was disclosed with the release of the indicators. The discovery and attribution of APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Unit Cover Designator 61398) also elevated the public dialogue about cyber espionage and the theft of intellectual property to a level not seen before. The subject of Chinese attacks, such as those conducted by APT1, seems poised to stay front and center on the diplomatic agenda where, according to the New York Times , it will be a "central issue in an upcoming visit to China by President Obama's national security adviser, Thomas Donilon."
+
+Post 6 .......................................................................
+https://www.fireeye.com//blog/executive-perspective/2014/04/apt1-the-state-of-the-hack-one-year-later.html
+
+Top N Summary
+-------------
+A little over a year ago, Mandiant released a report that brought the term Advanced Persistent Threat (APT) into the public conversation and made these types of targeted attacks top of mind for government and commercial organizations around the world. Recently, FireEye COO, Kevin Mandia took the stage at RSA USA 2014 to take a look back and share his perspective on the activities that led to the release of the APT1 report and the aftermath. While the initial report caused a media frenzy, unquestionably, the most important part of the story is the aftermath. Mandiant released the report to elevate the dialogue and address the frustration of organizations that were throwing money at cybersecurity problems and still facing attacks. Watch the video below for Kevins full speech and feel free to drop a comment below to continue the discussion.
+
+Mean Scored Summary
+-------------------
+A little over a year ago, Mandiant released a report that brought the term Advanced Persistent Threat (APT) into the public conversation and made these types of targeted attacks top of mind for government and commercial organizations around the world. Recently, FireEye COO, Kevin Mandia took the stage at RSA USA 2014 to take a look back and share his perspective on the activities that led to the release of the APT1 report and the aftermath.
+
+Post 7 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/02/threat-actors-mandiant-apt1-report-spear-phishing-lure.html
+
+Top N Summary
+-------------
+Today, Mandiant learned of at least two malicious versions of our APT1 report that attempt to lure users into opening PDF documents titled "Mandiant" and "Mandiant_APT2_Report. " We are currently tracking the threat actors behind the activity and have no indication that APT1 itself is associated with either variant. Symantec and Brandon Dixon's 9B+ blog uncovered the two permutations of the report. Reports downloaded, previously and currently from our website, do not contain exploits. We recommend that you only retrieve Mandiant's reports from: http://intelreport.mandiant.com , then check the hash of the downloaded files against the hashes posted on our web site.
+
+Mean Scored Summary
+-------------------
+Today, Mandiant learned of at least two malicious versions of our APT1 report that attempt to lure users into opening PDF documents titled "Mandiant" and "Mandiant_APT2_Report. " Symantec and Brandon Dixon's 9B+ blog uncovered the two permutations of the report. We recommend that you only retrieve Mandiant's reports from: http://intelreport.mandiant.com , then check the hash of the downloaded files against the hashes posted on our web site.
+
+Post 8 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/02/mandiant-exposes-apt1-chinas-cyber-espionage-units.html
+
+Top N Summary
+-------------
+Today, The Mandiant Intelligence Center released an unprecedented report exposing APT1's multi-year, enterprise-scale computer espionage campaign. Highlights of the report include:   Evidence linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). A timeline of APT1 economic espionage conducted since 2006 against 141 victims across multiple industries. APT1's modus operandi (tools, tactics, procedures) including a compilation of videos showing actual APT1 activity. We hope that this report will lead to increased understanding and coordinated action in countering APT network breaches.
+
+Mean Scored Summary
+-------------------
+Today, The Mandiant Intelligence Center released an unprecedented report exposing APT1's multi-year, enterprise-scale computer espionage campaign. Highlights of the report include:   Evidence linking APT1 to China's 2nd Bureau of the People's Liberation Army (PLA) General Staff Department's (GSD) 3rd Department (Military Cover Designator 61398). A timeline of APT1 economic espionage conducted since 2006 against 141 victims across multiple industries. We hope that this report will lead to increased understanding and coordinated action in countering APT network breaches.
+
+Post 9 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/02/threat-actors-mandiant-apt1-report-spear-phishing-nitty.html
+
+Top N Summary
+-------------
+Before executing its payload the malware creates a thread that will monitor for windows created containing text related to AVG firewall notifications. An additional buffer is then decoded within the decoded shellcode using a single byte XOR key of 0xFF . The malware then attempts to connect to the configured server at itsec.eicp.net using TCP port 443 to download files to the infected system. The clean PDF is then displayed for the user while AdobeARM.exe is executed in the background. The malware takes the hostname string (up to 0x14 characters), increments each character by one and then appends the language ID string.
+
+Mean Scored Summary
+-------------------
+As we noted yesterday , Brandon Dixon's 9B+ blog and Symantec reported the discovery of two malicious versions of our APT1 report. The malware executes its main functionality from an embedded shellcode payload. Before executing its payload the malware creates a thread that will monitor for windows created containing text related to AVG firewall notifications. An additional buffer is then decoded within the decoded shellcode using a single byte XOR key of 0xFF . The malware then attempts to connect to the configured server at itsec.eicp.net using TCP port 443 to download files to the infected system. Other indicators include:   It creates the following mutexes: "0x1A7B4C9F" and "0123456AB"  Creates the registry key: HKCUSoftwareMicrosoftWindowsCurrentVersionRunLoad: %TEMP% AdobeArm.tmp   PDF2 - Japanese email reported by Symantec  MD5: 2A42BF17393C3CAAA663A6D1DADE9C93  The second PDF appears to be targeting Japanese entities, as identified by Symantec. The clean PDF is then displayed for the user while AdobeARM.exe is executed in the background. At this point AdobeARM.exe has the ability to communicate out to several different servers on port 80. The malware takes the hostname string (up to 0x14 characters), increments each character by one and then appends the language ID string.
+
+Post 10 .......................................................................
+https://www.fireeye.com//blog/threat-research/2013/03/md5-sha1.html
+
+Top N Summary
+-------------
+The following are MD5 and SHA1 hashes for the DER encoded SSL certificates released in Appendix F of the recent Mandiant APT1 report . We are releasing these to aid network detection of APT1 SSL-encrypted malware traffic. SIGNATURES  MD5  SHA1
+
+Mean Scored Summary
+-------------------
+The following are MD5 and SHA1 hashes for the DER encoded SSL certificates released in Appendix F of the recent Mandiant APT1 report .
+
+Post 11 .......................................................................
+https://www.fireeye.com//blog/threat-research/2014/05/the-pla-and-the-800am-500pm-work-day-fireeye-confirms-dojs-findings-on-apt1-intrusion-activity.html
+
+Top N Summary
+-------------
+At the time it was originally released, China denounced the report, saying that it lacked sufficient evidence . The evidence provided in the indictment includes Exhibit F (pages 54-56), which shows three charts based on Dynamic DNS data. These charts indicate that the named defendants (Unit 61398 members) were re-pointing their domain names at a Dynamic DNS provider during Chinese business hours from 2008 to 2013. The charts also show that there were very few changes in Dynamic DNS resolution on weekends. Our timestamp data, derived from active RDP logins over a two year period, matches the DOJs timestamp data, derived from a different source -- active Dynamic DNS re-pointing over a five year period.
+
+Mean Scored Summary
+-------------------
+At the time it was originally released, China denounced the report, saying that it lacked sufficient evidence . The evidence provided in the indictment includes Exhibit F (pages 54-56), which shows three charts based on Dynamic DNS data. These charts indicate that the named defendants (Unit 61398 members) were re-pointing their domain names at a Dynamic DNS provider during Chinese business hours from 2008 to 2013. They usually close on Saturday, Sunday and public holidays." The charts also show that there were very few changes in Dynamic DNS resolution on weekends. In order to make a users experience as seamless as possible, the Remote Desktop protocol requires client applications to forward several important details to the server, including their client hostname and the client keyboard layout. Our timestamp data, derived from active RDP logins over a two year period, matches the DOJs timestamp data, derived from a different source -- active Dynamic DNS re-pointing over a five year period.
+
+Post 12 .......................................................................
+https://www.fireeye.com//company/press-releases/2014/fireeye-to-discuss-post-apt1-world-shortcomings-of-anti-virus-at-rsa-conference-2014.html
+
+Top N Summary
+-------------
+FireEye, Inc. (NASDAQ: FEYE), the leader in stopping todays advanced
+cyber attacks, today announced it will participate in four sessions at RSA Conference 2014 , February 24 th through February 28 th in San Francisco. Attendees of RSA Conference 2014 in San Francisco will be able to
+view live demonstrations of the expanded FireEye Security Platform at
+the FireEye booth (North Expo #2813) from February 24 27, 2014. About FireEye, Inc.   FireEye has invented a purpose-built, virtual machine-based
+security platform that provides real-time threat protection to
+enterprises and governments worldwide against the next generation of
+cyber attacks. Media Contact  Vitor De Souza  FireEye, Inc.  vitor.desouza@fireeye.com  (415) 699-9838  # # #   2014 FireEye, Inc. All rights reserved. All other brands, products, or service
+names are or may be trademarks or service marks of their respective owners.
+
+Mean Scored Summary
+-------------------
+FireEye, Inc. (NASDAQ: FEYE), the leader in stopping todays advanced
+cyber attacks, today announced it will participate in four sessions at RSA Conference 2014 , February 24 th through February 28 th in San Francisco. Attendees of RSA Conference 2014 in San Francisco will be able to
+view live demonstrations of the expanded FireEye Security Platform at
+the FireEye booth (North Expo #2813) from February 24 27, 2014. About FireEye, Inc.   FireEye has invented a purpose-built, virtual machine-based
+security platform that provides real-time threat protection to
+enterprises and governments worldwide against the next generation of
+cyber attacks. Media Contact  Vitor De Souza  FireEye, Inc.  vitor.desouza@fireeye.com  (415) 699-9838  # # #   2014 FireEye, Inc. All rights reserved. All other brands, products, or service
+names are or may be trademarks or service marks of their respective owners.
+
+Post 13 .......................................................................
+https://securelist.com/ksb-threat-predictions-for-2018/83169/
+
+Top N Summary
+-------------
+This allows us to understand the actual attack surface and attacker tactics and to further hone our hunting and detection to address new attacks. Our assessment is that the total number of mobile malware existing in the wild is likely higher than currently reported, due to shortcomings in telemetry that makes these more difficult to spot and eradicate. While many have grown desensitized to the weight of these breaches, its important to understand that the release of PII at scale endangers a fundamental pillar of e-commerce and the bureaucratic convenience of adopting the Internet for important paperwork. Perhaps thus far resilient alternatives like ApplePay will come into vogue as de facto means of insuring identity and transactions, but in the meantime we may see a slowdown in the critical role of the Internet for modernizing tedious bureaucratic processes and cutting operational costs. At a time of increased interest in misdirection and false flags, this is no small feat.
+
+Mean Scored Summary
+-------------------
+Download the Kaspersky Security Bulletin: Threat Predictions for 2018  Introduction  As hard as it is to believe, its once again time for our APT Predictions. This allows us to understand the actual attack surface and attacker tactics and to further hone our hunting and detection to address new attacks. Our assessment is that the total number of mobile malware existing in the wild is likely higher than currently reported, due to shortcomings in telemetry that makes these more difficult to spot and eradicate. In 2018, we estimate that destructive attacks will continue to rise, leveraging its status as the most visible type of cyberwarfare. In March 2017, IoT encryption scheme proposals developed by the NSA came into question with Simon and Speck variant ISO approvals being both withdrawn and delayed a second time . While many have grown desensitized to the weight of these breaches, its important to understand that the release of PII at scale endangers a fundamental pillar of e-commerce and the bureaucratic convenience of adopting the Internet for important paperwork. Perhaps thus far resilient alternatives like ApplePay will come into vogue as de facto means of insuring identity and transactions, but in the meantime we may see a slowdown in the critical role of the Internet for modernizing tedious bureaucratic processes and cutting operational costs. At a time of increased interest in misdirection and false flags, this is no small feat.
+
+Post 14 .......................................................................
+https://securelist.com/it-threat-evolution-in-q2-2016-overview/75615/
+
+Top N Summary
+-------------
+Download the full report (PDF)  Targeted attacks and malware campaigns  Cha-ching! Skimming off the cream  Earlier in the year, as part of an incident response investigation, we uncovered a new version of the Skimer ATM malware
+
+Mean Scored Summary
+-------------------
+Download the full report (PDF)  Targeted attacks and malware campaigns  Cha-ching!
+
+Post 15 .......................................................................
+https://securelist.com/cve-2015-2545-overview-of-current-threats/74828/
+
+Top N Summary
+-------------
+The error enables an attacker to execute arbitrary code using a specially crafted EPS image file. In this research paper, we discuss examples of attacks using the CVE-2015-2545 vulnerability undertaken by some of these groups. The document is written in good Japanese, as shown below. For information about the service, please write to intelreports@kaspersky.com . Danti attacks  Danti (Kaspersky Labs internal name) is an APT actor that has been active at least since 2015, predominantly targeting Indian government organizations.
+
+Mean Scored Summary
+-------------------
+The error enables an attacker to execute arbitrary code using a specially crafted EPS image file. Over the following months, there was significant growth in the number of threat actors using the vulnerability as a primary tool for initial penetration, with both the attack groups and their targets located in South-East and Central Asia and the Far East. In this research paper, we discuss examples of attacks using the CVE-2015-2545 vulnerability undertaken by some of these groups. Its attacks can be traced as far back as 2009. The group is notable for exploiting 0-day vulnerabilities and carrying out a small number of highly focused targeted attacks  mostly against government agencies in Malaysia, Indonesia, China and India. In order to infect victims, the attacker sent an email with an attached DOCX file exploiting the CVE-2015-2545 vulnerability in Microsoft Office using an embedded EPS (Encapsulated Postscript) object. The document is written in good Japanese, as shown below. This attack was also described in the FireEye report , mentioned above. For information about the service, please write to intelreports@kaspersky.com . Danti attacks  Danti (Kaspersky Labs internal name) is an APT actor that has been active at least since 2015, predominantly targeting Indian government organizations.
+
+Post 16 .......................................................................
+https://securelist.com/it-threat-evolution-q1-2013/36660/
+
+Top N Summary
+-------------
+The cybercriminals used Twitter in this attack: in order to obtain C&C server addresses and subsequently download new malicious modules, the backdoor sought out special tweets from previously created accounts. The operation was dubbed  TeamSpy , as the remote admin program TeamViewer was used by the attackers to control victim computers. Two weeks later, Facebook issued a statement that the computers of several of the companys staff members had been infected by exploits during visits to a mobile developer site. (18.78%), an adware Trojan ranked second. Microsoft, Mozilla, and Google all revoked two root certificates issued by the certificate authority TurkTrust, thus removing them from their respective browser databases.
+
+Mean Scored Summary
+-------------------
+Cyberespionage and cyberweapons  Red October  At the very beginning of the year, Kaspersky Lab published a significant report with the results of a study on the global cyberespionage operation known as Red October . The cybercriminals used Twitter in this attack: in order to obtain C&C server addresses and subsequently download new malicious modules, the backdoor sought out special tweets from previously created accounts. The Mandiant reports starts off by stating that APT1 appears to be a division of the Chinese army. The operation was dubbed  TeamSpy , as the remote admin program TeamViewer was used by the attackers to control victim computers. Its likely that we will find out even more information in the future. Two weeks later, Facebook issued a statement that the computers of several of the companys staff members had been infected by exploits during visits to a mobile developer site. (18.78%), an adware Trojan ranked second. Third and fourth place both went to SMS Trojans from the Opfake family: Trojan-SMS.AndroidOS.Opfake.a (12.23%) and Trojan-SMS.AndroidOS.Opfake.bo (11.49%). It spread via unofficial Chinese app stores with popular, cracked games. To do so, the Trojans stealthily download and install apps on the victims mobile device, and then give that app the highest possible rating in the app store. Microsoft, Mozilla, and Google all revoked two root certificates issued by the certificate authority TurkTrust, thus removing them from their respective browser databases.
+
+Post 17 .......................................................................
+https://www.securityweek.com/operation-oceansalt-reuses-code-chinese-group-apt1
+
+Top N Summary
+-------------
+Dubbed Oceansalt, the malware implant used in the new campaign shows code similarities with a tool employed by APT1, namely Seasalt. Waves four and five targeted a small number of entities outside of South Korea, including the U.S. and Canada. Oceansalt and Seasalt, McAfee notes, not only contain two exact same strings (Upfileer and Upfileok), but also show similarities in command handler and index table, and execute their capabilities in the same way. Our research shows that Comment Crews malware in part lives on in different forms employed by another advanced persistent threat group operating primarily against South Korea. Related: Researchers Say Code Reuse Links North Korea's Malware
+Related: 'GreyEnergy' Cyberspies Target Ukraine, Poland
+
+Mean Scored Summary
+-------------------
+The newly observed campaign is unlikely the work of APT1, which has remained silent ever since the Mandiant report half a decade ago. Dubbed Oceansalt, the malware implant used in the new campaign shows code similarities with a tool employed by APT1, namely Seasalt. Waves four and five targeted a small number of entities outside of South Korea, including the U.S. and Canada. Oceansalt and Seasalt, McAfee notes, not only contain two exact same strings (Upfileer and Upfileok), but also show similarities in command handler and index table, and execute their capabilities in the same way. Furthermore, both use the exact same response codes to indicate the success or failure of command execution. Our research shows that Comment Crews malware in part lives on in different forms employed by another advanced persistent threat group operating primarily against South Korea. This research represents how threat actors including nation-states might collaborate on their campaigns, McAfee concludes. Related: Researchers Say Code Reuse Links North Korea's Malware
+Related: 'GreyEnergy' Cyberspies Target Ukraine, Poland
+
+Post 18 .......................................................................
+https://www.securityweek.com/lessons-mandiant%E2%80%99s-apt1-report
+
+Top N Summary
+-------------
+In this article I will summarize some of the key indicators as well as some of the techniques that may help you find other indicators of advanced attacks in your network. Far too often, a security vendor will report about how they uncovered a breach, but often lack the details that would help real infosec professionals to better do their job. But the point is rather that highly targeted phishing can be constructed to fool even savvy well-trained users, and we cant rely on training to solve the problem on its own. The report also shared that once the infection was established, the attackers would often rely on RDP (remote desktop protocol) to administer the ongoing attack. Once it was time to steal data, the attackers predominantly relied on FTP.
+
+Mean Scored Summary
+-------------------
+Lessons from Mandiants APT1 Report
+
+Last week Mandiant released a powerful report that exposed what certainly appears to be a state-sponsored hacking initiative from China, dubbed by Mandiant as APT1. In this article I will summarize some of the key indicators as well as some of the techniques that may help you find other indicators of advanced attacks in your network. 3,000 Indicators
+It was certainly heartwarming to see Mandiant release a large number of very specific indicators of APT1 that security teams can put to good use. Far too often, a security vendor will report about how they uncovered a breach, but often lack the details that would help real infosec professionals to better do their job. In this report, Mandiant has done the industry a solid by disclosing a variety of very specific indicators that they have been able to tie to APT1, including domains used by the attacking infrastructure, SSL certificates used to encrypt the attackers traffic, MD5 hashes of APT1 malware and a variety of other open-source indicators of compromise. The indicators of compromise delve more deeply into the techniques of the attackers as opposed to certs and domain, which are effectively disposable. But the point is rather that highly targeted phishing can be constructed to fool even savvy well-trained users, and we cant rely on training to solve the problem on its own. Instead, we need to proactively test and analyze content to programmatically determine if it is malicious or benign. The report also shared that once the infection was established, the attackers would often rely on RDP (remote desktop protocol) to administer the ongoing attack. RDP has been strongly linked to advanced attacks shared in a variety of other reports, including this years Verizon Data Breach Report. Once it was time to steal data, the attackers predominantly relied on FTP.
+
+Post 19 .......................................................................
+https://www.securityweek.com/lockheed-attackers-went-quiet-after-apt1-report-exposed-chinese-hackers
+
+Top N Summary
+-------------
+Since the Mandiant report came out, we saw an immediate decrease in attacks, Charles Charlie Croom, VP of Cyber Strategy and Government Relations at Lockheed Martin Information Systems & Global Solutions, told SecurityWeek. Were glad Mandiant stood up, Croom said. They will go to a supplier who has the connection to Lockheed Martin from an IT perspective, or even in a sharing of documentation, Durst said. Even if it were two years, thats not necessarily an indication that they have gone away, Durst said. When asked if they were able to trace the attacks back to China, Croom reiterated the companys policy of non-attribution.
+
+Mean Scored Summary
+-------------------
+The threat actor group, dubbed APT1 by FireEye-owned Mandiant, is alleged to be one of the most persistent of China's cyber threat actors, which the security firm claims has systematically stolen hundreds of terabytes of data from at least 141 organizations. Since the Mandiant report came out, we saw an immediate decrease in attacks, Charles Charlie Croom, VP of Cyber Strategy and Government Relations at Lockheed Martin Information Systems & Global Solutions, told SecurityWeek. While Mandiants report was met with criticism by some, particularly around the challenges of attribution, its clear that the report had a significant impact and triggered a reaction from the alleged state sponsored threat actors. Were glad Mandiant stood up, Croom said. The good news is that they are not attacking Lockheed Martin any more because we are too hard, so they are going to our suppliers, he said. They will go to a supplier who has the connection to Lockheed Martin from an IT perspective, or even in a sharing of documentation, Durst said. Even if it were two years, thats not necessarily an indication that they have gone away, Durst said. When asked if they were able to trace the attacks back to China, Croom reiterated the companys policy of non-attribution.
+
+Post 20 .......................................................................
+https://www.securityweek.com/cyber-unit-chinas-pla-behind-massive-cyber-espionage-operation-report
+
+Top N Summary
+-------------
+Mandiant believes APT1 is the 2nd Bureau of the Peoples Liberation Army (PLA) General staff Departments (GSD) 3rd Department, commonly known by its Military unit Cover Designator (MUCD) as Unit 61398. Mandiant said that it was able to confirm 937 command and control servers running on 849 distinct IP addresses and has confirmed 2,551 domain names attributed to APT1 in the last several years. Mandiant highlighted an attack in 2008 that compromised the network of a company involved in a wholesale industry. In late January, The New York Times said hackers stole corporate passwords and targeted the computers of 53 employees including former Beijing bureau chief Jim Yardley, who is now the South Asia bureau chief at the Times based in India, after the newspaper published a report on the vast wealth amassed by Premier Wen Jiabao's family. We are acutely aware of the risk this report poses for us, Mandiant noted.
+
+Mean Scored Summary
+-------------------
+Mandiant believes APT1 is the 2nd Bureau of the Peoples Liberation Army (PLA) General staff Departments (GSD) 3rd Department, commonly known by its Military unit Cover Designator (MUCD) as Unit 61398. Mandiant said that it was able to confirm 937 command and control servers running on 849 distinct IP addresses and has confirmed 2,551 domain names attributed to APT1 in the last several years. APT1s targets include organizations across a broad range of industries, mainly in the United States and other English-speaking countries. Mandiant highlighted an attack in 2008 that compromised the network of a company involved in a wholesale industry. "Not only are reports that China's army has been involved in hacking unprofessional, they do not fit with the facts," China's defense ministry said in a statement to AFP. In late January, The New York Times said hackers stole corporate passwords and targeted the computers of 53 employees including former Beijing bureau chief Jim Yardley, who is now the South Asia bureau chief at the Times based in India, after the newspaper published a report on the vast wealth amassed by Premier Wen Jiabao's family. We are acutely aware of the risk this report poses for us, Mandiant noted.
+
+Post 21 .......................................................................
+https://www.securityweek.com/chinas-apt1-changing-tactics-rebuilding-mandiant
+
+Top N Summary
+-------------
+"APT1 is still active using a well-coordinated and well-defined attack methodology against a wide set of industries -- with a discernible post-report shift towards new tools and infrastructure," wrote Dan Mcwhorter, Mandiant's managing director for threat intelligence. The report was the first time a private sector company had laid out evidence to link the China to cyber-espionage campaigns against businesses and government entities around the world. "APT1 has stopped using the vast majority of the infrastructure that was disclosed with the release of the indicators," Mcwhorter wrote. The group has not been knocked out yet, as it probably still has access to an extensive infrastructure of computers around the world. Mandiant noted that APT1 is only one of more than 20 Advanced Persistent Threat groups operating out of China that the company is aware of.
+
+Mean Scored Summary
+-------------------
+"APT1 is still active using a well-coordinated and well-defined attack methodology against a wide set of industries -- with a discernible post-report shift towards new tools and infrastructure," wrote Dan Mcwhorter, Mandiant's managing director for threat intelligence. "APT1 has stopped using the vast majority of the infrastructure that was disclosed with the release of the indicators," Mcwhorter wrote. The group has not been knocked out yet, as it probably still has access to an extensive infrastructure of computers around the world. Mandiant noted that APT1 is only one of more than 20 Advanced Persistent Threat groups operating out of China that the company is aware of.
+
+Post 22 .......................................................................
+https://www.securityweek.com/chinese-whispers-chinese-lies-analyzing-mandiants-apt1-report
+
+Top N Summary
+-------------
+It is also worth pointing out that many of the subsequent conclusions are based on huge leaps of faith and many assumptions. When pressed if the Comment Crew were more regimented than a group of freelancers, Richard Bejtlich, the CEO of Mandiant retorts, Other units are more regimented and have better opsec [or operational security,] and thats why we didnt talk about them.
+It seems just a little bit as though Mandiant caught a Minnow, and back at the pub with each telling the arms go wider apart taking on the size of a pike. Once again, a surefire sign that military or intelligence services operational security are not being followed by these kinds of threat actors. Probably not for past, present and future victims. Related Reading: A Convenient Scapegoat - Why All Cyber Attacks Originate in China
+
+Mean Scored Summary
+-------------------
+It is also worth pointing out that many of the subsequent conclusions are based on huge leaps of faith and many assumptions. When pressed if the Comment Crew were more regimented than a group of freelancers, Richard Bejtlich, the CEO of Mandiant retorts, Other units are more regimented and have better opsec [or operational security,] and thats why we didnt talk about them.
+It seems just a little bit as though Mandiant caught a Minnow, and back at the pub with each telling the arms go wider apart taking on the size of a pike. If you have followed the news and reports coming out from China the past years, and especially the last months, you will have heard of widespread governmental and industrial and economic corruption. Once again, a surefire sign that military or intelligence services operational security are not being followed by these kinds of threat actors. In addition, many of the interest groups that are benefitting from these activities have a stake in the government and judging by other behavior will work against any attempt to limit them. Probably not for past, present and future victims. Related Reading: A Convenient Scapegoat - Why All Cyber Attacks Originate in China
+
+Post 23 .......................................................................
+https://www.securityweek.com/chinas-apt1-still-operating-same-modus-operandi
+
+Top N Summary
+-------------
+Despite being outed after attacks against the New York Times and the Wall Street Journal, they have not changed tactics. Two months ago, the APT1 group (a.k.a. In the example given below, we will highlight that Comment Crew is still conducting exploitation operations. Cyber Squared postulated that the group may have achieved a satisfactory balance of conducting successful exploitation operations with their existing infrastructure and methods, while implementing additional evasion techniques. The February disclosure appears to have done little to stem the onslaught of cyber espionage from this or other Chinese threat groups, the post concluded.
+
+Mean Scored Summary
+-------------------
+Despite being outed after attacks against the New York Times and the Wall Street Journal, they have not changed tactics. Two months ago, the APT1 group (a.k.a. In the example given below, we will highlight that Comment Crew is still conducting exploitation operations. Cyber Squared postulated that the group may have achieved a satisfactory balance of conducting successful exploitation operations with their existing infrastructure and methods, while implementing additional evasion techniques. The February disclosure appears to have done little to stem the onslaught of cyber espionage from this or other Chinese threat groups, the post concluded.
+
+Post 24 .......................................................................
+https://www.securityweek.com/fireeye-denies-hacking-back-against-chinese-cyberspies
+
+Top N Summary
+-------------
+Mandiant, now owned by FireEye, published its famous report on APT1 back in 2013 when it was led by CEO Kevin Mandia. To someone observing this video over the shoulder of one of our investigators, it could appear as live system monitoring. While some industry professionals have accepted FireEyes explanation for obtaining data on the hackers personal online activities, Sangers claims that he saw APT1 members wearing leather jackets raises a lot of questions. In the meantime, experts have provided some more or less plausible explanations on how the reporter may have seen what he believed were the hackers. I never heard anyone talk about hack back operations.
+
+Mean Scored Summary
+-------------------
+Mandiant, now owned by FireEye, published its famous report on APT1 back in 2013 when it was led by CEO Kevin Mandia. To someone observing this video over the shoulder of one of our investigators, it could appear as live system monitoring. While some industry professionals have accepted FireEyes explanation for obtaining data on the hackers personal online activities, Sangers claims that he saw APT1 members wearing leather jackets raises a lot of questions. FireEye has not specifically addressed this issue in its statement, but SecurityWeek is trying to obtain some clarifications from the company. In the meantime, experts have provided some more or less plausible explanations on how the reporter may have seen what he believed were the hackers. During my six year tenure, we were publicly and privately a no hack back company. I never heard anyone talk about hack back operations.
+
+Post 25 .......................................................................
+https://www.securityweek.com/researchers-identify-targeted-attacks-australia
+
+Top N Summary
+-------------
+According to FireEye, the victims in this attack were hand picked, with the opening stage of the attack itself coming via email. After that, a base64-encoded executable embedded in an HTML page is downloaded and ran on the host. In our experiment, since the CnC was not responding, we supplied an encoded notepad.exe in the response. We have observed many variants of this malware; some even try sending hostname and IP address information back to its CnC as part of its User-Agent string in the GET request. One of the variants we observed had IPhone 8.5 in the UA string, which we found interesting.
+Its worth mentioning that FireEyes findings included a list of malware that was previously disclosed by Mandiant in their APT1 report.
+
+Mean Scored Summary
+-------------------
+In our experiment, since the CnC was not responding, we supplied an encoded notepad.exe in the response. We have observed many variants of this malware; some even try sending hostname and IP address information back to its CnC as part of its User-Agent string in the GET request. One of the variants we observed had IPhone 8.5 in the UA string, which we found interesting.
+Its worth mentioning that FireEyes findings included a list of malware that was previously disclosed by Mandiant in their APT1 report.
+
+Post 26 .......................................................................
+https://www.securityweek.com/dust-storm-attackers-target-japanese-critical-infrastructure
+
+Top N Summary
+-------------
+The actor, which experts believe is a well-funded and well-organized group likely associated with a nation-state, relied on watering holes, spear phishing, unique backdoors and zero-day exploits to conduct reconnaissance and espionage. Experts reported that early Operation Dust Storm attacks were relatively unsophisticated and they were easily detected by the security industry. The following year, they leveraged another Internet Explorer zero-day (CVE-2012-1889) in their operations. In March 2013, shortly after Mandiant published a report on the notorious Chinese state-sponsored threat group known as APT1, experts noticed a significant drop in Operation Dust Storm activity until August 2013. In addition to its previous tools, in May 2015, the group added several Android backdoors to its arsenal.
+
+Mean Scored Summary
+-------------------
+The actor, which experts believe is a well-funded and well-organized group likely associated with a nation-state, relied on watering holes, spear phishing, unique backdoors and zero-day exploits to conduct reconnaissance and espionage. The following year, they leveraged another Internet Explorer zero-day (CVE-2012-1889) in their operations. In March 2013, shortly after Mandiant published a report on the notorious Chinese state-sponsored threat group known as APT1, experts noticed a significant drop in Operation Dust Storm activity until August 2013. In addition to its previous tools, in May 2015, the group added several Android backdoors to its arsenal.
+
+Post 27 .......................................................................
+https://www.symantec.com/connect/blogs/hidden-lynx-and-mss-protection
+
+Top N Summary
+-------------
+Hidden Lynx and MSS protection EXECUTIVE SUMMARY: On Tuesday September 17, 2013, Symantecs Security Response organization published a whitepaper report on Hidden Lynx, a Chinese APT group of professional hackers with advanced capabilities. The distribution of Moudoor requires a sizeable number of people to both breach targets and retrieve the information from the compromised networks. The group makes use of regular zero-day exploits. For customers with monitor-only IDS/IPS devices, Symantec MSS stands ready to provide security monitoring for these vulnerabilities once your IDS/IPS vendor releases signatures and those signatures are enabled on your monitored devices. Global Client Services Team Symantec Managed Security Services https://mss.symantec.com
+
+Mean Scored Summary
+-------------------
+Hidden Lynx and MSS protection EXECUTIVE SUMMARY: On Tuesday September 17, 2013, Symantecs Security Response organization published a whitepaper report on Hidden Lynx, a Chinese APT group of professional hackers with advanced capabilities. The distribution of Moudoor requires a sizeable number of people to both breach targets and retrieve the information from the compromised networks. This Trojan was leveraged for a special operation during the VOHO campaign and is probably used by a specific team of highly skilled attackers within the group. The group makes use of regular zero-day exploits. For customers with monitor-only IDS/IPS devices, Symantec MSS stands ready to provide security monitoring for these vulnerabilities once your IDS/IPS vendor releases signatures and those signatures are enabled on your monitored devices. Global Client Services Team Symantec Managed Security Services https://mss.symantec.com
+
+Post 28 .......................................................................
+https://www.symantec.com/connect/blogs/hidden-lynx-professional-hackers-hire
+
+Top N Summary
+-------------
+This group doesnt just limit itself to a handful of targets; instead it targets hundreds of different organizations in many different regions, even concurrently. Given the breadth and number of targets and regions involved, we infer that this group is most likely a professional hacker-for-hire operation that are contracted by clients to provide information. The most notable of these campaigns is the VOHO attack campaign of June, 2012. What was particularly interesting about this attack was the use of the watering hole attack technique and the compromise of Bit9s trusted file signing infrastructure. We have also put together an infographic that summarizes the key information about this prolific Hidden Lynx group.
+
+Mean Scored Summary
+-------------------
+Hidden Lynx  Professional Hackers for Hire For the past few years, reports have continued to emerge detailing the activities of actors behind various targeted attacks or Advanced Persistent Threats (APTs). These supply chain attacks are carried out by infecting computers at a supplier of an intended target and then waiting for the infected computers to be installed and call home, clearly these are cool calculated actions rather than impulsive forays of amateurs. This group doesnt just limit itself to a handful of targets; instead it targets hundreds of different organizations in many different regions, even concurrently. Given the breadth and number of targets and regions involved, we infer that this group is most likely a professional hacker-for-hire operation that are contracted by clients to provide information. The elite team uses a Trojan named Naid and are therefore referred to as Team Naid. The most notable of these campaigns is the VOHO attack campaign of June, 2012. What was particularly interesting about this attack was the use of the watering hole attack technique and the compromise of Bit9s trusted file signing infrastructure. Once breached, the attackers quickly found their way into the file signing infrastructure that was the foundation of the Bit9 protection model, they then used this system to sign a number of malware files and then these files were used in turn to compromise the true intended targets. We have also put together an infographic that summarizes the key information about this prolific Hidden Lynx group.
+
+Post 29 .......................................................................
+https://www.symantec.com/connect/blogs/malicious-mandiant-report-circulation
+
+Top N Summary
+-------------
+Malicious Mandiant Report in Circulation The report, APT1: Exposing One of China's Cyber Espionage Units, published by Mandiant earlier this week has drawn worldwide attention by both the security world and the general public. This interest is due to the conclusion the report has drawn regarding the origin of targeted attacks, using advanced persistent threats (APT), performed by a certain group of attackers dubbed the Comment Crew. When the fake report, which Symantec detects as Trojan.Pidief, is opened, a blank PDF is shown but in the background exploit code for Adobe Acrobat and Reader Remote Code Execution Vulnerability (CVE-2013-0641) is executed. They did this by spamming targets with the actual whitepaper along with malware hidden in an archive attachment. If you want to read the actual Mandiant report, or any other for that matter, we advise you to download it directly from the companys website.
+
+Mean Scored Summary
+-------------------
+Malicious Mandiant Report in Circulation The report, APT1: Exposing One of China's Cyber Espionage Units, published by Mandiant earlier this week has drawn worldwide attention by both the security world and the general public. This interest is due to the conclusion the report has drawn regarding the origin of targeted attacks, using advanced persistent threats (APT), performed by a certain group of attackers dubbed the Comment Crew. When the fake report, which Symantec detects as Trojan.Pidief, is opened, a blank PDF is shown but in the background exploit code for Adobe Acrobat and Reader Remote Code Execution Vulnerability (CVE-2013-0641) is executed.
+
+Post 30 .......................................................................
+https://www.symantec.com/connect/blogs/apt1-additional-comment-crew-indicators-compromise
+
+Top N Summary
+-------------
+Symantec has been actively tracking this group for six years while maintaining our own database of indicators. From our investigations we have collected thousands of indicators related to Comment Crew. To help increase public awareness, we have decided to release hundreds of additional Comment Crew indicators to those already released. You can find these indicators in the following paper: Comment Crew Indicators of Compromise and on Pastebin. Update [February 25, 2013]  Paper now also includes list of associated MD5 hashes.
+
+Mean Scored Summary
+-------------------
+To help increase public awareness, we have decided to release hundreds of additional Comment Crew indicators to those already released. Update [February 25, 2013]  Paper now also includes list of associated MD5 hashes.
+
+Post 31 .......................................................................
+https://www.symantec.com/connect/blogs/apt1-qa-attacks-comment-crew
+
+Top N Summary
+-------------
+The report cites the earliest known public reference about APT1 infrastructure as originating from Symantec. Q: How does a victim get infected? The initial compromise occurs through a spear phishing email sent to the target. There are several IPS signatures to catch threat families associated with this group: System Infected: Trojan.Ecltys Activity 2 System Infected: Barkiofork Malware Activity System Infected: Shady Trojan Activity System Infected: Dalbot Backdoor Activity Q: How will this report affect the Comment Crew operations? Despite the exposure of the Comment Crew, Symantec believes they will continue their activities.
+
+Mean Scored Summary
+-------------------
+The report cites the earliest known public reference about APT1 infrastructure as originating from Symantec. We have detected this threat as Backdoor.Wualess since 2006 and have been actively tracking the group behind these attacks. Symantec confirms protection for attacks associated with the Comment Crew through our antivirus and IPS signatures, as well as STAR malware protection technologies such as our reputation and behavior-based technologies. Q: Has Symantec been aware of the activities of the Comment Crew? Q: Why are they called the Comment Crew? Q: How does a victim get infected? The initial compromise occurs through a spear phishing email sent to the target. Q: Currently, what are the most prevalent threats being used by this group? There are several IPS signatures to catch threat families associated with this group: System Infected: Trojan.Ecltys Activity 2 System Infected: Barkiofork Malware Activity System Infected: Shady Trojan Activity System Infected: Dalbot Backdoor Activity Q: How will this report affect the Comment Crew operations? Despite the exposure of the Comment Crew, Symantec believes they will continue their activities.
+

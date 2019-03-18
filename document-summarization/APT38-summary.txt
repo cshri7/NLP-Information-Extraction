@@ -1,0 +1,39 @@
+Post 1 .......................................................................
+https://www.fireeye.com//blog/threat-research/2018/10/apt38-details-on-new-north-korean-regime-backed-threat-group.html
+
+Top N Summary
+-------------
+The group is particularly aggressive; they regularly use destructive malware to render victim networks inoperable following theft. This report detailed malware and TTPs related to a set of developers and operators they dubbed Lazarus, a name that has become synonymous with aggressive North Korean cyber operations. On average, we have observed APT38 remain within a victim network for approximately 155 days, with the longest time within a compromised environment believed to be almost two years. Internal Reconnaissance : Deployed malware to gather credentials, mapped the victims network topology, and used tools already present in the victim environment to scan systems. Pivot to Victim Servers Used for SWIFT Transactions : Installed reconnaissance malware and internal network monitoring tools on systems used for SWIFT to further understand how they are configured and being used.
+
+Mean Scored Summary
+-------------------
+The group is particularly aggressive; they regularly use destructive malware to render victim networks inoperable following theft. This report detailed malware and TTPs related to a set of developers and operators they dubbed Lazarus, a name that has become synonymous with aggressive North Korean cyber operations. The group is careful, calculated, and has demonstrated a desire to maintain access to a victim environment for as long as necessary to understand the network layout, required permissions, and system technologies to achieve its goals. On average, we have observed APT38 remain within a victim network for approximately 155 days, with the longest time within a compromised environment believed to be almost two years. Internal Reconnaissance : Deployed malware to gather credentials, mapped the victims network topology, and used tools already present in the victim environment to scan systems. Pivot to Victim Servers Used for SWIFT Transactions : Installed reconnaissance malware and internal network monitoring tools on systems used for SWIFT to further understand how they are configured and being used.
+
+Post 2 .......................................................................
+https://www.securityweek.com/north-korean-attacks-banks-attributed-apt38-group
+
+Top N Summary
+-------------
+The group, tracked by FireEye as APT38, focuses on targeting financial institutions, and the companys researchers estimate that it has stolen at least a hundred million dollars from banks worldwide. CrowdStrike has been tracking a total of four subgroups, which it has named Stardust Chollima, Silent Chollima, Labyrinth Chollima and Ricochet Chollima. The attacks, many of which targeted the SWIFT banking system, were aimed, among others, at Vietnams TP Bank in 2015, Bangladeshs central bank in 2016, Taiwans Far Eastern International in 2017, Bancomext in Mexico in 2018, and Banco de Chile also in 2018. APT38 executes sophisticated bank heists typically featuring long planning, extended periods of access to compromised victim environments preceding any attempts to steal money, fluency across mixed operating system environments, the use of custom developed tools, and a constant effort to thwart investigations capped with a willingness to completely destroy compromised machines afterwards, FireEye said. As more and more sanctions were imposed on North Korea in the following years, APT38 escalated its activities and the frequency of attacks increased.
+
+Mean Scored Summary
+-------------------
+The group, tracked by FireEye as APT38, focuses on targeting financial institutions, and the companys researchers estimate that it has stolen at least a hundred million dollars from banks worldwide. CrowdStrike has been tracking a total of four subgroups, which it has named Stardust Chollima, Silent Chollima, Labyrinth Chollima and Ricochet Chollima. The attacks, many of which targeted the SWIFT banking system, were aimed, among others, at Vietnams TP Bank in 2015, Bangladeshs central bank in 2016, Taiwans Far Eastern International in 2017, Bancomext in Mexico in 2018, and Banco de Chile also in 2018. APT38 executes sophisticated bank heists typically featuring long planning, extended periods of access to compromised victim environments preceding any attempts to steal money, fluency across mixed operating system environments, the use of custom developed tools, and a constant effort to thwart investigations capped with a willingness to completely destroy compromised machines afterwards, FireEye said. As more and more sanctions were imposed on North Korea in the following years, APT38 escalated its activities and the frequency of attacks increased.
+
+Post 3 .......................................................................
+https://www.securityweek.com/nkorea-said-have-stolen-fortune-online-bank-heists
+
+Top N Summary
+-------------
+NKorea Said to Have Stolen a Fortune in Online Bank Heists
+
+North Koreas nuclear and missile tests have stopped, but its hacking operations to gather intelligence and raise funds for the sanction-strapped government in Pyongyang may be gathering steam. It says the group is still operating and poses an active global threat.
+It is part of a wider pattern of malicious state-backed cyber activity that has led the Trump administration to identify North Korea  along with Russia, Iran and China  as one of the main online threats facing the United States. North Korea, which prohibits access to the world wide web for virtually all its people, has previously denied involvement in cyberattacks, and attribution for such attacks is rarely made with absolute certainty. It is typically based on technical indicators such as the Internet Protocol addresses that identify computers and characteristics of the coding used in malware, which is the software a hacker may use to damage or disable computers. APT stands for Advanced Persistent Threat.
+
+Mean Scored Summary
+-------------------
+NKorea Said to Have Stolen a Fortune in Online Bank Heists
+
+North Koreas nuclear and missile tests have stopped, but its hacking operations to gather intelligence and raise funds for the sanction-strapped government in Pyongyang may be gathering steam. It says the group is still operating and poses an active global threat.
+It is part of a wider pattern of malicious state-backed cyber activity that has led the Trump administration to identify North Korea  along with Russia, Iran and China  as one of the main online threats facing the United States. On Tuesday, the U.S. Department of Homeland Security warned of the use of malware by Hidden Cobra, the U.S. governments byword for North Korea hackers, in fraudulent ATM cash withdrawals from banks in Asia and Africa. It said that Hidden Cobra was behind the theft of tens of millions of dollars from teller machines in the past two years. North Korea, which prohibits access to the world wide web for virtually all its people, has previously denied involvement in cyberattacks, and attribution for such attacks is rarely made with absolute certainty. It is typically based on technical indicators such as the Internet Protocol addresses that identify computers and characteristics of the coding used in malware, which is the software a hacker may use to damage or disable computers. APT stands for Advanced Persistent Threat. Hes accused of conspiring in a number of devastating cyberattacks: the Bangladesh heist and other attempts to steal more than $1 billion from financial institutions around the world; the 2014 breach of Sony Pictures Entertainment; and the WannaCry ransomware virus that in 2017 infected computers in 150 countries.
+

@@ -1,0 +1,46 @@
+,query,text,url
+0,APT35,"Iranian Hackers Impersonate Israeli Security Firm
+
+A group of Iranian hackers focused on cyber-espionage recently built up a website to impersonate ClearSky Cyber Security, the Israeli firm that exposed their activities not long ago.
+The hackers, tracked as APT35 and also known as NewsBeef, Newscaster, and Charming Kitten, have been active since at least 2011, with their activities detailed for the first time several years ago.
+In December 2017, ClearSky Cyber Security published a report detailing the group’s activities during the 2016-2017 timeframe. The security firm not only described the actor’s infrastructure, but also provided information on DownPaper, a new piece of malware the hackers had been using.
+The security firm exposed the link between the group and Behzad Mesri, also known as Skote Vahshat, who was charged in November 2017 with the hacking of HBO. Furthermore, the researchers also managed to establish the identity of two other alleged members of the group.
+Roughly half a year after the report was published, the security firm announced on its Twitter account that the hackers built their own site impersonating ClearSky.
+“#CharmingKitten built a phishing website impersonating our company. The fake website is clearskysecurity\.net (the real website is http://clearskysec.com),” the security firm announced.
+The advanced persistent threat (APT) apparently copied entire pages from the legitimate website, but also changed one of them to include a sign in option with multiple services. Anyone entering credentials there would have had them sent to the actor instead.
+ “These sign in options are all phishing pages that would send the victim's credentials to the attackers. Our legitimate website does not have any sign in option. It seems that the impersonating website is still being built because some of the pages have error messages in them,” the security firm announced.
+One of the pages on the fake website, the security researchers discovered, featured content related to a Charming Kitten campaign that ClearSky exposed only several weeks ago. That page, however, wasn’t customized to look like the security firm’s website.
+The fake website started being flagged as deceptive soon after ClearSky discovered it. The security firm says that its employees, services, and customers were not affected.
+Over the past years, security researchers managed to link various hacking groups to Iran, including APT33, Rocket Kitten, Magic Hound, and CopyKittens, and even revealed that they tend to share infrastructure and malware code.
+Related: HBO Hacker Linked to Iranian Spy Group
+Related: Iranian Cyberspies Use New Trojan in Middle East Attacks",https://www.securityweek.com/iranian-hackers-impersonate-israeli-security-firm
+1,APT35,"Iran-Linked Influence Campaign Targets US, Others
+
+Threat actors apparently working out of Iran have been conducting an operation whose goal is to influence the opinions of people in the United States and other countries around the world, FireEye reported on Tuesday.
+This campaign, which the cybersecurity firm describes as an “influence operation,” involves a network of “inauthentic” news websites and clusters of social media accounts whose apparent purpose is to “promote political narratives in line with Iranian interests.”
+The sites that FireEye calls “inauthentic” make an effort to hide their origins and affiliations, and rely on fake social media personas to promote content. This content is either original, copied from other sources, or taken from other sources and modified.
+The campaign, which has been active since at least 2017, focuses on anti-Israel, anti-Saudi, and pro-Palestine topics. The threat actor behind the operation has also distributed stories regarding U.S. policies that are favorable to Iran, including the Joint Comprehensive Plan of Action nuclear deal.
+In addition to the United States, the group’s targets include the United Kingdom, Latin America and the Middle East.
+FireEye researchers have found several pieces of evidence suggesting that Iran is behind the operation. This includes domains registered with email addresses associated with Iranian organizations, Twitter accounts registered with phone numbers with Iran’s +98 country code, and online personas promoting Iranian holidays.
+However, the company says it’s only “moderately confident” that Iran is behind the activity, mainly due to the fact that this is an influence operation, which are meant to be deceptive.
+The cybersecurity firm noted that the Iran-linked threat actor tracked as APT35, NewsBeef, Newscaster and Charming Kitten has also leveraged these types of inauthentic news sites and social media personas in its cyber espionage operations, but there is no evidence that this influence campaign has been conducted by APT35.
+“The activity we have uncovered is significant and demonstrates that actors beyond Russia continue to engage in online, social media-driven influence operations as a means of shaping political discourse,” said Lee Foster, Manager of Information Operations Analysis at FireEye. “It also illustrates how the threat posed by such influence operations continues to evolve, and how similar influence tactics can be deployed irrespective of the particular political or ideological goals being pursued.”
+FireEye is preparing a report containing technical details on the operation. The report will be shared on request.
+Related: US Braces for Possible Cyberattacks After Iran Sanctions
+Related: Iran-linked Hackers Adopt New Data Exfiltration Methods
+Related: Iran-Linked 'Leafminer' Espionage Campaign Targets Middle East",https://www.securityweek.com/iran-linked-influence-campaign-targets-us-others
+2,APT35,"Breaches Increasingly Discovered Internally: Mandiant
+
+Organizations are getting increasingly better at discovering data breaches on their own, with more than 60% of intrusions in 2017 detected internally, according to FireEye-owned Mandiant.
+The company’s M-Trends report for 2018 shows that the global median time for internal detection dropped to 57.5 days in 2017, compared to 80 days in the previous year. Of the total number of breaches investigated by Mandiant last year, 62% were discovered internally, up from 53% in 2016.
+On the other hand, it still took roughly the same amount of time for organizations to learn that their systems had been compromised. The global median dwell time in 2017 – the median time from the first evidence of a hack to detection – was 101 days, compared to 99 days in 2016.
+Companies in the Americas had the shortest median dwell time (75.5 days), while organizations in the APAC region had the longest dwell time (nearly 500 days).
+
+Data collected by Mandiant in 2013 showed that more than one-third of organizations had been attacked again after the initial incident had been remediated. More recent data, specifically from the past 19 months, showed that 56% of Mandiant customers were targeted again by either the same group or one with similar motivation.
+In cases where investigators discovered at least one type of significant activity (e.g. compromised accounts, data theft, lateral movement), the targeted organization was successfully attacked again within one year. Organizations that experienced more than one type of significant activity were attacked by more than one threat actor.
+Again, the highest percentage of companies attacked multiple times and by multiple threat groups was in the APAC region – more than double compared to the Americas and the EMEA region.
+When it comes to the most targeted industries, companies in the financial and high-tech sectors recorded the highest number of significant attacks, while the high-tech, telecommunications and education sectors were hit by the highest number of different hacker groups.
+Last year, FireEye assigned names to four state-sponsored threat groups, including the Vietnam-linked APT32 (OceanLotus), and the Iran-linked APT33, APT34 (OilRig), and APT35 (NewsBeef, Newscaster and Charming Kitten).
+“Iran-sponsored threat actors have compromised a variety of organizations, but recently they have expanded their efforts in a way that previously seemed beyond their grasp,” Mandiant said in its report. “Today they leverage strategic web compromises (SWC) to ensnare more victims, and concurrently maintain persistence across multiple organizations for months and sometimes years. Rather than relying on publicly available malware and utilities, they develop and deploy custom malware. When they are not carrying out destructive attacks against their targets, they are conducting espionage and stealing data like professionals.”
+Related: Organizations Getting Better at Detecting Breaches
+Related: Financial Attackers as Sophisticated as Nation-State Groups",https://www.securityweek.com/breaches-increasingly-discovered-internally-mandiant

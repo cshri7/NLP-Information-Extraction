@@ -1,0 +1,111 @@
+Post 1 .......................................................................
+https://www.fireeye.com//blog/executive-perspective/2015/04/apt30_and_lessonsfo.html
+
+Top N Summary
+-------------
+You may have seen other reports from FireEye that talk about attackers focused directly on Western targets - but this report details an attack group specifically targeting governments and businesses across the Indian subcontinent and the ASEAN nations. These persistent and methodical attackers have successfully targeted organizations across these regions for a decade, and have largely evaded detection until recently. Asias businesses and governments are heavily targeted, but without the ability to detect these attacks they are largely unprotected from their impacts. This group has been able to operate successfully and remain undetected for many years and has not even had to change their attack infrastructure  a clear sign that their victims dont realize this is happening. The economic and diplomatic impacts of such espionage are very serious; since most governments and businesses in the region don't have the ability to detect, prevent, analyze and respond to these attacks, we may never know the full impact of APT30.
+
+Mean Scored Summary
+-------------------
+You may have seen other reports from FireEye that talk about attackers focused directly on Western targets - but this report details an attack group specifically targeting governments and businesses across the Indian subcontinent and the ASEAN nations. Asias businesses and governments are heavily targeted, but without the ability to detect these attacks they are largely unprotected from their impacts. This group has been able to operate successfully and remain undetected for many years and has not even had to change their attack infrastructure  a clear sign that their victims dont realize this is happening. The economic and diplomatic impacts of such espionage are very serious; since most governments and businesses in the region don't have the ability to detect, prevent, analyze and respond to these attacks, we may never know the full impact of APT30.
+
+Post 2 .......................................................................
+https://www.fireeye.com//current-threats/apt-groups/rpt-apt30.html
+
+Top N Summary
+-------------
+APT30: The Mechanics
+Behind a Decade Long Cyber Espionage Operation     When our Singapore-based FireEye Labs team
+examined malware aimed predominantly at entities in Southeast Asia and
+India, we suspected that we were peering into a regionally focused
+cyber espionage operation. In our latest Threat Intelligence Report,
+APT 30 and the Mechanics of a Long-Running Cyber Espionage
+Operation, we uncover a decade-long operation focused on
+targetsgovernment and commercialwho hold key political, economic,
+and military information about the region. This report shares the tools, tactics,
+and procedures of APT 30 for organizations across the region to
+quickly begin to detect, prevent, analyze, and respond to this
+consistent threat. It also outlines the profile of the attacker for
+security practitioners to better understand their threats. In this report you will learn:   How cyber espionage is not limited
+to targeting just the United States  Why the South East
+Asian region has a specific set of challenges in cyber security  Why the most successful APT groups use the path of least
+resistance to evade detection  The benefits of sharing
+Threat Intelligence publicly   Download the report today.
+
+Mean Scored Summary
+-------------------
+APT30: The Mechanics
+Behind a Decade Long Cyber Espionage Operation     When our Singapore-based FireEye Labs team
+examined malware aimed predominantly at entities in Southeast Asia and
+India, we suspected that we were peering into a regionally focused
+cyber espionage operation. In our latest Threat Intelligence Report,
+APT 30 and the Mechanics of a Long-Running Cyber Espionage
+Operation, we uncover a decade-long operation focused on
+targetsgovernment and commercialwho hold key political, economic,
+and military information about the region. In this report you will learn:   How cyber espionage is not limited
+to targeting just the United States  Why the South East
+Asian region has a specific set of challenges in cyber security  Why the most successful APT groups use the path of least
+resistance to evade detection  The benefits of sharing
+Threat Intelligence publicly   Download the report today.
+
+Post 3 .......................................................................
+https://securelist.com/the-naikon-apt-and-the-msnmm-campaigns/70029/
+
+Top N Summary
+-------------
+The MsnMM Campaigns [pdf]  For over half a decade, the Naikon APT waged multiple attack campaigns on sensitive targets throughout South-eastern Asia and around the South China Sea. Targets and victims included ASEAN governmental agencies and government departments, investment enterprises, military, law enforcement and border control organizations, embassies, university faculties and others. The Naikon attackers attempted to exfiltrate sensitive geo-political, military, and economic data; to intercept communications and to maintain surveillance on their victims throughout the MsnMM campaigns. Their toolset and techniques changed over time in many minor ways, and appear to be run by Chinese-speaking individuals. The consistent list of military, economic, and political targets gave away the actors interests.
+
+Mean Scored Summary
+-------------------
+Targets and victims included ASEAN governmental agencies and government departments, investment enterprises, military, law enforcement and border control organizations, embassies, university faculties and others. The Naikon attackers attempted to exfiltrate sensitive geo-political, military, and economic data; to intercept communications and to maintain surveillance on their victims throughout the MsnMM campaigns. The consistent list of military, economic, and political targets gave away the actors interests.
+
+Post 4 .......................................................................
+https://securelist.com/the-naikon-apt/69953/
+
+Top N Summary
+-------------
+Considering the volume of Naikon activity observed and its relentless, repeated attack attempts, such a confrontation was worth looking into, so we did. In other cases, the connection was established via dedicated proxy servers installed on dedicated servers rented in third countries. Below is a partial list of organizations affected by Naikons operator Xs espionage campaign in country X. If necessary, operator X delivered them via the remote control client. The empire strikes back  Every once in a while the Naikon group clashes with other APT groups that are also active in the region.
+
+Mean Scored Summary
+-------------------
+Considering the volume of Naikon activity observed and its relentless, repeated attack attempts, such a confrontation was worth looking into, so we did. It is hardly surprising that there is an element of overlap, considering both actors have for years mined victims in the South China Sea area, apparently in search of geo-political intelligence. There are no fundamental differences between modifications; its just that extra features get added to the latest versions, such as compression and encryption of transmitted data, or the piecemeal download of large files. d085ba82824c1e61e93e113a705b8e9a  118272  Aug 23 18:46:57 2012    b4a8dc9eb26e727eafb6c8477963829c  140800  May 20 11:56:38 2013    172fd9cce78de38d8cbcad605e3d6675  118784  Jun 13 12:14:40 2013    d74a7e7a4de0da503472f1f051b68745  190464  Aug 19 05:30:12 2013    93e84075bef7a11832d9c5aa70135dc6  154624  Jan 07 04:39:43 2014      CC-Proxy-Op  C&C server operations are characterized by the following:   Low maintenance requirements  Organized geo-specific task assignments  Different approaches to communication   The C&C servers must have required only a few operators to manage the entire network. In other cases, the connection was established via dedicated proxy servers installed on dedicated servers rented in third countries. It can be used to manage an entire network of infected clients. Below is a partial list of organizations affected by Naikons operator Xs espionage campaign in country X. If necessary, operator X delivered them via the remote control client. The empire strikes back  Every once in a while the Naikon group clashes with other APT groups that are also active in the region.
+
+Post 5 .......................................................................
+https://www.securityweek.com/fireeye-uncovers-decade-long-cyber-espionage-campaign-targeting-south-east-asia
+
+Top N Summary
+-------------
+While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track, the report said. This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data, the report said. Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception  a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said. The developers of the attack tools systematically label and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time. APT30 appears to focus not on stealing businesses valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party, the report concluded.
+
+Mean Scored Summary
+-------------------
+FireEye Uncovers Decade-Long Cyber Espionage Campaign Targeting South East Asia
+
+
+FireEye on Sunday uncovered details of a decade-long cyber espionage campaign carried out by China targeting governments, journalists and businesses in South East Asia and India. Dubbed APT30 by FireEye, the group is supported by seasoned software developers following well-organized software development practices. According to FireEye, the attackers are particularly interested in targets holding information related to regional political, military, and economic issues, disputed territories, and media outlets and journalists who cover topics pertaining to China and the legitimacy of the Chinese Communist Party. While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track, the report said. This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data, the report said. Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception  a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said. The developers of the attack tools systematically label and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time. APT30 appears to focus not on stealing businesses valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party, the report concluded.
+
+Post 6 .......................................................................
+https://www.securityweek.com/naikon-threat-group-linked-chinese-army
+
+Top N Summary
+-------------
+The report published now by ThreatConnect and Defense Group covers various aspects of Naikons operations, including infrastructure, tools and tactics. The man has utilized this username on several online platforms, including the microblogging platform QQ Weibo, forums, and social media websites. He launched his career as a PLA officer by attending the PLA International Studies University in 1998. Photos from his GreenSky27 QQ Weibo account from 2011 to 2014 place him at the Kunming TRB headquarters compound, underscoring his ongoing connection with the PLA, researchers wrote in their report. The domain went dormant when Ges child was born and when he visited a memorial hall dedicated to his familys ancestors.
+
+Mean Scored Summary
+-------------------
+The report published now by ThreatConnect and Defense Group covers various aspects of Naikons operations, including infrastructure, tools and tactics. The man has utilized this username on several online platforms, including the microblogging platform QQ Weibo, forums, and social media websites. He launched his career as a PLA officer by attending the PLA International Studies University in 1998. Photos from his GreenSky27 QQ Weibo account from 2011 to 2014 place him at the Kunming TRB headquarters compound, underscoring his ongoing connection with the PLA, researchers wrote in their report. Researchers determined that whenever Ges posts on personal accounts indicated that he was traveling outside of Kunming, the greensky27.vicp.net infrastructure was either offline or parked. The domain went dormant when Ges child was born and when he visited a memorial hall dedicated to his familys ancestors.
+
+Post 7 .......................................................................
+https://www.securityweek.com/fireeye-uncovers-decade-long-cyber-espionage-campaign-targeting-south-east-asia
+
+Top N Summary
+-------------
+While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track, the report said. This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data, the report said. Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception  a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said. The developers of the attack tools systematically label and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time. APT30 appears to focus not on stealing businesses valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party, the report concluded.
+
+Mean Scored Summary
+-------------------
+FireEye Uncovers Decade-Long Cyber Espionage Campaign Targeting South East Asia
+
+
+FireEye on Sunday uncovered details of a decade-long cyber espionage campaign carried out by China targeting governments, journalists and businesses in South East Asia and India. Dubbed APT30 by FireEye, the group is supported by seasoned software developers following well-organized software development practices. According to FireEye, the attackers are particularly interested in targets holding information related to regional political, military, and economic issues, disputed territories, and media outlets and journalists who cover topics pertaining to China and the legitimacy of the Chinese Communist Party. While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track, the report said. This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data, the report said. Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception  a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said. The developers of the attack tools systematically label and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time. APT30 appears to focus not on stealing businesses valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party, the report concluded.
+

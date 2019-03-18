@@ -1,0 +1,167 @@
+Post 1 .......................................................................
+https://www.crowdstrike.com/blog/two-birds-one-stone-panda/
+
+Top N Summary
+-------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data.
+
+Mean Scored Summary
+-------------------
+ZHANG Shilong ()
+ZHANG was originally introduced by IntrusionTruth as a reciprocal follower of fisherxps Twitter account via his own @baobeilong account. From there, a trail of overlapping registrant details reveals ZHANGs hanzi characters for his name (), likely one of his personal home addresses, potential work addresses and several email addresses:
+
+long@xiaohong[. ]org
+baobei@xiaohong[. ]org
+atreexp@yahoo[. ]com.cn 
+robin4700@foxmail[. ]com
+eshilong@vip.qq[. As the IntrusionTruth blog post mentions, it is a registered firm with two listed representatives, Fang Ting () and Sun Lei (), and a listed address of 1906 Fuyu Mansion (1-1906). This is interesting considering STONE PANDAs extensive targeting of Japanese defense firms after this time period, but it is by no means conclusive evidence that the firm is connected to STONE PANDA. NSACE appears to be a national education body that teaches network information security, including offensive activity7. From their latest post, which contains GAOs Uber receipts, it is clear the groups information likely goes beyond merely available OSINT data. In addition, FalconIntelligence notes that following the late 2015 Sino-U.S. brief cyber detente, much of the responsibility for western cyber intrusion operations was handed to the MSS as the PLA underwent an extensive reform that is still currently underway, and which is consolidating its military cyber forces under the Strategic Support Force. Many of these adversaries have begun targeting supply chain and upstream providers to establish a potential platform for future operations and enable the collection of larger sets of data. As such, CrowdStrike Falcon Intelligence assesses that although Boyusec may have shuttered, elements of GOTHIC PANDA are likely to still be active.
+
+Post 2 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/04/apt10_menupass_grou.html
+
+Top N Summary
+-------------
+We believe that the targeting of these industries has been in support of Chinese national security goals, including acquiring valuable military and intelligence information as well as the theft of confidential business data to support Chinese corporations. APT10 unveiled new tools in its 2016/2017 activity. In addition to the continued use of SOGU, the current wave of intrusions has involved new tools we believe are unique to APT10. It also conducts basic victim profiling activity, collecting the computer name, running process IDs, %TEMP% directory path and version of Internet Explorer. (For more information on infection via service providers see M-Trends 2016 ).
+
+Mean Scored Summary
+-------------------
+APT10 Background  APT10 (MenuPass Group) is a Chinese cyber espionage group that FireEye has tracked since 2009. We believe that the targeting of these industries has been in support of Chinese national security goals, including acquiring valuable military and intelligence information as well as the theft of confidential business data to support Chinese corporations. Further collaboration between FireEye as a Service (FaaS), Mandiant and FireEye iSIGHT intelligence uncovered additional victims worldwide, a new suite of tools and novel techniques. We believe these companies are a mix of final targets and organizations that could provide a foothold in a final target. APT10 unveiled new tools in its 2016/2017 activity. In addition to the continued use of SOGU, the current wave of intrusions has involved new tools we believe are unique to APT10. It also conducts basic victim profiling activity, collecting the computer name, running process IDs, %TEMP% directory path and version of Internet Explorer. (For more information on infection via service providers see M-Trends 2016 ). Service providers have significant access to customer networks, enabling an attacker who had compromised a service provider to move laterally into the network of the service providers customer. In addition, web traffic between a service providers customer and a service provider is likely to be viewed as benign by network defenders at the customer, allowing the attacker to exfiltrate data stealthily. We believe the pace of APT10 operations may slow following the public disclosure by the PwC/BAE blog ; however, we believe they will return to their large-scale operations, potentially employing new tactics, techniques and procedures.
+
+Post 3 .......................................................................
+https://www.fireeye.com//blog/threat-research/2018/09/apt10-targeting-japanese-corporations-using-updated-ttps.html
+
+Top N Summary
+-------------
+]147/VxQG   f613846eb5bed227ec1a5f8df7e678d0   bdc4b9f5af9868e028dd0adc10099a4e6656e9f0ad12b2e75a30f5ca0e34489d   hxxp[:]//153.92.210[. ]208/wBNh1   50c60f37922ff2ff8733aaeaa9802da5   fb9f7fb3c709373523ff27824ed6a31d800e275ec5217d8a11024a3dffb577dd   hxxp[:]//eservake.jetos[. ]com/qIDj   c500dae1ca41236830b59f1467ee96c1   d3450966ceb2eba93282aace7d7684380d87c6621bbd3c4f621caa079356004a   Default   Default   f12df6984bb65d18e2561bd017df29ee1cf946efa5e510802005aeee9035dd53    Table 3: Example of Blowfish keys  In this example, the MD5 hash of hxxp[:]//151.106.53[. Another difference in the network traffic generated from the malware is that the encoded proxy information has been added in the URL query values during the C2 communication. These are sent via POST request, as shown in Figure 9.
+
+Mean Scored Summary
+-------------------
+Figure 1: Event Website for the Lecture of Guatemala Ambassador  Figure 2 shows the macro function that displays the lure document. The compile time of loaders in the newer version(s) are not shown here since the timestamps are overwritten and filled with zeroes. The error code is the value returned by the GetLastError function and sent in the next beacon. C2   MD5   Blowfish Key   hxxp[:]//151.106.53[. ]147/VxQG   f613846eb5bed227ec1a5f8df7e678d0   bdc4b9f5af9868e028dd0adc10099a4e6656e9f0ad12b2e75a30f5ca0e34489d   hxxp[:]//153.92.210[. ]208/wBNh1   50c60f37922ff2ff8733aaeaa9802da5   fb9f7fb3c709373523ff27824ed6a31d800e275ec5217d8a11024a3dffb577dd   hxxp[:]//eservake.jetos[. ]com/qIDj   c500dae1ca41236830b59f1467ee96c1   d3450966ceb2eba93282aace7d7684380d87c6621bbd3c4f621caa079356004a   Default   Default   f12df6984bb65d18e2561bd017df29ee1cf946efa5e510802005aeee9035dd53    Table 3: Example of Blowfish keys  In this example, the MD5 hash of hxxp[:]//151.106.53[. Another difference in the network traffic generated from the malware is that the encoded proxy information has been added in the URL query values during the C2 communication. These are sent via POST request, as shown in Figure 9. FireEye Multi-Vector Execution (MVX) engine is able to recognize and block this threat with the following detection names:   APT.Backdoor.Win.UPPERCUT  FE_APT_Backdoor_Win32_UPPERCUT
+
+Post 4 .......................................................................
+https://www.securityweek.com/china-linked-apt10-hackers-update-attack-techniques
+
+Top N Summary
+-------------
+China-linked APT10 Hackers Update Attack Techniques
+
+Recently attacks launched by the China-linked threat actor APT10 against the Japanese media sector revealed the use of updated tactics, techniques and procedures (TTPs), FireEye says. Last year, the group targeted entities in at least fourteen countries, including the website of a prominent U.S. trade association. Known in the security community as ANEL, the malware was apparently in pre-release form (beta or release candidate) until recently, FireEyes security researchers say. The latest version also features randomized exported function names and was observed sending an error code in the Cookie header when failing to receive the HTTP response from the command and control (C&C) server. Related: China-Linked Hackers Target U.S. Trade Group
+Related: China-based Hackers Target Managed Service Providers
+
+Mean Scored Summary
+-------------------
+China-linked APT10 Hackers Update Attack Techniques
+
+Recently attacks launched by the China-linked threat actor APT10 against the Japanese media sector revealed the use of updated tactics, techniques and procedures (TTPs), FireEye says. Last year, the group targeted entities in at least fourteen countries, including the website of a prominent U.S. trade association. The latest version also features randomized exported function names and was observed sending an error code in the Cookie header when failing to receive the HTTP response from the command and control (C&C) server. Related: China-Linked Hackers Target U.S. Trade Group
+Related: China-based Hackers Target Managed Service Providers
+
+Post 5 .......................................................................
+https://www.securityweek.com/china-linked-group-uses-new-malware-japan-attacks
+
+Top N Summary
+-------------
+China-Linked Group Uses New Malware in Japan Attacks
+
+A China-linked threat actor has been using a new Trojan in attacks aimed at individuals and organizations located in or with ties to Japan, Palo Alto Networks reported on Thursday. The attacks started with spear-phishing emails that came from spoofed addresses, including of the Sasakawa Peace Foundation and the White House. ChChes was disguised as a Word document and it was signed using a certificate from Italian spyware maker Hacking Team. In addition to collecting information about the infected system, ChChes has modules that help it encrypt communications, execute shell commands, upload and download files, and load and execute DLLs, according to an analysis conducted by Japans Computer Emergency Response Team Coordination Center (JPCERT/CC). Related: Japan Targeted in "Blackgear" Espionage Campaign
+Related: 18 Million Stolen Credentials Found in Japan
+Related: "Dust Storm" Attackers Target Japanese Critical Infrastructure
+Related: Blue Termite APT Targets Japanese Organizations
+
+Mean Scored Summary
+-------------------
+China-Linked Group Uses New Malware in Japan Attacks
+
+A China-linked threat actor has been using a new Trojan in attacks aimed at individuals and organizations located in or with ties to Japan, Palo Alto Networks reported on Thursday. The attacks started with spear-phishing emails that came from spoofed addresses, including of the Sasakawa Peace Foundation and the White House. In addition to collecting information about the infected system, ChChes has modules that help it encrypt communications, execute shell commands, upload and download files, and load and execute DLLs, according to an analysis conducted by Japans Computer Emergency Response Team Coordination Center (JPCERT/CC). Related: Japan Targeted in "Blackgear" Espionage Campaign
+Related: 18 Million Stolen Credentials Found in Japan
+Related: "Dust Storm" Attackers Target Japanese Critical Infrastructure
+Related: Blue Termite APT Targets Japanese Organizations
+
+Post 6 .......................................................................
+https://www.securityweek.com/operation-cloud-hopper-china-based-hackers-target-managed-service-providers
+
+Top N Summary
+-------------
+As always with such reports, attribution is down to the weight of circumstantial evidence. It is MSPs in all of those countries that are the targets; and we are not told of any specific client organizations breached. The two accords specify 'economic espionage'; political espionage is still acceptable in both directions. "Overall," comments Israel Barak, CISO of Cybereason, "the notion that China has decreased its efforts since 2015 to conduct economic espionage is preposterous. To reiterate, it is too early in this particular instance to determine whether the Cameron-Xi accord was broken or is it simply a case of competitive intelligence and cybercrime that must be dealt with bilaterally between Great Britain and China."
+
+Mean Scored Summary
+-------------------
+As always with such reports, attribution is down to the weight of circumstantial evidence. From here they obtain legitimate credentials to access the MSPs' client networks that align to APT10's targeting profile -- which the authors claim aligns with China's current five-year plan (FYP) for economic growth. "It is fundamental for organizations to come to terms with the fact that raising their own security posture is essential but not sufficient," warns Donato Capitella, senior security consultant at MWR InfoSecurity; "especially if they are then willing to interweave their IT systems with third parties whose security posture is insufficient. It is MSPs in all of those countries that are the targets; and we are not told of any specific client organizations breached. The two accords specify 'economic espionage'; political espionage is still acceptable in both directions. "Overall," comments Israel Barak, CISO of Cybereason, "the notion that China has decreased its efforts since 2015 to conduct economic espionage is preposterous. To reiterate, it is too early in this particular instance to determine whether the Cameron-Xi accord was broken or is it simply a case of competitive intelligence and cybercrime that must be dealt with bilaterally between Great Britain and China."
+
+Post 7 .......................................................................
+https://www.securityweek.com/poison-ivy-rat-campaign-leverages-new-delivery-techniques
+
+Top N Summary
+-------------
+The attacks leveraged an AppLocker bypass that was publicly revealed last year, as well as fileless execution and persistence, and benign documents to minimize user suspicion of malicious activity. This technique was demonstrated last year to effectively bypass AppLocker, the Microsoft application whitelisting solution that prevents unknown executables from running on a system. In this campaign, the malicious SCT file was designed to invoke WScript to launch PowerShell in hidden mode with an encoded command, FireEye reports. A fourth stage PowerShell script in the HKCU\Console\FontSecurity registry borrows from the publicly available Inject-LocalShellCode script from PowerSploit to inject shellcode, researchers explain. The decrypted shellcode also revealed content and configuration related to Poison Ivy.
+
+Mean Scored Summary
+-------------------
+The attacks leveraged an AppLocker bypass that was publicly revealed last year, as well as fileless execution and persistence, and benign documents to minimize user suspicion of malicious activity. This technique was demonstrated last year to effectively bypass AppLocker, the Microsoft application whitelisting solution that prevents unknown executables from running on a system. A fourth stage PowerShell script in the HKCU\Console\FontSecurity registry borrows from the publicly available Inject-LocalShellCode script from PowerSploit to inject shellcode, researchers explain. The decrypted shellcode also revealed content and configuration related to Poison Ivy.
+
+Post 8 .......................................................................
+https://www.securityweek.com/china-linked-hackers-target-us-trade-group
+
+Top N Summary
+-------------
+Evidence uncovered by investigators led them to believe that the attack was conducted by a China-linked cyber espionage group known as APT10, MenuPass and Stone Panda. In the case of the NFTC, whose board of directors includes some of the largest private sector companies in the United States, APT10 targeted only specific web pages. All organizations that have representatives on the board of directors of the NFTC -- or those who would have a reason to visit the site -- should investigate potentially impacted hosts using indicators provided in this report, warned Fidelis. The research conducted by the two companies focused on attacks launched by APT10 against managed service providers (MSPs) in at least fourteen countries. Related: China-Linked Group Uses New Malware in Japan Attacks
+Related: Chinese Spying Drops in Volume, Becomes More Focused
+Related: U.S. Firms Targeted by China Even After Cyber Deal
+
+Mean Scored Summary
+-------------------
+Evidence uncovered by investigators led them to believe that the attack was conducted by a China-linked cyber espionage group known as APT10, MenuPass and Stone Panda. In the case of the NFTC, whose board of directors includes some of the largest private sector companies in the United States, APT10 targeted only specific web pages. All organizations that have representatives on the board of directors of the NFTC -- or those who would have a reason to visit the site -- should investigate potentially impacted hosts using indicators provided in this report, warned Fidelis. The research conducted by the two companies focused on attacks launched by APT10 against managed service providers (MSPs) in at least fourteen countries. Related: China-Linked Group Uses New Malware in Japan Attacks
+Related: Chinese Spying Drops in Volume, Becomes More Focused
+Related: U.S. Firms Targeted by China Even After Cyber Deal
+
+Post 9 .......................................................................
+https://www.securityweek.com/dhs-warns-attacks-managed-service-providers
+
+Top N Summary
+-------------
+The use of MSP increases an organizations virtual enterprise infrastructure footprint, but also creates a large attack surface for cyber criminals and nation-state actors, DHS United States Computer Emergency Readiness Team (US-CERT) points out. The newly released alert, TA18-276B, is related to activity that DHS' National Cybersecurity and Communications Integration Center (NCCIC) warned about in April 2017. Tracked since 2009, the group has historically targeted mainly Japanese entities. Last year, the group was observed targeting entities in at least fourteen countries, including the website of a prominent U.S. trade association. These include restricting access to networks and systems, using a dedicated Virtual Private Network (VPN) for MSP connection, using firewalls, implement best practices for password and permission management, and incorporate operational controls.
+
+Mean Scored Summary
+-------------------
+The use of MSP increases an organizations virtual enterprise infrastructure footprint, but also creates a large attack surface for cyber criminals and nation-state actors, DHS United States Computer Emergency Readiness Team (US-CERT) points out. The newly released alert, TA18-276B, is related to activity that DHS' National Cybersecurity and Communications Integration Center (NCCIC) warned about in April 2017. Tracked since 2009, the group has historically targeted mainly Japanese entities.
+
+Post 10 .......................................................................
+https://www.securityweek.com/dont-fall-victim-ip-theft-and-corporate-espionage
+
+Top N Summary
+-------------
+Don't Fall Victim to IP Theft and Corporate Espionage
+
+If the infamous bank robber, Willie Sutton, were alive today and honed his cyber skills, he might turn his attention to corporate espionage. The group has used custom malware, as well as legitimate penetration testing tools to move laterally within a network, escalate privileges, harvest credentials and exfiltrate data. Groups with lesser technical capability tend to rely on commercial malware variants, but should not be discounted. The malware logs keystrokes and collects passwords, screenshots, account data from browsers and clipboard data and communicates using a single C2 server. Malicious software downloads: Individuals should only download applications from legitimate sites.
+
+Mean Scored Summary
+-------------------
+Don't Fall Victim to IP Theft and Corporate Espionage
+
+If the infamous bank robber, Willie Sutton, were alive today and honed his cyber skills, he might turn his attention to corporate espionage. Once inside the network, they typically use custom backdoor malware to achieve lateral movement, data exfiltration and persistence. For example, Tick uses a variety of methods to gain access to victim networks, such as spearphishing, watering hole attacks and software exploitations including a zero-day vulnerability to access company networks. The group has used custom malware, as well as legitimate penetration testing tools to move laterally within a network, escalate privileges, harvest credentials and exfiltrate data. Groups with lesser technical capability tend to rely on commercial malware variants, but should not be discounted. The malware logs keystrokes and collects passwords, screenshots, account data from browsers and clipboard data and communicates using a single C2 server. Malicious software downloads: Individuals should only download applications from legitimate sites. Today, high-value targets for corporate espionage include any organization with proprietary information that can be sold for financial gain.
+
+Post 11 .......................................................................
+https://www.securityweek.com/researchers-warn-against-knee-jerk-attribution-olympic-destroyer-attack
+
+Top N Summary
+-------------
+These include standard but different functions within BlueNoroff Banswift malware, the LimaCharlie family of Lazarus malware from the Novetta Blockbuster report, and a module from the Lazarus SpaSpe malware meant to target domain controllers." The attack's purpose was disruption rather than absolute destruction. While systems were wiped, they were left able to reboot -- allowing the possibility of eventual data recovery and reinstatement. The 'hints' contained in the code similarity point variously at Russia, China and North Korea. As Recorded Future concludes, "For the time being, attribution remains inconclusive."
+
+Mean Scored Summary
+-------------------
+They have done just that with the recent cyber-attacks against the PyeongChang Winter Olympic Games. Recorded Future comments (PDF), "Our own research turned up trivial but consistent code similarities between Olympic Destroyer modules and several malware families used by the Lazarus Group. These include standard but different functions within BlueNoroff Banswift malware, the LimaCharlie family of Lazarus malware from the Novetta Blockbuster report, and a module from the Lazarus SpaSpe malware meant to target domain controllers." In other words, it could only be achieved by a highly resourced attacker. The attack's purpose was disruption rather than absolute destruction. While systems were wiped, they were left able to reboot -- allowing the possibility of eventual data recovery and reinstatement. The 'hints' contained in the code similarity point variously at Russia, China and North Korea. As Recorded Future concludes, "For the time being, attribution remains inconclusive."
+
+Post 12 .......................................................................
+https://www.securityweek.com/report-highlights-business-risks-drawn-geopolitical-flashpoints
+
+Top N Summary
+-------------
+In early March, a DHS report described activity under the 'Pleasantly Surprised' campaign spear-phishing commercial entities in the financial, retail and technology sectors. Internally it continues to increase control over cyber activities with new regulations on data flows and VPNs. However, for the moment, it believes that the "re-election of Iranian President Hassan Rouhani is likely to have a stabilizing effect on Iranian cyber activities." North Korea
+North Korea is considered to be a potent threat, but one that has been relatively quiet this year following China's apparent withdrawal of political support. "Due to the lack of technical acumen within most jihadi hacker groups, their victims tend to be poorly-defended or smaller, low-hanging-fruit websites."
+
+Mean Scored Summary
+-------------------
+Internally, Russia is tightening control over dissidents and internet usage. In early March, a DHS report described activity under the 'Pleasantly Surprised' campaign spear-phishing commercial entities in the financial, retail and technology sectors. Internally it continues to increase control over cyber activities with new regulations on data flows and VPNs. However, "Despite the synchronicity between the ShadowBrokers releases and the Wikileaks dump, there is no known connection between the two," says Flashpoint. However, for the moment, it believes that the "re-election of Iranian President Hassan Rouhani is likely to have a stabilizing effect on Iranian cyber activities." North Korea
+North Korea is considered to be a potent threat, but one that has been relatively quiet this year following China's apparent withdrawal of political support. Its own findings suggest a Chinese-speaking author; but adds these two findings are not mutually exclusive. Geopolitically, the Trump administration has said, the "era of strategic patience is over." Flashpoint believes it may be because they are starved of publicity due to the media's current focus on the new administration and the FBI/Russia probe. Hacktivists
+Flashpoint notes a decline in western hacktivism. "Due to the lack of technical acumen within most jihadi hacker groups, their victims tend to be poorly-defended or smaller, low-hanging-fruit websites."
+

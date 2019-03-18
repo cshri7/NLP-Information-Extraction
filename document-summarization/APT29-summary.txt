@@ -1,0 +1,213 @@
+Post 1 .......................................................................
+https://www.crowdstrike.com/blog/who-is-cozy-bear/
+
+Top N Summary
+-------------
+Unlike many of the other nation-state actors that CrowdStrike monitors, COZY BEAR tends to cast a wide net, sending out thousands of phishing emails to a broad set of targets. This is notable, as most nation-state attackers tracked by CrowdStrike Falcon Intelligence prefer to conduct more focused operations against smaller sets of targets. In terms of post-exploitation operations, COZY BEAR is aggressive, using the latest components of the target operating system to hide from antivirus and host-based security tools. To learn more about using threat intelligence to defend your enterprise, protect your endpoints and proactively hunt sophisticated threat actors, visit the CrowdStrike Falcon Intelligence page. To get full access to CrowdStrikes next-gen antivirus solution for 15 days visit the Falcon Prevent free trial page.
+
+Mean Scored Summary
+-------------------
+Unlike many of the other nation-state actors that CrowdStrike monitors, COZY BEAR tends to cast a wide net, sending out thousands of phishing emails to a broad set of targets. In terms of post-exploitation operations, COZY BEAR is aggressive, using the latest components of the target operating system to hide from antivirus and host-based security tools. To learn more about using threat intelligence to defend your enterprise, protect your endpoints and proactively hunt sophisticated threat actors, visit the CrowdStrike Falcon Intelligence page. To get full access to CrowdStrikes next-gen antivirus solution for 15 days visit the Falcon Prevent free trial page.
+
+Post 2 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/03/apt29_domain_frontin.html
+
+Top N Summary
+-------------
+Meek is a publicly available obfuscation plugin for TOR and an implementation of the domain fronting technique. Additional information on increasing visibility into PowerShell activity through enhanced logging is available here . By tunneling RDP traffic to the system, the attackers could gain both persistent access and privilege escalation using this simple and well-known exploit. Table 2 shows the modified values for these registry keys. However, when dealing with advanced threat groups who rapidly develop capabilities and invest in hiding network traffic, effective endpoint visibility is vital.
+
+Mean Scored Summary
+-------------------
+There has been considerable discussion about domain fronting following the release of a paper detailing these techniques . Meek is a publicly available obfuscation plugin for TOR and an implementation of the domain fronting technique. Figure 3 displays the redacted contents of a sample private_key file. Additional information on increasing visibility into PowerShell activity through enhanced logging is available here . By tunneling RDP traffic to the system, the attackers could gain both persistent access and privilege escalation using this simple and well-known exploit. Table 2 shows the modified values for these registry keys. However, when dealing with advanced threat groups who rapidly develop capabilities and invest in hiding network traffic, effective endpoint visibility is vital.
+
+Post 3 .......................................................................
+https://www.fireeye.com//current-threats/apt-groups/rpt-apt29.html
+
+Top N Summary
+-------------
+Uncovering a Malware
+  Backdoor that Uses Twitter     It hides in network communications, in all
+  the noisedesigned so that defenders can neither detect nor
+  characterize its activity. But its purpose is transparent: to use
+  Twitter, GitHub, and cloud storage services to relay commands and
+  extract data from compromised networks. Download the report and read about the
+  recently discovered HAMMERTOSS, a malware backdoor created by the
+  Russian advanced persistent threat (APT) group APT29. Learn:   How HAMMERTOSS worksthe five
+    stages, from looking for a Twitter handle to executing commands,
+    including uploading victims data to cloud storage services  Who APT29 istheir history, targets and methodology  Why
+    its difficult to detect HAMMERTOSS   Download the report now.
+
+Mean Scored Summary
+-------------------
+But its purpose is transparent: to use
+  Twitter, GitHub, and cloud storage services to relay commands and
+  extract data from compromised networks. Download the report and read about the
+  recently discovered HAMMERTOSS, a malware backdoor created by the
+  Russian advanced persistent threat (APT) group APT29.
+
+Post 4 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/03/dissecting_one_ofap.html
+
+Top N Summary
+-------------
+Upon execution, this command extracted, decrypted, and executed the PowerShell backdoor payload stored in the HiveUploadTask text property of the RacTask class. Using a custom User Agent string or the system's User Agent string derived from urlmon.dll   7. When responding to an APT29 breach, it is vital to increase visibility, fully scope the incident before responding and thoroughly analyze accessed systems that don't contain known malware. This excellent whitepaper by William Ballenthin, Matt Graeber and Claudiu Teodorescu contains additional information on WMI offense, defense and forensics. This presentation by Christopher Glyer and Devon Kerr contains additional information on attacker use of WMI in past Mandiant investigations.
+
+Mean Scored Summary
+-------------------
+POSHSPY's use of WMI to both store and persist the backdoor code makes it nearly invisible to anyone not familiar with the intricacies of WMI. Later in that same engagement, the attacker updated the deployment of the backdoor to use WMI for storage and persistence. Mandiant has since identified POSHSPY in several other environments compromised by APT29 over the past two years. Windows Management Instrumentation  WMI is an administrative framework that is built into every version of Windows since 2000. WMI can be accessed using a variety of tools, including the Windows WMI Command-line (wmic.exe), or through APIs accessible to programming and scripting languages such as PowerShell. POSHSPY WMI Component  The WMI component of the POSHSPY backdoor leverages a Filter to execute the PowerShell component of the backdoor on a regular basis. Upon execution, this command extracted, decrypted, and executed the PowerShell backdoor payload stored in the HiveUploadTask text property of the RacTask class. Downloading and executing PowerShell code as an EncodedCommand   2. Using a custom User Agent string or the system's User Agent string derived from urlmon.dll   7. When responding to an APT29 breach, it is vital to increase visibility, fully scope the incident before responding and thoroughly analyze accessed systems that don't contain known malware. Additional Reading  This PowerShell logging blog post contains more information on improving PowerShell visibility in your environment. This excellent whitepaper by William Ballenthin, Matt Graeber and Claudiu Teodorescu contains additional information on WMI offense, defense and forensics. This presentation by Christopher Glyer and Devon Kerr contains additional information on attacker use of WMI in past Mandiant investigations.
+
+Post 5 .......................................................................
+https://securelist.com/a-slice-of-2017-sofacy-activity/83930/
+
+Top N Summary
+-------------
+Throughout these waves, we observed that the targets provided connection, even tangential, to Ukraine and NATO military and diplomatic interests. As an example, we might see extraneous data in their SSL/TLS certificates that give away information about their provider or resources. In order to identify their presence, not only can you gain valuable insight into their targeting from intelligence reports and gain powerful means of detections with hunting tools like YARA, but out-of-band processing with a solution like KATA is important. ]net lifeofmentalservice[. ]net netcorpscanprotect[.
+
+Mean Scored Summary
+-------------------
+Throughout these waves, we observed that the targets provided connection, even tangential, to Ukraine and NATO military and diplomatic interests. Sofacy selectively used SPLM/CHOPSTICK modules as second stage implants to high interest targets for years now. The newer SPLM modules are deployed mostly to Central Asian based targets that may have a tie to NATO in some form. As an example, we might see extraneous data in their SSL/TLS certificates that give away information about their provider or resources. With a group like Sofacy, once their attention is detected on a network, it is important to review logins and unusual administrator access on systems, thoroughly scan and sandbox incoming attachments, and maintain two factor authentication for services like email and vpn access. In order to identify their presence, not only can you gain valuable insight into their targeting from intelligence reports and gain powerful means of detections with hunting tools like YARA, but out-of-band processing with a solution like KATA is important. ]net lifeofmentalservice[. ]net netcorpscanprotect[.
+
+Post 6 .......................................................................
+https://www.securityweek.com/apt29-uses-stealthy-backdoor-maintain-access-targets
+
+Top N Summary
+-------------
+Similar to other pieces of malware used by APT29, POSHSPY leverages PowerShell and the Windows Management Instrumentation (WMI) administrative framework. WMI can be used to obtain system information, start and stop processes, and configure conditional triggers. POSHSPY's use of WMI to both store and persist the backdoor code makes it nearly invisible to anyone not familiar with the intricacies of WMI. C&C communications are encrypted using AES and RSA public key cryptography. APT29 is also known as The Dukes, Cozy Bear and Cozy Duke.
+
+Mean Scored Summary
+-------------------
+Similar to other pieces of malware used by APT29, POSHSPY leverages PowerShell and the Windows Management Instrumentation (WMI) administrative framework. WMI can be used to obtain system information, start and stop processes, and configure conditional triggers. C&C communications are encrypted using AES and RSA public key cryptography. APT29 is also known as The Dukes, Cozy Bear and Cozy Duke.
+
+Post 7 .......................................................................
+https://www.securityweek.com/apt29-cyberspies-use-domain-fronting-evade-detection
+
+Top N Summary
+-------------
+APT29 Cyberspies Use Domain Fronting to Evade Detection
+
+The Russia-linked cyber espionage group known as APT29 has been using a technique called domain fronting in an effort to make it more difficult for targeted organizations to identify malicious traffic, FireEye reported on Monday. Open Whisper Systems recently implemented the technique to help Signal users in Egypt and the United Arab Emirates bypass government censorship. The group is believed to be behind the recent election-related attacks in the U.S. and a campaign targeting high-profile organizations in Norway. This provides the attacker a shell that they can use to execute commands with SYSTEM-level privileges, including to add or modify accounts. Attacks Hours After Trump Elected
+Related: U.S. Gov's "GRIZZLY STEPPE" Report Fails to Achieve Purpose
+
+Mean Scored Summary
+-------------------
+APT29 Cyberspies Use Domain Fronting to Evade Detection
+
+The Russia-linked cyber espionage group known as APT29 has been using a technique called domain fronting in an effort to make it more difficult for targeted organizations to identify malicious traffic, FireEye reported on Monday. Open Whisper Systems recently implemented the technique to help Signal users in Egypt and the United Arab Emirates bypass government censorship. The group is believed to be behind the recent election-related attacks in the U.S. and a campaign targeting high-profile organizations in Norway. This provides the attacker a shell that they can use to execute commands with SYSTEM-level privileges, including to add or modify accounts. APT29 adopted domain fronting long before these techniques were widely known, said FireEyes Matthew Dunwoody. Attacks Hours After Trump Elected
+Related: U.S. Gov's "GRIZZLY STEPPE" Report Fails to Achieve Purpose
+
+Post 8 .......................................................................
+https://www.securityweek.com/russian-hacker-tool-uses-legitimate-web-services-hide-attacks-fireeye
+
+Top N Summary
+-------------
+FireEye researchers explained that the malware communication process used by HAMMERTOSS could be broken down into several stages to explain how the tool operates, receives instructions, and extracts information from a victims network. The first stage leverages Twitter, and utilizes specific accounts that are created by a predictable algorithm and changed daily. While the image appears normal, it actually contains steganographic data. The APT29 attackers are suspected by FireEye to be a Russian APT group, and also believed to be connected to MiniDuke and OnionDuke attack campaigns. During our investigations, APT29 continually deployed new versions of backdoors to fix bugs and add functions, as well as kept tabs on network defenders activities to counter attempts to clean the clients system to maintain access to the victim environment."
+
+Mean Scored Summary
+-------------------
+Russian Hacker Tool Uses Legitimate Web Services to Hide Attacks: FireEye
+
+HAMMERTOSS Malware From Russian Hackers Uses Popular Web Services to Conceal Attacks
+A group of sophisticated hackers from Russia are using a malware tool that helps them hide Malicious activity within legitimate network traffic by leveraging common web services such as Twitter, GitHub and cloud storage providers, FireEye said Wednesday. FireEye researchers explained that the malware communication process used by HAMMERTOSS could be broken down into several stages to explain how the tool operates, receives instructions, and extracts information from a victims network. The first stage leverages Twitter, and utilizes specific accounts that are created by a predictable algorithm and changed daily. While the image appears normal, it actually contains steganographic data. Steganography is the practice of concealing a message, image, or file within another message, image, or file, FireEyes report explained. The APT29 attackers are suspected by FireEye to be a Russian APT group, and also believed to be connected to MiniDuke and OnionDuke attack campaigns. We speculate that APT29 may make modifications to HAMMERTOSS or abandon it altogether and develop a new tool if they discover incident responders or antivirus software is detecting it, FireEyes report concluded. During our investigations, APT29 continually deployed new versions of backdoors to fix bugs and add functions, as well as kept tabs on network defenders activities to counter attempts to clean the clients system to maintain access to the victim environment."
+
+Post 9 .......................................................................
+https://www.securityweek.com/norway-accuses-russia-cyberattack
+
+Top N Summary
+-------------
+Norway Accuses Russia of Cyberattack
+
+Oslo - Norway's foreign ministry, army and other institutions were targeted in a recent cyberattack by a group suspected of ties to Russian authorities, Norwegian intelligence -- which was among the targets -- said Friday. Known as APT 29, the group singled out by Oslo has already been accused of hacking interference in the US election last year. "Nine different email accounts were targeted in an attempt at what is called spear phishing, in other words malicious emails," Arne Christian Haugstoyl, an official with Norway's intelligence service PST, told television channel TV2. PST spokesman Martin Bernsen, quoted by daily Verdens Gang (VG), said there was "no reason to believe that classified information had been obtained in connection with the attack." The Scandinavian country on Wednesday summoned the Russian ambassador to lodge a protest after Moscow refused visas to two senior lawmakers in a move Oslo denounced as "unjustifiable".
+
+Mean Scored Summary
+-------------------
+PST spokesman Martin Bernsen, quoted by daily Verdens Gang (VG), said there was "no reason to believe that classified information had been obtained in connection with the attack." The Scandinavian country on Wednesday summoned the Russian ambassador to lodge a protest after Moscow refused visas to two senior lawmakers in a move Oslo denounced as "unjustifiable".
+
+Post 10 .......................................................................
+https://www.securityweek.com/google-warns-users-recent-state-sponsored-attacks
+
+Top N Summary
+-------------
+Google isn't exactly known for a spirit of friendly cooperation with the security industry at large, but it certainly has security resources." It is certainly true that users receiving Google warnings should take immediate steps to confirm the integrity of their account: Google doesn't say the attack was successful, but nor does it say it failed. Luis Corrons, technical director at PandaLabs insists there is a difference. "One thing is knowing that governments are harvesting loads of information from everyone, and another thing is an attack targeted at you, so they can compromise your computer and access (steal) all your information, sources, etc." Even better if this one is not connected to the Internet."
+
+Mean Scored Summary
+-------------------
+There are some differences in the wording of some of the warnings, but Google has confirmed that the Twitter postings appear to be authentic. In March of this year it started to use the larger more noticeable banners that are now appearing. The attack indicators were likely noticed up to a month earlier. (Last month, Russian hackers were also linkedwith targeting journalists investigating the MH17 crash.) Google does not publicly provide any evidence on the identity of the attackers -- and at least one target is a Hong-Kong-based Chinese activist (Joshua Wong Chi-fung). Google isn't exactly known for a spirit of friendly cooperation with the security industry at large, but it certainly has security resources." "Journalists and professors already know what they should do - and if they don't, they can easily look it up. It is certainly true that users receiving Google warnings should take immediate steps to confirm the integrity of their account: Google doesn't say the attack was successful, but nor does it say it failed. Luis Corrons, technical director at PandaLabs insists there is a difference. "One thing is knowing that governments are harvesting loads of information from everyone, and another thing is an attack targeted at you, so they can compromise your computer and access (steal) all your information, sources, etc." Even better if this one is not connected to the Internet."
+
+Post 11 .......................................................................
+https://www.securityweek.com/democracy-risk-poor-cybersecurity-foreign-interference-survey
+
+Top N Summary
+-------------
+It started in June 2016 in the run-up to the 2016 presidential election, when the Democratic National Committee (DNC) announced it had been hacked, and CrowdStrike accused Russia-based Cozy Bear (APT 29). "In all of this, Donald John Trump has acted in a manner contrary to his trust as President and subversive of constitutional government, to the great prejudice of the cause of law and justice and to the manifest injury of the people of the United States." More starkly, it adds, "Our democracy is at risk." Nevertheless, it is clear that there is strong voter concern over the future of elections and cybersecurity. The third is to create an auditable paper trail of votes in every state and precinct.
+
+Mean Scored Summary
+-------------------
+It started in June 2016 in the run-up to the 2016 presidential election, when the Democratic National Committee (DNC) announced it had been hacked, and CrowdStrike accused Russia-based Cozy Bear (APT 29). "In all of this, Donald John Trump has acted in a manner contrary to his trust as President and subversive of constitutional government, to the great prejudice of the cause of law and justice and to the manifest injury of the people of the United States." In June 2017, it conducted a nationwide survey (PDF) of 5,000 eligible U.S. voters, with particular reference to the upcoming midterm 2018 elections. Carbon Black concludes, "Cyberattacks against our elections seed doubt in democracy. The fact that 1 in 4 voters said they would be willing to do so speaks volumes about how deeply this doubt has penetrated. More starkly, it adds, "Our democracy is at risk." Nevertheless, it is clear that there is strong voter concern over the future of elections and cybersecurity. The report makes five proposals designed "to help restore voter confidence." The third is to create an auditable paper trail of votes in every state and precinct. Homeland Security Secretary Jeh Johnson said, "I have determined that election infrastructure in this country should be designated as a subsector of the existing Government Facilities critical infrastructure sector.
+
+Post 12 .......................................................................
+https://www.securityweek.com/cyberspies-launch-us-attacks-hours-after-trump-elected
+
+Top N Summary
+-------------
+Attacks Hours After Trump Elected
+
+Just hours after Donald Trump was elected president of the United States, researchers spotted a series of election-themed spear-phishing attacks aimed at think tanks and non-governmental organizations (NGOs) in the U.S. According to security firm Volexity, the attacks were launched by a Russia-linked threat group known as The Dukes, APT29, Cozy Bear and Cozy Duke. Volexity said the Dukes sent out spear-phishing emails from Gmail accounts and compromised email accounts at Harvards Faculty of Arts and Sciences (FAS). Washington has vowed to respond and some officials even claim the U.S. has already hacked Russias critical infrastructure. Networks 'All the Time', Says Spy Chief
+Related: State Election System Hacking Linked to Previous Attacks
+
+Mean Scored Summary
+-------------------
+Attacks Hours After Trump Elected
+
+Just hours after Donald Trump was elected president of the United States, researchers spotted a series of election-themed spear-phishing attacks aimed at think tanks and non-governmental organizations (NGOs) in the U.S. According to security firm Volexity, the attacks were launched by a Russia-linked threat group known as The Dukes, APT29, Cozy Bear and Cozy Duke. Networks 'All the Time', Says Spy Chief
+Related: State Election System Hacking Linked to Previous Attacks
+
+Post 13 .......................................................................
+https://www.securityweek.com/early-toolsets-used-dukes-attackers-suggest-russian-roots
+
+Top N Summary
+-------------
+Early Toolsets Used by "Dukes" Attackers Suggest Russian Roots
+
+A new report published last week by F-Secure details the activities of the threat group behind the notorious Duke malware family, and points to the numerous clues suggesting that the actor is sponsored by the Russian government. Researchers believe the advanced persistent threat (APT) actor behind these threats, dubbed the Dukes and APT29, has been active since at least 2008. The group has mainly focused on Western government institutions, political think tanks, government contractors, and other organizations that possess information related to foreign and security policy decisions. The GeminiDuke toolset was mainly designed for collecting information on the infected computers configuration. Based on the length of the Dukes activity, our estimate of the amount of resources invested in the operation and the fact that their activity only appears to be increasing, we believe the group to have significant and most critically, stable financial backing.
+
+Mean Scored Summary
+-------------------
+Early Toolsets Used by "Dukes" Attackers Suggest Russian Roots
+
+A new report published last week by F-Secure details the activities of the threat group behind the notorious Duke malware family, and points to the numerous clues suggesting that the actor is sponsored by the Russian government. Espionage operations involving threats such as CosmicDuke, MiniDuke, OnionDuke, CozyDuke (CozyBear/CozyCar), SeaDuke and CloudDuke have been analyzed by several security firms over the past years. Researchers believe the advanced persistent threat (APT) actor behind these threats, dubbed the Dukes and APT29, has been active since at least 2008. The group has mainly focused on Western government institutions, political think tanks, government contractors, and other organizations that possess information related to foreign and security policy decisions. The GeminiDuke toolset was mainly designed for collecting information on the infected computers configuration. Based on the length of the Dukes activity, our estimate of the amount of resources invested in the operation and the fact that their activity only appears to be increasing, we believe the group to have significant and most critically, stable financial backing. The Dukes have consistently operated large-scale campaigns against high-profile targets while concurrently engaging in smaller, more targeted campaigns with apparent coordination and no evidence of unintentional overlap or operational clashes, F-Secure explained in its report on the Dukes. We therefore believe the Dukes to work either within or directly for a government, thus ruling out the possibility of a criminal gang or another third party.
+
+Post 14 .......................................................................
+https://www.securityweek.com/us-officially-accuses-russia-election-hacks
+
+Top N Summary
+-------------
+In response, Moscow called the allegations "rubbish." Early last month, Director of National Intelligence James Clapper said that Russia hacks U.S. computer networks "all the time. In August, researchers from two security firms uncovered evidence that they say linked a Russian threat actor to the cyberattack targeting the U.S. Democratic Congressional Campaign Committee (DCCC). The DCCC was the second Democratic Party committee targeted by hackers over the summer. The first was theDemocratic National Committee (DNC)which, according to several security companies, wastargetedby two different Russia-linked advanced persistent threat (APT) actors: Cozy Bear, also known as Cozy Duke and APT29; and Fancy Bear, also known as APT28, Pawn Storm, Sofacy, Tsar Team, Strontium and Sednit.
+
+Mean Scored Summary
+-------------------
+In response, Moscow called the allegations "rubbish." Early last month, Director of National Intelligence James Clapper said that Russia hacks U.S. computer networks "all the time. In August, researchers from two security firms uncovered evidence that they say linked a Russian threat actor to the cyberattack targeting the U.S. Democratic Congressional Campaign Committee (DCCC). The DCCC was the second Democratic Party committee targeted by hackers over the summer.
+
+Post 15 .......................................................................
+https://www.securityweek.com/north-koreas-ddos-attacks-analyzed-based-ips
+
+Top N Summary
+-------------
+Earlier this month, the United States Computer Emergency Readiness Team (US-CERT) released a technical alert on behalf of the DHS and the FBI to warn organizations of North Koreas Hidden Cobra activities, particularly its DDoS botnet infrastructure. The organization has shared information on exploits, malware, IP addresses, file hashes, network signatures, and YARA rules associated with Hidden Cobra in an effort to help defenders detect the groups attacks. SecurityWeek has reached out to several other DDoS protection companies, but none of them could immediately provide any information on the Hidden Cobra attacks. Arbor said it conducted an analysis due to the fact that the US-CERT report, which the company has described as vague, was not clear on whether the IPs were bots or part of command and control (C&C) infrastructure, and it also failed to clarify if the IPs were innocent reflectors. Blindly loading such indicators into security systems could potentially cause more harm than good.
+This is not the first time the cybersecurity community has criticized a joint report from the FBI and the DHS.
+
+Mean Scored Summary
+-------------------
+Earlier this month, the United States Computer Emergency Readiness Team (US-CERT) released a technical alert on behalf of the DHS and the FBI to warn organizations of North Koreas Hidden Cobra activities, particularly its DDoS botnet infrastructure. The organization has shared information on exploits, malware, IP addresses, file hashes, network signatures, and YARA rules associated with Hidden Cobra in an effort to help defenders detect the groups attacks. SecurityWeek has reached out to several other DDoS protection companies, but none of them could immediately provide any information on the Hidden Cobra attacks. Arbor said it conducted an analysis due to the fact that the US-CERT report, which the company has described as vague, was not clear on whether the IPs were bots or part of command and control (C&C) infrastructure, and it also failed to clarify if the IPs were innocent reflectors. Blindly loading such indicators into security systems could potentially cause more harm than good.
+This is not the first time the cybersecurity community has criticized a joint report from the FBI and the DHS. Related: IoT Botnets Fuel DDoS Attacks Growth
+
+Post 16 .......................................................................
+https://www.securityweek.com/man-cloud-attacks-leverage-storage-services-steal-data
+
+Top N Summary
+-------------
+One worrying aspect highlighted by Imperva in its report is that the attackers dont even need to compromise targeted users credentials to gain access to their file synchronization accounts. The tool can be delivered to the victim via phishing or drive-by download attacks, experts said. Once they have access to the victims account, attackers can steal the files placed in the sync folder. In addition to stealing information, attackers can also manipulate the files located in this folder (e.g. Malicious actors that want to maintain access to the victims machine can also set up a backdoor.
+
+Mean Scored Summary
+-------------------
+One worrying aspect highlighted by Imperva in its report is that the attackers dont even need to compromise targeted users credentials to gain access to their file synchronization accounts. The tool can be delivered to the victim via phishing or drive-by download attacks, experts said. Once they have access to the victims account, attackers can steal the files placed in the sync folder. In addition to stealing information, attackers can also manipulate the files located in this folder (e.g. Malicious actors that want to maintain access to the victims machine can also set up a backdoor. HAMMERTOSS attacks involve the use of Twitter and GitHub for C&C communications, and cloud storage services for data exfiltration.
+

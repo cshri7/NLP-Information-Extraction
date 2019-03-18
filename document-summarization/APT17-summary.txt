@@ -1,0 +1,96 @@
+Post 1 .......................................................................
+https://www.fireeye.com//current-threats/apt-groups/rpt-apt17.html
+
+Top N Summary
+-------------
+APT17: Hiding in Plain
+Sight - FireEye and Microsoft Expose Obfuscation Tactic     Threat actors have found a new way to
+dodge security professionals, using popular websites legitimate
+functionalities to hide their hacking operations. FireEye Threat
+Intelligence and Microsoft Threat Intelligence Center discovered a
+China-based threat group dubbed APT17 using Microsofts TechNet blog
+for its Command-and-Control (CnC) operation. Interestingly, APT17 chose not to
+compromise TechNet, but rather created profiles and posted in forums
+to post its encoded CnC. Doing so made it more difficult for network
+security professionals to determine the CnCs true location, which
+allowed APT17 to conduct its activities for longer than it might have otherwise. This report details how we discovered the
+operation, what was done to shut it down, and how other threat groups
+have already adopted a hide in plain sight approach to hacking.
+
+Mean Scored Summary
+-------------------
+APT17: Hiding in Plain
+Sight - FireEye and Microsoft Expose Obfuscation Tactic     Threat actors have found a new way to
+dodge security professionals, using popular websites legitimate
+functionalities to hide their hacking operations.
+
+Post 2 .......................................................................
+https://securelist.com/ksb-threat-predictions-for-2018/83169/
+
+Top N Summary
+-------------
+This allows us to understand the actual attack surface and attacker tactics and to further hone our hunting and detection to address new attacks. Our assessment is that the total number of mobile malware existing in the wild is likely higher than currently reported, due to shortcomings in telemetry that makes these more difficult to spot and eradicate. While many have grown desensitized to the weight of these breaches, its important to understand that the release of PII at scale endangers a fundamental pillar of e-commerce and the bureaucratic convenience of adopting the Internet for important paperwork. Perhaps thus far resilient alternatives like ApplePay will come into vogue as de facto means of insuring identity and transactions, but in the meantime we may see a slowdown in the critical role of the Internet for modernizing tedious bureaucratic processes and cutting operational costs. At a time of increased interest in misdirection and false flags, this is no small feat.
+
+Mean Scored Summary
+-------------------
+Download the Kaspersky Security Bulletin: Threat Predictions for 2018  Introduction  As hard as it is to believe, its once again time for our APT Predictions. This allows us to understand the actual attack surface and attacker tactics and to further hone our hunting and detection to address new attacks. Our assessment is that the total number of mobile malware existing in the wild is likely higher than currently reported, due to shortcomings in telemetry that makes these more difficult to spot and eradicate. In 2018, we estimate that destructive attacks will continue to rise, leveraging its status as the most visible type of cyberwarfare. In March 2017, IoT encryption scheme proposals developed by the NSA came into question with Simon and Speck variant ISO approvals being both withdrawn and delayed a second time . While many have grown desensitized to the weight of these breaches, its important to understand that the release of PII at scale endangers a fundamental pillar of e-commerce and the bureaucratic convenience of adopting the Internet for important paperwork. Perhaps thus far resilient alternatives like ApplePay will come into vogue as de facto means of insuring identity and transactions, but in the meantime we may see a slowdown in the critical role of the Internet for modernizing tedious bureaucratic processes and cutting operational costs. At a time of increased interest in misdirection and false flags, this is no small feat.
+
+Post 3 .......................................................................
+https://www.securityweek.com/chinese-threat-group-uses-microsofts-technet-portal-host-cc-ips
+
+Top N Summary
+-------------
+Instead, they are using the portals legitimate functionality to host encoded strings that hide C&C IP addresses. In one example mentioned in the report from FireEye and Microsoft, the encoded IP address was published by the attackers in a forum post that appeared to contain useful information for solving a users problem. If the C2 server is discovered or shut down, the threat actors can update the encoded IP address on TechNet to maintain control of the victims machines, the companies explained in the report. Experts have pointed out that the use of a legitimate service, dubbed by some a dead drop resolver, and the embedding of an encoded IP address benefits the attackers because it delays detection, and can prevent the discovery of the C&C servers IP address. After discovering the BLACKCOFFEE activity, the FireEye-Microsoft team encoded a sinkhole IP address into the profile pages and forum threads and locked the accounts to prevent the threat actors from making any changes, the report noted.
+
+Mean Scored Summary
+-------------------
+In one example mentioned in the report from FireEye and Microsoft, the encoded IP address was published by the attackers in a forum post that appeared to contain useful information for solving a users problem. If the C2 server is discovered or shut down, the threat actors can update the encoded IP address on TechNet to maintain control of the victims machines, the companies explained in the report. Experts have pointed out that the use of a legitimate service, dubbed by some a dead drop resolver, and the embedding of an encoded IP address benefits the attackers because it delays detection, and can prevent the discovery of the C&C servers IP address. After discovering the BLACKCOFFEE activity, the FireEye-Microsoft team encoded a sinkhole IP address into the profile pages and forum threads and locked the accounts to prevent the threat actors from making any changes, the report noted.
+
+Post 4 .......................................................................
+https://www.securityweek.com/researchers-link-ccleaner-attack-state-sponsored-chinese-hackers
+
+Top N Summary
+-------------
+Between August 15 and September 12, over 2.27 million users downloaded the infected binaries. Investigation into the attack revealed that the backdoored code was only the first stage of the intended user compromise, and that a second-stage payload had been delivered to a small number of selected targets. Also referred to as APT17 or DeputyDog, the group was previously associated with Operation Aurora, which started in 2009 and targeted companies such as Google, Adobe Systems, Juniper Networks, Rackspace, Yahoo, Symantec, Northrop Grumman, and Dow Chemical. Considering this new evidence, the malware can be attributed to the Axiom group due to both the nature of the attack itself and the specific code reuse throughout that our technology was able to uncover, Rosenberg concludes. Related: Backup Database Reveals Scale of CCleaner Hack
+Related: Attack on Software Firm Was Sophisticated, Highly Targeted
+
+Mean Scored Summary
+-------------------
+Between August 15 and September 12, over 2.27 million users downloaded the infected binaries. Also referred to as APT17 or DeputyDog, the group was previously associated with Operation Aurora, which started in 2009 and targeted companies such as Google, Adobe Systems, Juniper Networks, Rackspace, Yahoo, Symantec, Northrop Grumman, and Dow Chemical. Considering this new evidence, the malware can be attributed to the Axiom group due to both the nature of the attack itself and the specific code reuse throughout that our technology was able to uncover, Rosenberg concludes. Related: Backup Database Reveals Scale of CCleaner Hack
+Related: Attack on Software Firm Was Sophisticated, Highly Targeted
+
+Post 5 .......................................................................
+https://www.securityweek.com/ccleaner-incident-investigation-reveals-possible-stage-3-payload
+
+Top N Summary
+-------------
+The attack was disclosed on September 18, when security firm Avast revealed that 2.27 million users worldwide had downloaded an infected CCleaner installation file between August 15 and September 12. The code in the modified installers could collect non-sensitive information from the infected machines, and could also deliver a second stage binary. This revealed that the incident was in fact a highly targeted attack, as the second-stage payload was delivered to only 40 computers out of the millions that downloaded stage one. The tool was installed on the four Piriform computers on April 12th, 2017, while the preliminary version of the second stage had been installed on the computers March 12th, 2017, Avast says. While ShadowPad was installed on the Piriform network itself and, as far as we can tell through our investigations today, not on any of the CCleaner customers computers, we believe that this tool was the intended third stage for the CCleaner customers, Avast says.
+
+Mean Scored Summary
+-------------------
+The attack was disclosed on September 18, when security firm Avast revealed that 2.27 million users worldwide had downloaded an infected CCleaner installation file between August 15 and September 12. The code in the modified installers could collect non-sensitive information from the infected machines, and could also deliver a second stage binary. This revealed that the incident was in fact a highly targeted attack, as the second-stage payload was delivered to only 40 computers out of the millions that downloaded stage one. The tool was installed on the four Piriform computers on April 12th, 2017, while the preliminary version of the second stage had been installed on the computers March 12th, 2017, Avast says. The security firm also discovered ShadowPad log files containing encrypted key strokes from a keylogger that became active on the infected machines on April 12, 2017. While ShadowPad was installed on the Piriform network itself and, as far as we can tell through our investigations today, not on any of the CCleaner customers computers, we believe that this tool was the intended third stage for the CCleaner customers, Avast says.
+
+Post 6 .......................................................................
+https://www.securityweek.com/researchers-link-several-state-sponsored-chinese-spy-groups
+
+Top N Summary
+-------------
+Researchers claim that various threat groups previously attributed to Chinese-speaking actors are all connected to Chinas state intelligence apparatus under what they call the Winnti umbrella.
+Threat actors such as Winnti, Gref, PlayfullDragon, APT17, DeputyDog, Axiom, BARIUM, LEAD, PassCV, Wicked Panda, and ShadowPad are all believed to be part of the Winnti umbrella based on the use of similar tactics, techniques, and procedures (TTPs), and overlaps in infrastructure and operations. The main goal appears to be harvesting code-signing certificates and manipulating software, with a secondary objective of financial gain. These groups continue to launch campaigns, with operations seen as recently as late March. The cyberspies often target cloud storage accounts from which they hope to obtain code-signing certificates. However, we have observed a few cases of the attackers mistakenly accessing victim machines without a proxy, potentially identifying the true location of the individual running the session.
+
+Mean Scored Summary
+-------------------
+Researchers claim that various threat groups previously attributed to Chinese-speaking actors are all connected to Chinas state intelligence apparatus under what they call the Winnti umbrella.
+Threat actors such as Winnti, Gref, PlayfullDragon, APT17, DeputyDog, Axiom, BARIUM, LEAD, PassCV, Wicked Panda, and ShadowPad are all believed to be part of the Winnti umbrella based on the use of similar tactics, techniques, and procedures (TTPs), and overlaps in infrastructure and operations. The main goal appears to be harvesting code-signing certificates and manipulating software, with a secondary objective of financial gain. These groups continue to launch campaigns, with operations seen as recently as late March. The cyberspies often target cloud storage accounts from which they hope to obtain code-signing certificates. However, we have observed a few cases of the attackers mistakenly accessing victim machines without a proxy, potentially identifying the true location of the individual running the session.
+
+Post 7 .......................................................................
+https://www.securityweek.com/cyber-espionage-targets-interests-south-china-sea
+
+Top N Summary
+-------------
+These include the Philippines Court of Justice, the organizers of last November's APEC Summit held in the Philippines (during which it was expected that the South China Sea dispute would be discussed), and a major international law firm that represents one of the parties in the dispute. The malware itself is a remote access trojan (RAT) capable of downloading additional malware and exfiltrating files to the C&C server. The malware shows strong indications of Chinese origins, with code reused from Chinese forums. "The malware's VBA base64 decoder function seems to be popular among Chinese programmers," notes the report. But F-Secure does not attribute the attacks to the Chinese government, nor even to a specific Chinese malware group.
+
+Mean Scored Summary
+-------------------
+It named it NanHaiShu, and has today published an analysis of the methodology and malware involved. These include the Philippines Court of Justice, the organizers of last November's APEC Summit held in the Philippines (during which it was expected that the South China Sea dispute would be discussed), and a major international law firm that represents one of the parties in the dispute. The malware itself is a remote access trojan (RAT) capable of downloading additional malware and exfiltrating files to the C&C server. The malware shows strong indications of Chinese origins, with code reused from Chinese forums. "The malware's VBA base64 decoder function seems to be popular among Chinese programmers," notes the report. But F-Secure does not attribute the attacks to the Chinese government, nor even to a specific Chinese malware group. Despite F-Secure's refusal to describe this campaign as state-sponsored, there will undoubtedly be those who will make such an assumption.
+

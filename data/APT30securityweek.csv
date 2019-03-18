@@ -1,0 +1,69 @@
+,query,text,url
+0,APT30,"FireEye Uncovers Decade-Long Cyber Espionage Campaign Targeting South East Asia
+
+
+FireEye on Sunday uncovered details of a decade-long cyber espionage campaign carried out by China targeting governments, journalists and businesses in South East Asia and India.
+Likely state sponsored by the Chinese government, FireEye said the threat actor group has been conducting cyber espionage operations since at least 2005 and is one of the first to use malware that infects air-gapped networks.
+Dubbed APT30 by FireEye, the group is supported by seasoned software developers following well-organized software development practices.
+According to FireEye, the attackers are “particularly interested” in targets holding information related to regional political, military, and economic issues, disputed territories, and media outlets and journalists who cover topics pertaining to China and the legitimacy of the Chinese Communist Party.
+The group has consistently targeted organizations located in Malaysia, Vietnam, Thailand, Nepal, Singapore, Philippines and Indonesia among others.
+In a 69-page report released Sunday, FireEye said APT30 uses three pieces of malware designed to spread to removable drives with the intent of eventually infecting and stealing data from computers located on air-gapped networks. 
+“While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track,” the report said.
+The attackers are likely operating at a sufficiently large scale that they benefit from the automated management of many of their tools, FireEye said, adding that the threat actors are interested in maintaining the latest and greatest versions of their tools in their victims’ environments.
+“This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data,” the report said.
+FireEye said many of the attack tools have not been used by any other threat actors.
+Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception – a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said.
+The developers of the attack tools “systematically label” and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time.
+The malware command and control (C2) communications include a version check feature that enables the malware to update itself and provide a continuous update management capability.   
+The attackers frequently registered their own domains for use with malware C2, some of the which have been in use for many years.
+“APT30 appears to focus not on stealing businesses’ valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party,” the report concluded.
+FireEye believes the attempts to compromise journalists and media outlets could be used to punish outlets that do not provide favorable coverage. 
+As expected, China denied any involvement in the cyber attacks.
+""The Chinese government firmly opposes hacking attacks, this position is consistent and clear,"" foreign ministry spokesman Hong Lei in Beijing, told AFP.
+“Advanced threat group like APT 30 illustrate that state-sponsored cyber espionage affects a variety of governments and corporations across the world,” said Dan McWhorter, VP of threat intelligence at FireEye. “Given the consistency and success of APT 30 in Southeast Asia and India, the threat intelligence on APT 30 we are sharing will empower the region’s governments and businesses to quickly begin to detect, prevent, analyze and respond to this established threat.”
+The report is available online in PDF format.
+FireEye also plans to publish indicators of compromise (IOCs) which can be downloaded from GitHub to help organizations detect APT 30 activity.
+*Updated with China response",https://www.securityweek.com/fireeye-uncovers-decade-long-cyber-espionage-campaign-targeting-south-east-asia
+1,APT30,"Naikon Threat Group Linked to Chinese Army
+
+Cyber threat intelligence companies ThreatConnect and Defense Group released on Thursday a joint report linking the advanced persistent threat (APT) group known as “Naikon” to a unit of the Chinese People’s Liberation Army (PLA).
+Naikon, a threat actor that has been active since at least 2010, has been targeting organizations around the South China Sea in search for geopolitical intelligence. The group has focused its efforts on breaching the systems of government, military and civil organizations in countries such as Malaysia, the Philippines, Cambodia, Vietnam, Indonesia, Myanmar, Singapore, Laos and Nepal.
+The activities of what later would become known as the Naikon APT came to light in 2012 when a hacktivist using the online moniker “Hardcore Charlie” published thousands of documents allegedly stolen from the systems of a Beijing-based military contractor named the China National Import & Export Corp (CEIEC). The files appeared to come from the networks of various governments and businesses in the U.S. and countries in the South China Sea region.
+The group’s operations and tools were later analyzed by researchers at Trend Micro, ThreatConnect, which in may 2014 noted that the actor’s efforts were aligned with the Chinese government’s interests, and Kaspersky, which noted in a report published earlier this year that the members of the group were Chinese speakers.
+The report published now by ThreatConnect and Defense Group covers various aspects of Naikon’s operations, including infrastructure, tools and tactics. However, researchers have focused on the connection between Naikon and one of the PLA’s technical reconnaissance bureaus (TBRs), namely the one located in the Chinese city of Kunming and known as Unit 78020.
+The report has been released just as Chinese President Xi Jinping heads to Washington for summit talks with his U.S. counterpart Barack Obama on topics such as cyber theft and the South China Sea.
+The intelligence gathered by ThreatConnect and Defense Group for attribution purposes focuses on a dynamic domain used by Naikon since at least 2010, namely greensky27.vicp.net.
+An analysis of the IP addresses associated with this domain shows that the city of Kunming is a central hub since a majority of connections have been traced there.
+This and other data collected by experts has led them to believe that the individual controlling greensky27.vicp.net is located near or in Kunming. Further analysis has revealed that this person is likely a PLA officer named Ge Xing.
+One of the clues tying Ge Xing to the greensky27.vicp.net domain is the “GreenSky27” moniker. The man has utilized this username on several online platforms, including the microblogging platform QQ Weibo, forums, and social media websites.
+Account information collected by researchers along with photographs posted by GreenSky27 on the Web allowed investigators to determine that Ge Xing from Kunming is behind this online moniker. Furthermore, evidence available on Chinese websites and his online profiles shows the connection between this individual and the PLA.
+“He launched his career as a PLA officer by attending the PLA International Studies University in 1998. Academic papers written by Ge Xing as a graduate student specifically place him at the Kunming TRB in 2008. Photos from his GreenSky27 QQ Weibo account from 2011 to 2014 place him at the Kunming TRB headquarters compound, underscoring his ongoing connection with the PLA,” researchers wrote in their report.
+After finding evidence linking Ge Xing to the PLA, experts looked for clues showing the man’s involvement in the Naikon campaigns. Researchers determined that whenever Ge’s posts on personal accounts indicated that he was traveling outside of Kunming, the greensky27.vicp.net infrastructure was either offline or parked. The domain went dormant when Ge’s child was born and when he visited a memorial hall dedicated to his family’s ancestors.
+ThreatConnect and Defense Group also noted that activity on the domain dropped considerably in May 2014 when the U.S. Department of Justice announced charging five Chinese military officers from the Army’s Unit 61398. On the same day, ThreatConnect published a report on Naikon’s activities.
+In the report published this year, Kaspersky Lab pointed out that Naikon’s activities align closely with a group dubbed by FireEye “APT30.” Toni Gidwani, director of analysis and production at ThreatConnect, noted that APT30 is a different group.
+“Although there appears to be some common targeting between the two APTs, there are differences between how the two register and manage their infrastructure,” Gidwani told SecurityWeek. “At this point in our research, we would not say they align closely although that certainly does not preclude the possibility of multiple China-based APTs targeting South China Sea equities.”",https://www.securityweek.com/naikon-threat-group-linked-chinese-army
+2,APT30,"FireEye Uncovers Decade-Long Cyber Espionage Campaign Targeting South East Asia
+
+
+FireEye on Sunday uncovered details of a decade-long cyber espionage campaign carried out by China targeting governments, journalists and businesses in South East Asia and India.
+Likely state sponsored by the Chinese government, FireEye said the threat actor group has been conducting cyber espionage operations since at least 2005 and is one of the first to use malware that infects air-gapped networks.
+Dubbed APT30 by FireEye, the group is supported by seasoned software developers following well-organized software development practices.
+According to FireEye, the attackers are “particularly interested” in targets holding information related to regional political, military, and economic issues, disputed territories, and media outlets and journalists who cover topics pertaining to China and the legitimacy of the Chinese Communist Party.
+The group has consistently targeted organizations located in Malaysia, Vietnam, Thailand, Nepal, Singapore, Philippines and Indonesia among others.
+In a 69-page report released Sunday, FireEye said APT30 uses three pieces of malware designed to spread to removable drives with the intent of eventually infecting and stealing data from computers located on air-gapped networks. 
+“While APT30 is certainly not the only group to build functionality to infect air-gapped networks into their operations, they appear to have made this a consideration at the very beginning of their development efforts in 2005, significantly earlier than many other advanced groups we track,” the report said.
+The attackers are likely operating at a sufficiently large scale that they benefit from the automated management of many of their tools, FireEye said, adding that the threat actors are interested in maintaining the latest and greatest versions of their tools in their victims’ environments.
+“This suite of tools includes downloaders, backdoors, a central controller, and several components designed to infect removable drives and cross air-gapped networks to steal data,” the report said.
+FireEye said many of the attack tools have not been used by any other threat actors.
+Interestingly, the attack tools, tactics, and procedures (TTPs) have remained markedly consistent since inception – a rare finding as most APT actors typically change up their TTPs regularly to evade detection, FireEye said.
+The developers of the attack tools “systematically label” and keep track of their malware versioning and go as far as using mutexes and events to ensure only a single copy is running at any given time.
+The malware command and control (C2) communications include a version check feature that enables the malware to update itself and provide a continuous update management capability.   
+The attackers frequently registered their own domains for use with malware C2, some of the which have been in use for many years.
+“APT30 appears to focus not on stealing businesses’ valuable intellectual property or cutting-edge technologies, but on acquiring sensitive data about the immediate Southeast Asia region, where they pursue targets that pose a potential threat to the influence and legitimacy of the Chinese Communist Party,” the report concluded.
+FireEye believes the attempts to compromise journalists and media outlets could be used to punish outlets that do not provide favorable coverage. 
+As expected, China denied any involvement in the cyber attacks.
+""The Chinese government firmly opposes hacking attacks, this position is consistent and clear,"" foreign ministry spokesman Hong Lei in Beijing, told AFP.
+“Advanced threat group like APT 30 illustrate that state-sponsored cyber espionage affects a variety of governments and corporations across the world,” said Dan McWhorter, VP of threat intelligence at FireEye. “Given the consistency and success of APT 30 in Southeast Asia and India, the threat intelligence on APT 30 we are sharing will empower the region’s governments and businesses to quickly begin to detect, prevent, analyze and respond to this established threat.”
+The report is available online in PDF format.
+FireEye also plans to publish indicators of compromise (IOCs) which can be downloaded from GitHub to help organizations detect APT 30 activity.
+*Updated with China response",https://www.securityweek.com/fireeye-uncovers-decade-long-cyber-espionage-campaign-targeting-south-east-asia

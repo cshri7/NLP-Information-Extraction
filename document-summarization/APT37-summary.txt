@@ -1,0 +1,95 @@
+Post 1 .......................................................................
+https://www.fireeye.com//blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html
+
+Top N Summary
+-------------
+Read our report, APT37 (Reaper): The Overlooked North Korean Actor , to learn more about our assessment that this threat actor is working on behalf of the North Korean government, as well as various other details about their operations:   Targeting: Primarily South Korea  though also Japan, Vietnam and the Middle East  in various industry verticals, including chemicals, electronics, manufacturing, aerospace, automotive, and healthcare. Initial Infection Tactics: Social engineering tactics tailored specifically to desired targets, strategic web compromises typical of targeted cyber espionage operations, and the use of torrent file-sharing sites to distribute malware more indiscriminately. Exploited Vulnerabilities: Frequent exploitation of vulnerabilities in Hangul Word Processor (HWP), as well as Adobe Flash. The group has demonstrated access to zero-day vulnerabilities (CVE-2018-0802), and the ability to incorporate them into operations. Command and Control Infrastructure: Compromised servers, messaging platforms, and cloud service providers to avoid detection.
+
+Mean Scored Summary
+-------------------
+Read our report, APT37 (Reaper): The Overlooked North Korean Actor , to learn more about our assessment that this threat actor is working on behalf of the North Korean government, as well as various other details about their operations:   Targeting: Primarily South Korea  though also Japan, Vietnam and the Middle East  in various industry verticals, including chemicals, electronics, manufacturing, aerospace, automotive, and healthcare. Initial Infection Tactics: Social engineering tactics tailored specifically to desired targets, strategic web compromises typical of targeted cyber espionage operations, and the use of torrent file-sharing sites to distribute malware more indiscriminately. Exploited Vulnerabilities: Frequent exploitation of vulnerabilities in Hangul Word Processor (HWP), as well as Adobe Flash. Command and Control Infrastructure: Compromised servers, messaging platforms, and cloud service providers to avoid detection.
+
+Post 2 .......................................................................
+https://www.securityweek.com/north-korean-hacking-group-apt37-expands-targets
+
+Top N Summary
+-------------
+The threat actor is tracked by FireEye as APT37 and Reaper, and by other security firms as Group123 (Cisco) and ScarCruft (Kaspersky). APT37 has been active since at least 2012, but it has not been analyzed as much as the North Korea-linked Lazarus group, which is said to be responsible for high-profile attacks targeting Sony and financial organizations worldwide. However, according to FireEye, the group expanded its attacks to Japan, Vietnam and even the Middle East last year. We anticipate APT37 will be leveraged more and more in previously unfamiliar roles and regions, especially as pressure mounts on their sponsor.
+Neither Kaspersky nor Cisco have explicitly attributed the APT37 attacks to North Korea. Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Mean Scored Summary
+-------------------
+The threat actor is tracked by FireEye as APT37 and Reaper, and by other security firms as Group123 (Cisco) and ScarCruft (Kaspersky). APT37 has been active since at least 2012, but it has not been analyzed as much as the North Korea-linked Lazarus group, which is said to be responsible for high-profile attacks targeting Sony and financial organizations worldwide. We anticipate APT37 will be leveraged more and more in previously unfamiliar roles and regions, especially as pressure mounts on their sponsor.
+Neither Kaspersky nor Cisco have explicitly attributed the APT37 attacks to North Korea. Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Post 3 .......................................................................
+https://www.securityweek.com/researchers-link-new-android-backdoor-north-korean-hackers
+
+Top N Summary
+-------------
+Researchers Link New Android Backdoor to North Korean Hackers
+
+The recently discovered KevDroid Android backdoor is tied to the North Korean hacking group APT37, Palo Alto Networks researchers say. Recently, the group was said to have targeted victims with Android spyware via spear phishing emails. According to Palo Alto Networks, however, KevDroid is indeed part of APT37s arsenal of mobile tools. One version of the malware, Palo Altos Ruchna Nigam discovered, would call home to cgalim[. The threat actor apparently uses two Trojanized application versions to distribute Android spyware variants.
+
+Mean Scored Summary
+-------------------
+Researchers Link New Android Backdoor to North Korean Hackers
+
+The recently discovered KevDroid Android backdoor is tied to the North Korean hacking group APT37, Palo Alto Networks researchers say. Recently, the group was said to have targeted victims with Android spyware via spear phishing emails. According to Palo Alto Networks, however, KevDroid is indeed part of APT37s arsenal of mobile tools. One version of the malware, Palo Altos Ruchna Nigam discovered, would call home to cgalim[. The threat actor apparently uses two Trojanized application versions to distribute Android spyware variants.
+
+Post 4 .......................................................................
+https://www.securityweek.com/north-korea-cyber-threat-more-aggressive-china-us-firm
+
+Top N Summary
+-------------
+APT37 was "primarily based in North Korea", it said, and its choice of targets "aligns with North Korean state interests". Five of its members were later indicted by US federal prosecutors on charges of stealing information from US firms, provoking a diplomatic row between Washington and Beijing. "We have seen both North Korean and Chinese operations range from simplistic to very technically sophisticated," FireEye's director of intelligence analysis John Hultquist told AFP. "The sharpest difference between the two really lies in the aggressive nature of North Korean operations," he added. "
+The North is known to operate an army of thousands of well-trained hackers that have attacked South Korean firms, institutions and even rights groups helping North Korean refugees.
+
+Mean Scored Summary
+-------------------
+North Korea Cyber Threat 'More Aggressive Than China': US Firm
+
+North Korean hackers are becoming more aggressive than their Chinese counterparts, a leading US cybersecurity firm warned Tuesday, as it identified a Pyongyang-linked group as an "advanced persistent threat". Analysts say the isolated and impoverished but nuclear-armed North has stepped up hacking operations partly to raise money for the cash-strapped regime, which is subject to multiple sanctions over its atomic weapons and ballistic missile programs. APT37 was "primarily based in North Korea", it said, and its choice of targets "aligns with North Korean state interests". Five of its members were later indicted by US federal prosecutors on charges of stealing information from US firms, provoking a diplomatic row between Washington and Beijing. "We have seen both North Korean and Chinese operations range from simplistic to very technically sophisticated," FireEye's director of intelligence analysis John Hultquist told AFP. "The sharpest difference between the two really lies in the aggressive nature of North Korean operations," he added. "Whereas Chinese actors have typically favoured quiet espionage, North Korea has demonstrated a willingness to carry out some very aggressive activity, ranging from attack to outright global crime." "
+The North is known to operate an army of thousands of well-trained hackers that have attacked South Korean firms, institutions and even rights groups helping North Korean refugees.
+
+Post 5 .......................................................................
+https://www.securityweek.com/north-korean-hacking-group-apt37-expands-targets
+
+Top N Summary
+-------------
+The threat actor is tracked by FireEye as APT37 and Reaper, and by other security firms as Group123 (Cisco) and ScarCruft (Kaspersky). APT37 has been active since at least 2012, but it has not been analyzed as much as the North Korea-linked Lazarus group, which is said to be responsible for high-profile attacks targeting Sony and financial organizations worldwide. However, according to FireEye, the group expanded its attacks to Japan, Vietnam and even the Middle East last year. We anticipate APT37 will be leveraged more and more in previously unfamiliar roles and regions, especially as pressure mounts on their sponsor.
+Neither Kaspersky nor Cisco have explicitly attributed the APT37 attacks to North Korea. Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Mean Scored Summary
+-------------------
+The threat actor is tracked by FireEye as APT37 and Reaper, and by other security firms as Group123 (Cisco) and ScarCruft (Kaspersky). APT37 has been active since at least 2012, but it has not been analyzed as much as the North Korea-linked Lazarus group, which is said to be responsible for high-profile attacks targeting Sony and financial organizations worldwide. We anticipate APT37 will be leveraged more and more in previously unfamiliar roles and regions, especially as pressure mounts on their sponsor.
+Neither Kaspersky nor Cisco have explicitly attributed the APT37 attacks to North Korea. Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Post 6 .......................................................................
+https://www.securityweek.com/north-koreas-flash-player-flaw-now-exploited-cybercriminals
+
+Top N Summary
+-------------
+North Korea's Flash Player Flaw Now Exploited by Cybercriminals
+
+Endpoint security firm Morphisec has spotted a massive campaign that exploits a recently patched Adobe Flash Player vulnerability to deliver malware. The flaw in question, CVE-2018-4878, is a use-after-free bug that Adobe patched on February 6, following reports that North Korean hackers had been exploiting the vulnerability in attacks aimed at South Korea. A DLL file is then downloaded by the shellcode and executed using the Microsoft Register Server (regsvr32) utility. Since the URLs included in the spam emails were created using Googles URL shortening service, researchers determined that each of the different links delivered in this campaign had been clicked tens and even hundreds of times within 3-4 days of being created. As expected and predicted, adversaries have quickly adopted the Flash exploit, which is easily reproducible, Morphisecs Michael Gorelik explained in a blog post.
+
+Mean Scored Summary
+-------------------
+North Korea's Flash Player Flaw Now Exploited by Cybercriminals
+
+Endpoint security firm Morphisec has spotted a massive campaign that exploits a recently patched Adobe Flash Player vulnerability to deliver malware. The flaw in question, CVE-2018-4878, is a use-after-free bug that Adobe patched on February 6, following reports that North Korean hackers had been exploiting the vulnerability in attacks aimed at South Korea. If users comply, the Flash vulnerability is exploited and the Windows command prompt is executed. A DLL file is then downloaded by the shellcode and executed using the Microsoft Register Server (regsvr32) utility. Since the URLs included in the spam emails were created using Googles URL shortening service, researchers determined that each of the different links delivered in this campaign had been clicked tens and even hundreds of times within 3-4 days of being created. As expected and predicted, adversaries have quickly adopted the Flash exploit, which is easily reproducible, Morphisecs Michael Gorelik explained in a blog post.
+
+Post 7 .......................................................................
+https://www.securityweek.com/researchers-say-code-reuse-links-north-koreas-malware
+
+Top N Summary
+-------------
+The use of these malware families has been already attributed to the Lazarus Group, which is tracked by the U.S. government as Hidden Cobra. The security researchers also discovered a connection between the Tapaoux (or DarkHotel) malware family and samples from Operation Troy. On Thursday, the U.S. Department of Homeland Security (DHS) warned of a new malware variant dubbed KEYMARBLE, which the U.S. government has attributed to malicious cyber activity by the North Korean government. More details on KEYMARBLE are available from the malware report (AR18-221A) from the DHS. Related: DHS, FBI Share Details of North Korea's 'Typeframe' Malware
+Related: U.S.
+
+Mean Scored Summary
+-------------------
+The use of these malware families has been already attributed to the Lazarus Group, which is tracked by the U.S. government as Hidden Cobra. The security researchers also discovered a connection between the Tapaoux (or DarkHotel) malware family and samples from Operation Troy. On Thursday, the U.S. Department of Homeland Security (DHS) warned of a new malware variant dubbed KEYMARBLE, which the U.S. government has attributed to malicious cyber activity by the North Korean government. DHS says the malware is a Remote Access Trojan (RAT) capable of accessing device configuration data, downloading additional files, executing commands, modifying the registry, capturing screenshots, and exfiltrating data. More details on KEYMARBLE are available from the malware report (AR18-221A) from the DHS. Related: DHS, FBI Share Details of North Korea's 'Typeframe' Malware
+Related: U.S.
+

@@ -1,0 +1,35 @@
+Post 1 .......................................................................
+https://www.securityweek.com/china-linked-spies-target-taiwan-ie-exploit
+
+Top N Summary
+-------------
+One of the compromised sites, known as a watering hole, belonged to a major public service organization in Taiwan. A few weeks after Microsoft resolved the flaw, researchers published a proof-of-concept (PoC) exploit. The PoC code was used by cybercriminals to integrate the security hole into several exploit kits. Ixeshe has been around since at least 2009 and it has been observed in attacks aimed at East Asian governments and electronics manufacturers, including in Taiwan. Related: China-Linked Cyberspies Lure Victims With Security Conference Invites
+Related: China-Linked APT3 Group Focuses Attacks on Hong Kong
+
+Mean Scored Summary
+-------------------
+One of the compromised sites, known as a watering hole, belonged to a major public service organization in Taiwan. Ixeshe has been around since at least 2009 and it has been observed in attacks aimed at East Asian governments and electronics manufacturers, including in Taiwan. Related: China-Linked Cyberspies Lure Victims With Security Conference Invites
+Related: China-Linked APT3 Group Focuses Attacks on Hong Kong
+
+Post 2 .......................................................................
+https://www.securityweek.com/apt-attackers-target-japanese-word-processor-zero-day
+
+Top N Summary
+-------------
+According to a post on the Symantec Security Response blog, the attacks may be linked to the APT 12 group that successfully hacked into the New York Times earlier this year. Symantec said it first spotted attempts to exploit the Ichitaro vulnerability in September 2013. "[This backdoor] is known to be used to target the Asia-Pacific region with government sectors being the primary targets according to Trend Micro. This is a classic spear-phishing attack that attempts to lure the targets to a popular Japanese online shopping site. Security researchers are noticing a spike in advanced attacks against Japanese targets.
+
+Mean Scored Summary
+-------------------
+According to a post on the Symantec Security Response blog, the attacks may be linked to the APT 12 group that successfully hacked into the New York Times earlier this year. Symantec said it first spotted attempts to exploit the Ichitaro vulnerability in September 2013. The company noted that the identical backdoor variant was used as a payload for a watering hole attack that hit a Microsoft Internet Explorer vulnerability which was patched in October 2013. "[This backdoor] is known to be used to target the Asia-Pacific region with government sectors being the primary targets according to Trend Micro. This is a classic spear-phishing attack that attempts to lure the targets to a popular Japanese online shopping site. Security researchers are noticing a spike in advanced attacks against Japanese targets.
+
+Post 3 .......................................................................
+https://www.symantec.com/connect/blogs/yet-another-zero-day-japan-hit-ichitaro-vulnerability
+
+Top N Summary
+-------------
+Well, for people in Japan at least, since the vulnerability is in the Japanese word-processing software Ichitaro. In September 2013, Symantec discovered attacks in the wild attempting to exploit this vulnerability; however, the exploits did not properly work to compromise the system in our testing environment. If successful, the shellcode would have downloaded malware from the following URL : http://googles.al[REMOVED]my.com/index.html The server hosting this domain has been associated with the group referred to as APT 12 by Mandiant. The attackers, possibly belonging to the APT12 group who may have also developed BackdoorVidgrab, are persistently targeting similar, if not the identical, targets by attempting to exploit Ichitaro. The attack may also be a precursor, the attackers could have run the tests in order to find effective email contents and subject lines, for example, that are enticing enough lure targets into opening the malicious attachment.
+
+Mean Scored Summary
+-------------------
+Before anyone has time to draw a breath after the barrage, yet another zero-day has appeared, ready to cause people problems. Well, for people in Japan at least, since the vulnerability is in the Japanese word-processing software Ichitaro. In September 2013, Symantec discovered attacks in the wild attempting to exploit this vulnerability; however, the exploits did not properly work to compromise the system in our testing environment. It is reasonable to assume that the same malware group, or another group with close connections, is behind the attacks that utilized the Internet Explorer and Ichitaro vulnerabilities. According to our research, this exploit code also failed to successfully exploit a vulnerability. If successful, the shellcode would have downloaded malware from the following URL : http://googles.al[REMOVED]my.com/index.html The server hosting this domain has been associated with the group referred to as APT 12 by Mandiant. The attackers, possibly belonging to the APT12 group who may have also developed BackdoorVidgrab, are persistently targeting similar, if not the identical, targets by attempting to exploit Ichitaro. The attack may also be a precursor, the attackers could have run the tests in order to find effective email contents and subject lines, for example, that are enticing enough lure targets into opening the malicious attachment.
+

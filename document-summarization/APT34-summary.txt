@@ -1,0 +1,37 @@
+Post 1 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html
+
+Top N Summary
+-------------
+DGA Implementation  Figure 7 provides a breakdown of how an example domain (456341921300006B0C8B2CE9C9B007.mumbai-m[. ]club   Malware Staging Server   CVE-2017-0199 exploit document   63D66D99E46FB93676A4F475A65566D8   94.23.172.164:80   Malware Staging Server   dupdatechecker.doc   D85818E82A6E64CA185EDFDDBA2D1B76   dupdatechecker.exe   C9F16F0BE8C77F0170B9B6CE876ED7FB   proxycheker[. ]site and dns-update[. ]club   185.15.247.147   Has resolved dns-update[. ]club   145.239.33.100   Has resolved dns-update[.
+
+Mean Scored Summary
+-------------------
+CVE-2017-11882: Microsoft Office Stack Memory Corruption Vulnerability  CVE-2017-11882 affects several versions of Microsoft Office and, when exploited, allows a remote user to run arbitrary code in the context of the current user as a result of improperly handling objects in memory. The vulnerability was patched by Microsoft on Nov. 14, 2017. Figure 4: Execution Workflow Section of v.vbs  After successful execution of the steps mentioned in the Execution Workflow section, the Task Scheduler will launch GoogleUpdateschecker.vbs every minute, which in turn executes the dUpdateCheckers.ps1 and hUpdateCheckers.ps1 scripts. POWRUNER is executed every minute by the Task Scheduler. The BONDUPDATER script, which was named based on the hard-coded string B007, uses a custom DGA algorithm to generate subdomains for communication with the C2 server. DGA Implementation  Figure 7 provides a breakdown of how an example domain (456341921300006B0C8B2CE9C9B007.mumbai-m[. Figure 7: Breakdown of subdomain created by BONDUPDATER   This is a randomly generated number created using the following expression: $rnd = -join (Get-Random -InputObject (10..99) -Count (%{ Get-Random -InputObject (1..6)}));  This value is either 0 or 1. Initially set to 000, then incremented by 3 after every DNS request  First 12 characters of system UUID. In July 2017, a FireEye Web MPS appliance detected and blocked a request to retrieve and install an APT34 POWRUNER / BONDUPDATER downloader file. As shown in Figure 12, the script within the dupatechecker.doc file attempts to download another file named dupatechecker.exe from the same server. ]club   Malware Staging Server   CVE-2017-0199 exploit document   63D66D99E46FB93676A4F475A65566D8   94.23.172.164:80   Malware Staging Server   dupdatechecker.doc   D85818E82A6E64CA185EDFDDBA2D1B76   dupdatechecker.exe   C9F16F0BE8C77F0170B9B6CE876ED7FB   proxycheker[. ]site and dns-update[. ]club   185.15.247.147   Has resolved dns-update[. ]club   145.239.33.100   Has resolved dns-update[. ]com   v7-hpserver.online.hta   E6AC6F18256C4DDE5BF06A9191562F82   dUpdateCheckers.base   3C63BFF9EC0A340E0727E5683466F435   hUpdateCheckers.base   EEB0FF0D8841C2EBE643FE328B6D9EF5   cUpdateCheckers.bat   FB464C365B94B03826E67EABE4BF9165   dUpdateCheckers.ps1   635ED85BFCAAB7208A8B5C730D3D0A8C   hUpdateCheckers.ps1   13B338C47C52DE3ED0B68E1CB7876AD2   googleupdateschecker.vbs   DBFEA6154D4F9D7209C1875B2D5D70D5   hpserver[.
+
+Post 2 .......................................................................
+https://www.securityweek.com/iranian-cyberspies-exploit-recently-patched-office-flaw
+
+Top N Summary
+-------------
+The cyberspies have now also started leveraging CVE-2017-11882, an Office vulnerability patched by Microsoft on November 14. Proof-of-concept (PoC) exploits were made available for CVE-2017-11882 shortly after Microsoft released a patch and, in late November, researchers reported that a cybercrime group tracked as Cobalt had started exploiting the vulnerability. In November, the group switched to using CVE-2017-11882 to deliver these PowerShell-based pieces of malware. The attackers used specially crafted RTF documents delivered to targeted users via spear phishing emails. Once it receives commands from its command and control (C&C) server, the malware stops running.
+
+Mean Scored Summary
+-------------------
+The cyberspies have now also started leveraging CVE-2017-11882, an Office vulnerability patched by Microsoft on November 14. Proof-of-concept (PoC) exploits were made available for CVE-2017-11882 shortly after Microsoft released a patch and, in late November, researchers reported that a cybercrime group tracked as Cobalt had started exploiting the vulnerability. In November, the group switched to using CVE-2017-11882 to deliver these PowerShell-based pieces of malware. The attackers used specially crafted RTF documents delivered to targeted users via spear phishing emails. Once it receives commands from its command and control (C&C) server, the malware stops running.
+
+Post 3 .......................................................................
+https://www.securityweek.com/iranian-hackers-use-quadagent-backdoor-recent-attacks
+
+Top N Summary
+-------------
+Iranian Hackers Use QUADAGENT Backdoor in Recent Attacks
+
+A series of recent attacks attributed to an Iran-linked cyber-espionage group delivered a PowerShell backdoor onto compromised machines, Palo Alto Networks has discovered. Aimed at a technology services provider and a government entity in the Middle East, the new attacks were made to appear to have originated from other entities in the same country and employed the QUADAGENT backdoor, Palo Alto Networks reveals. The third wave (against the government entity) also used a simple PE file attachment, but compiled using the Microsoft .NET Framework instead of being converted. The sample ClearSky analyzed appears identical with the one used in the attacks against the technology services provider, Palo Alto Networks says. In this instance, they illustrated a typical behavior of adversary groups, wherein the same tool was reused in multiple attacks, but each had enough modifications via infrastructure change, additional obfuscation, and repackaging that each sample may appear different enough to bypass security controls, the security firm concludes.
+
+Mean Scored Summary
+-------------------
+Iranian Hackers Use QUADAGENT Backdoor in Recent Attacks
+
+A series of recent attacks attributed to an Iran-linked cyber-espionage group delivered a PowerShell backdoor onto compromised machines, Palo Alto Networks has discovered. Aimed at a technology services provider and a government entity in the Middle East, the new attacks were made to appear to have originated from other entities in the same country and employed the QUADAGENT backdoor, Palo Alto Networks reveals. The third wave (against the government entity) also used a simple PE file attachment, but compiled using the Microsoft .NET Framework instead of being converted. The sample ClearSky analyzed appears identical with the one used in the attacks against the technology services provider, Palo Alto Networks says.
+

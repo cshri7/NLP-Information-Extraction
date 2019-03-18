@@ -1,0 +1,69 @@
+,query,text,url
+0,APT33,"Iranian Hackers Target Aerospace, Energy Companies
+
+A cyber espionage group linked by security researchers to the Iranian government has been observed targeting aerospace and energy organizations in the United States, Saudi Arabia and South Korea.
+The threat actor, tracked by FireEye as APT33, is believed to have been around since at least 2013. Since mid-2016, the security firm has spotted attacks aimed by this group at the aviation sector, including military and commercial aviation, and energy companies with connections to petrochemical production.
+Specifically, the cyberspies targeted a U.S. organization in the aerospace sector, a Saudi Arabian business conglomerate with aviation holdings, and a South Korean firm involved in oil refining and petrochemicals. In recent attacks, the hackers used job vacancies at a Saudi Arabian petrochemical firm to target the employees of organizations in South Korea and Saudi Arabia.
+“We assess the targeting of multiple companies with aviation-related partnerships to Saudi Arabia indicates that APT33 may possibly be looking to gain insights on Saudi Arabia’s military aviation capabilities to enhance Iran’s domestic aviation capabilities or to support Iran’s military and strategic decision making vis a vis Saudi Arabia,” FireEye said in a blog post.
+“We believe the targeting of the Saudi organization may have been an attempt to gain insight into regional rivals, while the targeting of South Korean companies may be due to South Korea’s recent partnerships with Iran’s petrochemical industry as well as South Korea’s relationships with Saudi petrochemical companies,” the company added.
+According to FireEye, the cyber espionage group sent hundreds of spear phishing emails last year. They set up several domains made to look as if they belonged to Saudi aviation firms and international organizations that work with them, including Alsalam Aircraft Company, Boeing and Northrop Grumman Aviation Arabia.
+The malware used by the group includes a dropper tracked by FireEye as DROPSHOT, a wiper named SHAPESHIFT, and a backdoor called TURNEDUP. DROPSHOT was previously analyzed by Kaspersky, which tracks it as StoneDrill.
+The StoneDrill malware was tied by Kaspersky to the notorious Shamoon 2 and Charming Kitten (aka Newscaster and NewsBeef), a threat actor believed to be operating out of Iran.
+FireEye has also linked APT33 to Iran based on connections to the “Nasr Institute,” which is said to be Iran’s “cyber army”, attacks launched during Iranian working hours, and the use of Iranian hacking tools.
+Iran appears to have several cyber espionage groups, including Rocket Kitten, Cobalt Gypsy (Magic Hound), Charming Kitten and CopyKittens.
+Related: Iranian Hackers Exploit Recent Office 0-Day in Attacks
+Related: Iranian Cyberspy Groups Share Malware Code
+Related: Iran-Linked Hackers Use ""Mia Ash"" Honey Trap to Compromise Targets",https://www.securityweek.com/iranian-hackers-target-aerospace-energy-companies
+1,APT33,"Five Threat Groups Target Industrial Systems: Dragos
+
+There are at least five sophisticated threat groups whose activities focus on industrial control systems (ICS), according to a report published on Thursday by industrial cybersecurity firm Dragos.
+While it’s not uncommon for non-targeted malware to make its way onto industrial systems, targeted attacks have also become increasingly common. Dragos currently tracks five threat actors that have either attacked ICS directly or have shown an interest in gathering information on these types of systems.
+One of these groups is tracked by the security firm as Electrum. This is the actor behind the CRASHOVERRIDE/Industroyer malware used in December 2016 to cause a power outage in Ukraine. Electrum has been linked to Sandworm Team, which is believed to be responsible for a 2015 power outage in Ukraine. Russia has been accused for both attacks.
+While it apparently hasn’t launched any major attacks since the 2016 campaign targeting Ukraine’s energy sector, Dragos says Electrum continues to be active, and evidence suggests it has expanded targets.
+“While past ELECTRUM activity has focused exclusively on Ukraine, information from low- level ongoing events and the group’s link to SANDWORM Dragos assesses that ELECTRUM could be ‘re-tasked’ to other areas depending on the focus of their sponsor,” Dragos said in its report.
+Another gang tracked by Dragos is Covellite, which has been linked to North Korea’s Lazarus group. Researchers started observing Covellite in September 2017, when it launched a highly targeted phishing campaign against a U.S. electric grid company. They later spotted attacks that may have been conducted by this group aimed at organizations in Europe, North America and East Asia.
+Unlike Electrum, Covellite has yet to use malware specifically designed to target industrial systems in its campaigns.
+Dragos’ report also summarizes the activities of Dymalloy, a group whose attacks came to light during an investigation into Dragonfly, an actor that is also known as Crouching Yeti and Energetic Bear. Dragonfly, which is believed to be operating out of Russia, is known for its sophisticated Havex malware, and it was recently observed targeting control systems in U.S. energy firms.
+Dragos believes Dymalloy is not linked – at least not directly – to Dragonfly and its tools are not as advanced as Havex. However, the hackers did manage to breach ICS organizations in Turkey, Europe and North America, gaining access to HMI devices.
+Experts say Dymalloy appears to have become less active since early 2017, possibly in response to attention from the media and security researchers.
+Learn More at SecurityWeek’s ICS Cyber Security Conference
+Since mid-2017, Dragos has been tracking a group it has named Chrysene, whose activity focuses on North America, Western Europe, Israel and Iraq, particularly organizations in the electricity generation and oil&gas sectors.
+Chrysene, which continues to be active, has used a unique variation of a framework associated with the Iran-linked cyber espionage groups known as OilRig and Greenbug.
+“While CHRYSENE’s malware features notable enhancements over related threat groups using similar tools, Dragos has not yet observed an ICS-specific capability employed by this activity group. Instead, all activity thus far appears to focus on IT penetration and espionage, with all targets being ICS-related organizations,” Dragos said.
+It’s worth noting that the recently uncovered piece of malware known as Trisis/Triton, which is the first threat specifically designed to disrupt safety instrumented systems (SIS), has also been linked by some researchers to Iran.
+The last ICS-focused threat group monitored by Dragos is Magnallium, which has also been linked to Iran. The security firm started tracking this actor following a report from FireEye on the activities of APT33.
+While some media reports portrayed APT33 as a serious threat to ICS and critical infrastructure, Dragos’ investigation showed that the group does not appear to possess any ICS-specific capabilities.
+“While only one [of these groups] has demonstrated an apparent capability to impact ICS networks through ICS-specific malware directly, all have engaged in at least reconnaissance and intelligence gathering surrounding the ICS environment,” Dragos said.
+“These groups have remained relatively constant regarding overall activity throughout the year, and Dragos is confident that additional unknown events have occurred,” the company added.
+Related: DHS Warns of Malware Targeting Industrial Safety Systems
+Related: DDoS Attacks More Likely to Hit Critical Infrastructure Than APTs",https://www.securityweek.com/five-threat-groups-target-industrial-systems-dragos
+2,APT33,"Iranian Hackers Impersonate Israeli Security Firm
+
+A group of Iranian hackers focused on cyber-espionage recently built up a website to impersonate ClearSky Cyber Security, the Israeli firm that exposed their activities not long ago.
+The hackers, tracked as APT35 and also known as NewsBeef, Newscaster, and Charming Kitten, have been active since at least 2011, with their activities detailed for the first time several years ago.
+In December 2017, ClearSky Cyber Security published a report detailing the group’s activities during the 2016-2017 timeframe. The security firm not only described the actor’s infrastructure, but also provided information on DownPaper, a new piece of malware the hackers had been using.
+The security firm exposed the link between the group and Behzad Mesri, also known as Skote Vahshat, who was charged in November 2017 with the hacking of HBO. Furthermore, the researchers also managed to establish the identity of two other alleged members of the group.
+Roughly half a year after the report was published, the security firm announced on its Twitter account that the hackers built their own site impersonating ClearSky.
+“#CharmingKitten built a phishing website impersonating our company. The fake website is clearskysecurity\.net (the real website is http://clearskysec.com),” the security firm announced.
+The advanced persistent threat (APT) apparently copied entire pages from the legitimate website, but also changed one of them to include a sign in option with multiple services. Anyone entering credentials there would have had them sent to the actor instead.
+ “These sign in options are all phishing pages that would send the victim's credentials to the attackers. Our legitimate website does not have any sign in option. It seems that the impersonating website is still being built because some of the pages have error messages in them,” the security firm announced.
+One of the pages on the fake website, the security researchers discovered, featured content related to a Charming Kitten campaign that ClearSky exposed only several weeks ago. That page, however, wasn’t customized to look like the security firm’s website.
+The fake website started being flagged as deceptive soon after ClearSky discovered it. The security firm says that its employees, services, and customers were not affected.
+Over the past years, security researchers managed to link various hacking groups to Iran, including APT33, Rocket Kitten, Magic Hound, and CopyKittens, and even revealed that they tend to share infrastructure and malware code.
+Related: HBO Hacker Linked to Iranian Spy Group
+Related: Iranian Cyberspies Use New Trojan in Middle East Attacks",https://www.securityweek.com/iranian-hackers-impersonate-israeli-security-firm
+3,APT33,"Industry Reactions to Iran Cyber Retaliation Over U.S. Nuclear Deal Exit
+
+President Donald Trump announced this week that the U.S. is withdrawing from the Iran nuclear deal and reimposing sanctions on the Middle Eastern country. Many experts fear that Iran will retaliate by launching cyberattacks on Western organizations.
+Industry professionals contacted by SecurityWeek all say that there is a strong possibility of attacks, but they mostly agree that Iran will likely not try to cause too much damage as that could lead to massive response from the United States and its allies.
+And the feedback begins...
+Ross Rustici, senior director, intelligence services, Cybereason:
+Priscilla Moriuchi, Director of Strategic Threat Development, Recorded Future:
+Phil Neray, VP of Industrial Cybersecurity, CyberX:
+Gen. Earl Matthews, senior vice president and chief strategy officer, Verodin:
+John Hultquist, Director of Intelligence Analysis, FireEye:
+Sherban Naum, senior vice president for corporate strategy and technology, Bromium:
+Robert Lee, CEO, Dragos:
+Sanjay Beri, CEO & Founder of Netskope:
+Willy Leichter, Vice President of Marketing, Virsec:
+Andrew Lloyd, President, Corero Network Security:",https://www.securityweek.com/industry-reactions-iran-cyber-retaliation-over-us-nuclear-deal-exit

@@ -1,0 +1,33 @@
+Post 1 .......................................................................
+https://www.securityweek.com/apt-attackers-target-japanese-word-processor-zero-day
+
+Top N Summary
+-------------
+According to a post on the Symantec Security Response blog, the attacks may be linked to the APT 12 group that successfully hacked into the New York Times earlier this year. Symantec said it first spotted attempts to exploit the Ichitaro vulnerability in September 2013. "[This backdoor] is known to be used to target the Asia-Pacific region with government sectors being the primary targets according to Trend Micro. This is a classic spear-phishing attack that attempts to lure the targets to a popular Japanese online shopping site. Security researchers are noticing a spike in advanced attacks against Japanese targets.
+
+Mean Scored Summary
+-------------------
+According to a post on the Symantec Security Response blog, the attacks may be linked to the APT 12 group that successfully hacked into the New York Times earlier this year. Symantec said it first spotted attempts to exploit the Ichitaro vulnerability in September 2013. The company noted that the identical backdoor variant was used as a payload for a watering hole attack that hit a Microsoft Internet Explorer vulnerability which was patched in October 2013. "[This backdoor] is known to be used to target the Asia-Pacific region with government sectors being the primary targets according to Trend Micro. This is a classic spear-phishing attack that attempts to lure the targets to a popular Japanese online shopping site. Security researchers are noticing a spike in advanced attacks against Japanese targets.
+
+Post 2 .......................................................................
+https://www.securityweek.com/china-linked-spies-used-new-malware-uk-government-attack
+
+Top N Summary
+-------------
+The attack has been attributed to a threat actor known as APT15, Ke3chang, Mirage, Vixen Panda and Playful Dragon. APT15 has been active since at least 2010 and it has targeted organizations all around the world using its own malware and Word, Adobe Reader and Java exploits. RoyalCLI leverages similar encryption and encoding routines, and they both communicate with command and control (C&C) servers via Internet Explorer using the IWebBrowser2 interface. This piece of malware receives commands, executes them, and returns output through DNS. Experts determined that the hackers had stolen a VPN certificate from a compromised host and used it to regain access via the corporate VPN.
+
+Mean Scored Summary
+-------------------
+The attack has been attributed to a threat actor known as APT15, Ke3chang, Mirage, Vixen Panda and Playful Dragon. APT15 has been active since at least 2010 and it has targeted organizations all around the world using its own malware and Word, Adobe Reader and Java exploits. RoyalCLI leverages similar encryption and encoding routines, and they both communicate with command and control (C&C) servers via Internet Explorer using the IWebBrowser2 interface. This piece of malware receives commands, executes them, and returns output through DNS. Experts determined that the hackers had stolen a VPN certificate from a compromised host and used it to regain access via the corporate VPN.
+
+Post 3 .......................................................................
+https://www.securityweek.com/china-linked-spies-used-new-malware-uk-government-attack
+
+Top N Summary
+-------------
+The attack has been attributed to a threat actor known as APT15, Ke3chang, Mirage, Vixen Panda and Playful Dragon. APT15 has been active since at least 2010 and it has targeted organizations all around the world using its own malware and Word, Adobe Reader and Java exploits. RoyalCLI leverages similar encryption and encoding routines, and they both communicate with command and control (C&C) servers via Internet Explorer using the IWebBrowser2 interface. This piece of malware receives commands, executes them, and returns output through DNS. Experts determined that the hackers had stolen a VPN certificate from a compromised host and used it to regain access via the corporate VPN.
+
+Mean Scored Summary
+-------------------
+The attack has been attributed to a threat actor known as APT15, Ke3chang, Mirage, Vixen Panda and Playful Dragon. APT15 has been active since at least 2010 and it has targeted organizations all around the world using its own malware and Word, Adobe Reader and Java exploits. RoyalCLI leverages similar encryption and encoding routines, and they both communicate with command and control (C&C) servers via Internet Explorer using the IWebBrowser2 interface. This piece of malware receives commands, executes them, and returns output through DNS. Experts determined that the hackers had stolen a VPN certificate from a compromised host and used it to regain access via the corporate VPN.
+

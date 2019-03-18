@@ -1,0 +1,39 @@
+Post 1 .......................................................................
+https://www.securityweek.com/iranian-hackers-impersonate-israeli-security-firm
+
+Top N Summary
+-------------
+The hackers, tracked as APT35 and also known as NewsBeef, Newscaster, and Charming Kitten, have been active since at least 2011, with their activities detailed for the first time several years ago. In December 2017, ClearSky Cyber Security published a report detailing the groups activities during the 2016-2017 timeframe. The advanced persistent threat (APT) apparently copied entire pages from the legitimate website, but also changed one of them to include a sign in option with multiple services. These sign in options are all phishing pages that would send the victim's credentials to the attackers. The fake website started being flagged as deceptive soon after ClearSky discovered it.
+
+Mean Scored Summary
+-------------------
+The hackers, tracked as APT35 and also known as NewsBeef, Newscaster, and Charming Kitten, have been active since at least 2011, with their activities detailed for the first time several years ago. In December 2017, ClearSky Cyber Security published a report detailing the groups activities during the 2016-2017 timeframe. The advanced persistent threat (APT) apparently copied entire pages from the legitimate website, but also changed one of them to include a sign in option with multiple services. These sign in options are all phishing pages that would send the victim's credentials to the attackers. One of the pages on the fake website, the security researchers discovered, featured content related to a Charming Kitten campaign that ClearSky exposed only several weeks ago. The fake website started being flagged as deceptive soon after ClearSky discovered it.
+
+Post 2 .......................................................................
+https://www.securityweek.com/iran-linked-influence-campaign-targets-us-others
+
+Top N Summary
+-------------
+The campaign, which has been active since at least 2017, focuses on anti-Israel, anti-Saudi, and pro-Palestine topics. The threat actor behind the operation has also distributed stories regarding U.S. policies that are favorable to Iran, including the Joint Comprehensive Plan of Action nuclear deal. FireEye researchers have found several pieces of evidence suggesting that Iran is behind the operation. The activity we have uncovered is significant and demonstrates that actors beyond Russia continue to engage in online, social media-driven influence operations as a means of shaping political discourse, said Lee Foster, Manager of Information Operations Analysis at FireEye. Related: US Braces for Possible Cyberattacks After Iran Sanctions
+Related: Iran-linked Hackers Adopt New Data Exfiltration Methods
+Related: Iran-Linked 'Leafminer' Espionage Campaign Targets Middle East
+
+Mean Scored Summary
+-------------------
+The threat actor behind the operation has also distributed stories regarding U.S. policies that are favorable to Iran, including the Joint Comprehensive Plan of Action nuclear deal. The activity we have uncovered is significant and demonstrates that actors beyond Russia continue to engage in online, social media-driven influence operations as a means of shaping political discourse, said Lee Foster, Manager of Information Operations Analysis at FireEye. Related: US Braces for Possible Cyberattacks After Iran Sanctions
+Related: Iran-linked Hackers Adopt New Data Exfiltration Methods
+Related: Iran-Linked 'Leafminer' Espionage Campaign Targets Middle East
+
+Post 3 .......................................................................
+https://www.securityweek.com/breaches-increasingly-discovered-internally-mandiant
+
+Top N Summary
+-------------
+Breaches Increasingly Discovered Internally: Mandiant
+
+Organizations are getting increasingly better at discovering data breaches on their own, with more than 60% of intrusions in 2017 detected internally, according to FireEye-owned Mandiant. The companys M-Trends report for 2018 shows that the global median time for internal detection dropped to 57.5 days in 2017, compared to 80 days in the previous year. Of the total number of breaches investigated by Mandiant last year, 62% were discovered internally, up from 53% in 2016. Last year, FireEye assigned names to four state-sponsored threat groups, including the Vietnam-linked APT32 (OceanLotus), and the Iran-linked APT33, APT34 (OilRig), and APT35 (NewsBeef, Newscaster and Charming Kitten). Today they leverage strategic web compromises (SWC) to ensnare more victims, and concurrently maintain persistence across multiple organizations for months and sometimes years.
+
+Mean Scored Summary
+-------------------
+The companys M-Trends report for 2018 shows that the global median time for internal detection dropped to 57.5 days in 2017, compared to 80 days in the previous year. Of the total number of breaches investigated by Mandiant last year, 62% were discovered internally, up from 53% in 2016. Today they leverage strategic web compromises (SWC) to ensnare more victims, and concurrently maintain persistence across multiple organizations for months and sometimes years.
+

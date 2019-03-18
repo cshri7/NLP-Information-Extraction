@@ -1,0 +1,52 @@
+Post 1 .......................................................................
+https://www.securityweek.com/chinese-cyberspies-target-european-drone-maker-energy-firm
+
+Top N Summary
+-------------
+Researchers pointed out that both Emissary Panda and Dynamite Panda have targeted the defense and aerospace industries, but only the former is known to attack organizations in the energy sector. In September 2015, U.S. President Barack Obama and his Chinese counterpart, President Xi Jinping, agreed not to conduct cyber espionage for economic gain. The subsidiary of the French energy management firm targeted in the attacks observed by ThreatConnect has been contracted by the U.S. government, including the Department of Defense. In some ways, solidifying the dominant Chinese firm in a market feels like the next chapter in economic espionage. Furthermore, China may also be attempting to be more efficient as it focuses collection on organizations that meet multiple intelligence requirements.
+
+Mean Scored Summary
+-------------------
+In September 2015, U.S. President Barack Obama and his Chinese counterpart, President Xi Jinping, agreed not to conduct cyber espionage for economic gain. The subsidiary of the French energy management firm targeted in the attacks observed by ThreatConnect has been contracted by the U.S. government, including the Department of Defense. In some ways, solidifying the dominant Chinese firm in a market feels like the next chapter in economic espionage.
+
+Post 2 .......................................................................
+https://www.securityweek.com/chinese-apt-group-uses-hacking-team%E2%80%99s-flash-player-exploit
+
+Top N Summary
+-------------
+Chinese APT Group Uses Hacking Teams Flash Player Exploit
+
+The Adobe Flash Player exploit stolen by hackers from spyware maker Hacking Team has been leveraged by advanced persistent threat (APT) groups, according to security solutions provider Volexity. Attackers stole 4.5 million patient records from the organization, reportedly by exploiting the OpenSSL vulnerability dubbed Heartbleed. Hackers leaked a total of 400GB of data stolen from Hacking Team, including surveillance software, source code and exploits. The Flash Player exploit was integrated into exploit kits before Adobe managed to patch the vulnerability. Experts also noticed that the APT actor has been trying to complicate the analysis of their malware by using return-oriented programming (ROP) to control execution flow.
+
+Mean Scored Summary
+-------------------
+Chinese APT Group Uses Hacking Teams Flash Player Exploit
+
+The Adobe Flash Player exploit stolen by hackers from spyware maker Hacking Team has been leveraged by advanced persistent threat (APT) groups, according to security solutions provider Volexity. Hackers leaked a total of 400GB of data stolen from Hacking Team, including surveillance software, source code and exploits. Experts also noticed that the APT actor has been trying to complicate the analysis of their malware by using return-oriented programming (ROP) to control execution flow.
+
+Post 3 .......................................................................
+https://www.securityweek.com/two-new-flash-player-zero-day-bugs-found-hacking-team-leak
+
+Top N Summary
+-------------
+Two New Flash Player Zero-Day Bugs Found in Hacking Team Leak
+
+Researchers have identified exploits for two new Adobe Flash Player zero-day vulnerabilities in the Hacking Team leak. The issue was reported to Adobe by Trend Micro and the security researcher known online as slipstream/RoL (@TheWack0lian). Both of these vulnerabilities affect Flash Player 18.0.0.204 and earlier, and they allow a remote, unauthenticated attacker to execute arbitrary code on affected systems. Other exploit kits will likely follow soon. Before the attack, HackingTeam could control who had access to the technology which was sold exclusively to governments and government agencies.
+
+Mean Scored Summary
+-------------------
+Two New Flash Player Zero-Day Bugs Found in Hacking Team Leak
+
+Researchers have identified exploits for two new Adobe Flash Player zero-day vulnerabilities in the Hacking Team leak. The issue was reported to Adobe by Trend Micro and the security researcher known online as slipstream/RoL (@TheWack0lian). Both of these vulnerabilities affect Flash Player 18.0.0.204 and earlier, and they allow a remote, unauthenticated attacker to execute arbitrary code on affected systems. Other exploit kits will likely follow soon. Before the attack, HackingTeam could control who had access to the technology which was sold exclusively to governments and government agencies.
+
+Post 4 .......................................................................
+https://www.securityweek.com/wekby-group-uses-dns-requests-cc-communications
+
+Top N Summary
+-------------
+In that operation, the attackers reportedly stole 4.5 million patient records by exploiting the OpenSSL vulnerability dubbed Heartbleed. One example is a Flash Player exploit that the actor started using shortly after it was leaked last year from Italian spyware maker Hacking Team. The payload is obfuscated using a ROP technique and contains random assembly instructions to make reverse engineering more difficult. An increasing number of threats have been leveraging the technique, including point-of-sale (PoS) malware such as FrameworkPOS and Multigrain. In the case of pisloader, the malware periodically sends a DNS beacon request to its C&C server, whose location is hardcoded into the malware.
+
+Mean Scored Summary
+-------------------
+In that operation, the attackers reportedly stole 4.5 million patient records by exploiting the OpenSSL vulnerability dubbed Heartbleed. One example is a Flash Player exploit that the actor started using shortly after it was leaked last year from Italian spyware maker Hacking Team. The payload is obfuscated using a ROP technique and contains random assembly instructions to make reverse engineering more difficult. An increasing number of threats have been leveraging the technique, including point-of-sale (PoS) malware such as FrameworkPOS and Multigrain. In the case of pisloader, the malware periodically sends a DNS beacon request to its C&C server, whose location is hardcoded into the malware.
+

@@ -1,0 +1,18 @@
+,text,url,query
+0,"APT17: Hiding in Plain
+Sight - FireEye and Microsoft Expose Obfuscation Tactic     Threat actors have found a new way to
+dodge security professionals, using popular websites’ legitimate
+functionalities to hide their hacking operations. FireEye Threat
+Intelligence and Microsoft Threat Intelligence Center discovered a
+China-based threat group dubbed APT17 using Microsoft’s TechNet blog
+for its Command-and-Control (CnC) operation.  Interestingly, APT17 chose not to
+compromise TechNet, but rather created profiles and posted in forums
+to post its encoded CnC. Doing so made it more difficult for network
+security professionals to determine the CnC’s true location, which
+allowed APT17 to conduct its activities for longer than it might have otherwise.  This report details how we discovered the
+operation, what was done to shut it down, and how other threat groups
+have already adopted a “hide in plain sight” approach to hacking.  Download the report to find out:   Who APT17 is and who they’re
+targeting  How they bypassed traditional methods to avoid
+detection  How this new method of compromise differs from
+previous tactics  What FireEye and Microsoft did to shut
+down APT17’s use of the Microsoft TechNet blog   Download the report today.",https://www.fireeye.com//current-threats/apt-groups/rpt-apt17.html,APT17

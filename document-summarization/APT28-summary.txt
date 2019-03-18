@@ -1,0 +1,1299 @@
+Post 1 .......................................................................
+https://www.crowdstrike.com/blog/who-is-fancy-bear/
+
+Top N Summary
+-------------
+The nation-state adversary group known as FANCY BEAR has been operating since at least 2008 and represents a constant threat to a wide variety of organizations around the globe. FANCY BEARs code has been observed targeting conventional computers and mobile devices. At the same time that operation was occurring, this actor was involved in extensive operations targeting European military organizations. FANCY BEAR has also been linked publicly to intrusions into the German Bundestag and Frances TV5 Monde TV station in April 2015. To get full access to CrowdStrikes next-gen antivirus solution for 15 days visit the Falcon Prevent free trial page.
+
+Mean Scored Summary
+-------------------
+The nation-state adversary group known as FANCY BEAR has been operating since at least 2008 and represents a constant threat to a wide variety of organizations around the globe. FANCY BEARs code has been observed targeting conventional computers and mobile devices. At the same time that operation was occurring, this actor was involved in extensive operations targeting European military organizations. FANCY BEAR has also been linked publicly to intrusions into the German Bundestag and Frances TV5 Monde TV station in April 2015. To get full access to CrowdStrikes next-gen antivirus solution for 15 days visit the Falcon Prevent free trial page.
+
+Post 2 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/08/apt28-targets-hospitality-sector.html
+
+Top N Summary
+-------------
+APT28 Uses Malicious Document to Target Hospitality Industry  FireEye has uncovered a malicious document sent in spear phishing emails to multiple companies in the hospitality industry, including hotels in at least seven European countries and one Middle Eastern country in early July. Once inside the network of a hospitality company, APT28 sought out machines that controlled both guest and internal Wi-Fi networks. To spread through the hospitality companys network, APT28 used a version of the EternalBlue SMB exploit. South Korea-nexus Fallout Team (aka Darkhotel) has used spoofed software updates on infected Wi-Fi networks in Asian hotels , and Duqu 2.0 malware has been found on the networks of European hotels used by participants in the Iranian nuclear negotiations. APT28s already wide-ranging capabilities and tactics are continuing to grow and refine as the group expands its infection vectors.
+
+Mean Scored Summary
+-------------------
+APT28 Uses Malicious Document to Target Hospitality Industry  FireEye has uncovered a malicious document sent in spear phishing emails to multiple companies in the hospitality industry, including hotels in at least seven European countries and one Middle Eastern country in early July. Once inside the network of a hospitality company, APT28 sought out machines that controlled both guest and internal Wi-Fi networks. APT28 used this technique to steal usernames and hashed passwords that allowed escalation of privileges in the victim network. To spread through the hospitality companys network, APT28 used a version of the EternalBlue SMB exploit. South Korea-nexus Fallout Team (aka Darkhotel) has used spoofed software updates on infected Wi-Fi networks in Asian hotels , and Duqu 2.0 malware has been found on the networks of European hotels used by participants in the Iranian nuclear negotiations. APT28s already wide-ranging capabilities and tactics are continuing to grow and refine as the group expands its infection vectors.
+
+Post 3 .......................................................................
+https://www.fireeye.com//blog/threat-research/2017/01/apt28_at_the_center.html
+
+Top N Summary
+-------------
+Still, questions persist about Russian involvement. Did the Russian government direct the group responsible for the breaches and related data leaks? Was the breach at the Democratic National Committee part of a concerted effort by the Russian government to interfere with the U.S. presidential election? We have tracked and profiled this group through multiple investigations, endpoint and network detections, and continuous monitoring. This intelligence has been critical to protecting and informing our clients, exposing this threat and strengthening our confidence in attributing APT28 to the Russian government.
+
+Mean Scored Summary
+-------------------
+Still, questions persist about Russian involvement. Did the Russian government direct the group responsible for the breaches and related data leaks? Was the breach at the Democratic National Committee part of a concerted effort by the Russian government to interfere with the U.S. presidential election? This intelligence has been critical to protecting and informing our clients, exposing this threat and strengthening our confidence in attributing APT28 to the Russian government.
+
+Post 4 .......................................................................
+https://www.fireeye.com//current-threats/apt-groups/rpt-apt28.html
+
+Top N Summary
+-------------
+Complimentary Intel
+Report: Russias APT28 Strategically Evolves its Cyber Operations    Concerns over Russian espionage litter
+todays headlines as regional threat actors influence high-profile
+international matters, including the 2016 U.S. presidential election
+and more. The U.S. Federal government confirmed
+what FireEye long upheld  that the Russian actor group APT28 is
+indeed sponsored by the Russian government  and in response, recently
+released indicators of compromise (IoCs) to block their espionage
+activities. Having
+tracked APT28 through multiple attacks and intrusions, FireEye has a
+unique understanding of the groups motives and techniques, tactics
+and procedures (TTPs). The techniques, tactics and
+procedures (TTPs) employed to compromise their victims. APT28s influence on numerous
+high-profile national and international matters, including the
+Syrian conflict, NATO-Ukraine relations and the 2016 U.S.
+presidential election.
+
+Mean Scored Summary
+-------------------
+Complimentary Intel
+Report: Russias APT28 Strategically Evolves its Cyber Operations    Concerns over Russian espionage litter
+todays headlines as regional threat actors influence high-profile
+international matters, including the 2016 U.S. presidential election
+and more. Having
+tracked APT28 through multiple attacks and intrusions, FireEye has a
+unique understanding of the groups motives and techniques, tactics
+and procedures (TTPs). APT28s influence on numerous
+high-profile national and international matters, including the
+Syrian conflict, NATO-Ukraine relations and the 2016 U.S.
+presidential election.
+
+Post 5 .......................................................................
+https://www.fireeye.com//blog/threat-research/2014/10/apt28-a-window-into-russias-cyber-espionage-operations.html
+
+Top N Summary
+-------------
+While APT28s malware is fairly well known in the cybersecurity community, our report details additional information exposing ongoing, focused operations that we believe indicate a government sponsor based in Moscow. In contrast with the China-based threat actors that FireEye tracks, APT28 does not appear to conduct widespread intellectual property theft for economic gain. Instead, APT28 focuses on collecting intelligence that would be most useful to a government. Specifically, FireEye found that since at least 2007, APT28 has been targeting privileged information related to governments, militaries and security organizations that would likely benefit the Russian government. As with the APT1 report, we recognize that no single entity completely understands the entire complex picture of intense cyber espionage over many years.
+
+Mean Scored Summary
+-------------------
+While APT28s malware is fairly well known in the cybersecurity community, our report details additional information exposing ongoing, focused operations that we believe indicate a government sponsor based in Moscow. In contrast with the China-based threat actors that FireEye tracks, APT28 does not appear to conduct widespread intellectual property theft for economic gain. Instead, APT28 focuses on collecting intelligence that would be most useful to a government. Specifically, FireEye found that since at least 2007, APT28 has been targeting privileged information related to governments, militaries and security organizations that would likely benefit the Russian government.
+
+Post 6 .......................................................................
+https://www.fireeye.com//blog/threat-research/2015/04/probable_apt28_useo.html
+
+Top N Summary
+-------------
+The culprit FLV file is embedded within AS3 in two chunks, and is reassembled at runtime. And like CORESHELL, the new malware attempts to download a second-stage executable. The same subnet ( 87.236.215.0/24 ) also hosts several known or suspected APT28 domains, as seen in Table 1. CVE-2015-1701 Exploit  The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Barring authorized access to the victims machine, the attacker would have to find some other means, such as crafting a new Flash exploit, to deliver a CVE-2015-1701 payload.
+
+Mean Scored Summary
+-------------------
+Microsoft is aware of the outstanding local privilege escalation vulnerability in Windows (CVE-2015-1701). It uses the vulnerability to run code from userspace in the context of the kernel, which modifies the attackers process token to have the same privileges as that of the System process. CVE-2014-0515 exploits a vulnerability in Flashs Shader processing, whereas CVE-2015-3043 exploits a vulnerability in Flashs FLV processing. The culprit FLV file is embedded within AS3 in two chunks, and is reassembled at runtime. while (_local_2 < this._bp35) // _bp35 == 0x2000 { this._ok47[_local_2] = new Vector.<uint>(this._lb60); // _lb60 == 0x07FE _local_3 = 0x00; while (_local_3 < this._lb60) { this._ok47[_local_2][_local_3] = 0x41414141; _local_3++; }; _local_2 = (_local_2 + 0x01); }; _local_2 = 0x00; while (_local_2 < this._bp35) { this._ok47[_local_2] = null; _local_2 = (_local_2 + 0x02); };   As the previous picture demonstrated, the followed Vector objects length field being overflowed as 0x80007fff, which enables the attacker to read/write arbitrary data within user space. And like CORESHELL, the new malware attempts to download a second-stage executable. ]246 , also hosts a suspected APT28 domain ssl-icloud[. The same subnet ( 87.236.215.0/24 ) also hosts several known or suspected APT28 domains, as seen in Table 1. CVE-2015-1701 Exploit  The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Barring authorized access to the victims machine, the attacker would have to find some other means, such as crafting a new Flash exploit, to deliver a CVE-2015-1701 payload.
+
+Post 7 .......................................................................
+https://securelist.com/threats-in-the-netherlands/88185/
+
+Top N Summary
+-------------
+The aim of this blogpost is to give an overview of which APT groups are active in the Netherlands and what they are interested in, and that requires TPs, not FPs. However, after careful research we found many false flags that pointed to different APT groups. Its tools, techniques and processes (TTPs) dont differ extensively from those of traditional APT groups. Nevertheless, the fact that Lamberts is active in the Netherlands shows a possible shift in focus, and reminds us that for APT groups, borders do not exist. ASML is one of relatively few high-tech companies in the Netherlands.
+
+Mean Scored Summary
+-------------------
+However, aside from Sofacy we havent seen many other advanced persistent threat (APT) groups in the Netherlands, at least when compared to other areas, such as the Middle-East. 0  10,532    1  1,149    2  618    3  344    4  234    >4  938     One way to determine whether a hit in the sinkhole database is a true positive (TP) or a false positive (FP), is to find out who the victim is. The next step was to remove all the entries that would be difficult to investigate (e.g. The aim of this blogpost is to give an overview of which APT groups are active in the Netherlands and what they are interested in, and that requires TPs, not FPs. BlackOasis differentiates itself from other APT-groups by using a vast amount of 0-days: at least five since 2015. We have also seen it targeting members of the United Nations and regional news correspondents. In 2015, Trend Micro researchers reported that the group had targeted the MH17 investigation team. Interestingly, we observe fewer deployments of Xagent (one of Sofacys modules) after April 2018. However, after careful research we found many false flags that pointed to different APT groups. Buhtrap  Buhtrap is one of the groups that targets financial institutions with the ultimate goal of stealing money. Its tools, techniques and processes (TTPs) dont differ extensively from those of traditional APT groups. Nevertheless, the fact that Lamberts is active in the Netherlands shows a possible shift in focus, and reminds us that for APT groups, borders do not exist. Other Turla targets include ministries and governmental organizations. ASML is one of relatively few high-tech companies in the Netherlands. Victims include governmental organizations, military contractors, activists and journalists.
+
+Post 8 .......................................................................
+https://securelist.com/it-threat-evolution-q2-2018/87172/
+
+Top N Summary
+-------------
+In April, Kaspersky Lab ICS CERT provided information on identified servers infected and used by Crouching Yeti and presented the findings of an analysis of several web servers compromised by the group during 2016 and early 2017. Researchers in the Global Research and Analysis Team (GReAT) at Kaspersky Lab analyzed the EXIF processing mechanism . We think they did this by inserting malicious scripts into the countrys official websites in order to conduct watering-hole attacks. Its possible that the attackers used a watering hole to infect data center employees. We have continued to track this APT groups activities and recently noticed that they have started a new campaign with a different geographical distribution and using new themes.
+
+Mean Scored Summary
+-------------------
+In April, Kaspersky Lab ICS CERT provided information on identified servers infected and used by Crouching Yeti and presented the findings of an analysis of several web servers compromised by the group during 2016 and early 2017. This turned out to be a new zero-day vulnerability for Internet Explorer (CVE-2018-8174) patched by Microsoft on May 8, 2018. Researchers in the Global Research and Analysis Team (GReAT) at Kaspersky Lab analyzed the EXIF processing mechanism . We think they did this by inserting malicious scripts into the countrys official websites in order to conduct watering-hole attacks. Its possible that the attackers used a watering hole to infect data center employees. We suspect that this router was hacked as part of the campaign in order to process the malwares HTTP requests. We have continued to track this APT groups activities and recently noticed that they have started a new campaign with a different geographical distribution and using new themes. The group continues to use a non-executable infection vector and highly obfuscated scripts to evade detection. We also saw infections in China, India and Bangladesh. As a result, they are vulnerable to Man-in-the-Middle (MitM) attacksintruders can intercept transmitted data by persuading victims to install their certificate. Partner organizations often arrange ticket giveaways for clients, and attackers exploit this to lure their victims onto fake promotion sites.
+
+Post 9 .......................................................................
+https://securelist.com/vpnfilter-exif-to-c2-mechanism-analysed/85721/
+
+Top N Summary
+-------------
+While looking at the pDNS history for this domain, we noticed that it resolved to an IP addresses in France, at OVH, between Jan and Feb 2018:   Interestingly, when visiting this websites C2 URL, we are presented with a JPG image, suggesting it is still an active C2:   Heres how it looks when viewed as an image:   When we look into the EXIF data for the picture, for instance using IrfanView, it looks as following:  Filename  update.jpg   GPS information:   GPSLatitude  97  30  -175 (97.451389)  GPSLongitude  -118  140  -22 (-115.672778)   How to get the IP out of these? This makes sense because the EXIF attribute information begins with a tag 0xFF 0xE1. That IFD record is, in turn, a list of tagged IFD records that hold separate values for latitude, longitude, timestamp, speed, etc. Then, for each record of interest, the code extracts the enumerator part and produces a string of three integers (i.e. 97 30 4294967121 and 4294967178 140 4294967274 that will be displayed by a typical EXIF parser as 1193143 deg 55 21.00, 4296160226 deg 47 54.00).
+
+Mean Scored Summary
+-------------------
+While looking at the pDNS history for this domain, we noticed that it resolved to an IP addresses in France, at OVH, between Jan and Feb 2018:   Interestingly, when visiting this websites C2 URL, we are presented with a JPG image, suggesting it is still an active C2:   Heres how it looks when viewed as an image:   When we look into the EXIF data for the picture, for instance using IrfanView, it looks as following:  Filename  update.jpg   GPS information:   GPSLatitude  97  30  -175 (97.451389)  GPSLongitude  -118  140  -22 (-115.672778)   How to get the IP out of these? This makes sense because the EXIF attribute information begins with a tag 0xFF 0xE1. Then, it verifies that the tag is followed by a string Exif. That IFD record is, in turn, a list of tagged IFD records that hold separate values for latitude, longitude, timestamp, speed, etc. Then, for each record of interest, the code extracts the enumerator part and produces a string of three integers (i.e. 97 30 4294967121 and 4294967178 140 4294967274 that will be displayed by a typical EXIF parser as 1193143 deg 55 21.00, 4296160226 deg 47 54.00).
+
+Post 10 .......................................................................
+https://securelist.com/it-threat-evolution-q1-2018/85469/
+
+Top N Summary
+-------------
+Olympic Destroyer but who did the destroying? In February, we published an overview of Sofacy activities in 2017 , revealing a gradual moved away from NATO-related targets at the start of 2017, towards targets in the Middle East, Central Asia and beyond. Kaspersky Lab, as a member of the ITU-T Study Group 20, was a contributor to the development of Recommendation ITU-T T.4806 , designed to classify security issues, examine potential threats and determine how cyber-security measures can support the safe execution of IoT systems tasks. The infection starts with the download of a potentially unwanted application (PUA) that contains the miner. This executes the legitimate system process and uses a process-hollowing technique whereby the legitimate process code is switched for malicious code.
+
+Mean Scored Summary
+-------------------
+Olympic Destroyer but who did the destroying? In February, we published an overview of Sofacy activities in 2017 , revealing a gradual moved away from NATO-related targets at the start of 2017, towards targets in the Middle East, Central Asia and beyond. Even more alarming, the web interface for the device was accessible with default credentials. Kaspersky Lab, as a member of the ITU-T Study Group 20, was a contributor to the development of Recommendation ITU-T T.4806 , designed to classify security issues, examine potential threats and determine how cyber-security measures can support the safe execution of IoT systems tasks. The infection starts with the download of a potentially unwanted application (PUA) that contains the miner. This executes the legitimate system process and uses a process-hollowing technique whereby the legitimate process code is switched for malicious code.
+
+Post 11 .......................................................................
+https://securelist.com/masha-and-these-bears/84311/
+
+Top N Summary
+-------------
+Because SPLM is their primary and selective second stage tool, SPLM deployment is of much interest. And here, an interest in military technologies is certainly within Sofacy purview. However, it is unusual that a full SPLM backdoor was not detected on this system, nor was any powershell loader script. Because the injection source remains unidentified on such a unique system, we might speculate on what is going on here:   Sofacy attackers had recorded a previous Grey Lambert remote session and replayed the communication after discovering this host, essentially compromising the Grey Lambert module on the system to gain access and later injecting SPLM modules  Grey Lambert attackers inserted false flag and reduced SPLM modules  a new and unrecognized, full variant of SPLM attempted to inject module code into memory and deleted itself  an unknown new powershell script or legitimate but vulnerable web app was exploited to load and execute this unusual SPLM code   In all likelihood, the last option is accurate. Conclusion  Sofacy is such a large, active group that appears to maintain multiple sub-groups and efforts that all fit under the Sofacy umbrella.
+
+Mean Scored Summary
+-------------------
+Our previous post on their 2017 activity stepped away from the previously covered headline buzz presenting their association with previously known political hacks and interest in Europe and the US, and examines their under-reported ongoing activity in middle east, central asia, and now a shift in targeting further east, including China, along with an overlap surprise. Because SPLM is their primary and selective second stage tool, SPLM deployment is of much interest. We observe the retranslator code, or ProcessRetranslator.dll, currently being delivered to systems without the presence of the previous, large, SPLM code and injection capabilities. Cryptography ranges from built-in windows api to custom RC4-based ciphers. Sofacy has been heavily interested in military and foreign affairs organizations here, resulting in multiple overlapped and competing targeting scenarios:   Mosquito Turla and Zebrocy clusters  Zebrocy clusters targeting diplomatic and commercial organizations within Europe and Asia that match Mosquito targeting profiling  SPLM overlap with traditional Turla  often Turla precedes SPLM deployments  SPLM overlap with Zebrocy  Zebrocy often precedes SPLM deployments  SPLM overlap with Danti   Currently, Sofacy targets large air-defense related commercial organizations in China with SPLM, and moves Zebrocy focus across Armenia, Turkey, Kazahkstan, Tajikistan, Afghanistan, Mongolia, China, and Japan. And here, an interest in military technologies is certainly within Sofacy purview. However, it is unusual that a full SPLM backdoor was not detected on this system, nor was any powershell loader script. Because the injection source remains unidentified on such a unique system, we might speculate on what is going on here:   Sofacy attackers had recorded a previous Grey Lambert remote session and replayed the communication after discovering this host, essentially compromising the Grey Lambert module on the system to gain access and later injecting SPLM modules  Grey Lambert attackers inserted false flag and reduced SPLM modules  a new and unrecognized, full variant of SPLM attempted to inject module code into memory and deleted itself  an unknown new powershell script or legitimate but vulnerable web app was exploited to load and execute this unusual SPLM code   In all likelihood, the last option is accurate. Conclusion  Sofacy is such a large, active group that appears to maintain multiple sub-groups and efforts that all fit under the Sofacy umbrella.
+
+Post 12 .......................................................................
+https://securelist.com/a-slice-of-2017-sofacy-activity/83930/
+
+Top N Summary
+-------------
+Throughout these waves, we observed that the targets provided connection, even tangential, to Ukraine and NATO military and diplomatic interests. As an example, we might see extraneous data in their SSL/TLS certificates that give away information about their provider or resources. In order to identify their presence, not only can you gain valuable insight into their targeting from intelligence reports and gain powerful means of detections with hunting tools like YARA, but out-of-band processing with a solution like KATA is important. ]net lifeofmentalservice[. ]net netcorpscanprotect[.
+
+Mean Scored Summary
+-------------------
+Throughout these waves, we observed that the targets provided connection, even tangential, to Ukraine and NATO military and diplomatic interests. Sofacy selectively used SPLM/CHOPSTICK modules as second stage implants to high interest targets for years now. The newer SPLM modules are deployed mostly to Central Asian based targets that may have a tie to NATO in some form. As an example, we might see extraneous data in their SSL/TLS certificates that give away information about their provider or resources. With a group like Sofacy, once their attention is detected on a network, it is important to review logins and unusual administrator access on systems, thoroughly scan and sandbox incoming attachments, and maintain two factor authentication for services like email and vpn access. In order to identify their presence, not only can you gain valuable insight into their targeting from intelligence reports and gain powerful means of detections with hunting tools like YARA, but out-of-band processing with a solution like KATA is important. ]net lifeofmentalservice[. ]net netcorpscanprotect[.
+
+Post 13 .......................................................................
+https://securelist.com/exploits-how-great-is-the-threat/78125/
+
+Top N Summary
+-------------
+How serious, really, is the danger presented by exploits? This report focuses on attacks using client-side exploits and does not include data on attacks using server-side exploits. Key findings on exploits used by targeted attackers 2010 -2016:   Overall, targeted attackers and campaigns reported on by Kaspersky Lab in the years 2010 to 2016 appear to have held, used and re-used more than 80 vulnerabilities. The Equation Group is not far behind, with approximately 17 vulnerabilities in its arsenal, of which at least eight were zero-days, according to public data and Kaspersky Labs own intelligence. To take just one example, when we looked at our most recent threat statistics we found that exploits to CVE-2010-2568 (used in the notorious Stuxnet campaign) still rank first in terms of the number of users attacked.
+
+Mean Scored Summary
+-------------------
+How serious, really, is the danger presented by exploits? This report focuses on attacks using client-side exploits and does not include data on attacks using server-side exploits. The number of corporate users who encountered an exploit at least once increased 28.35% to reach 690,557, or 15.76% of the total amount of users attacked with exploits. 2015-2016 witnessed a number of positive developments in the exploit threat landscape. In 2016, the number of attacks rose by 28.35% to reach more than 690,000, or 15.76% of the total amount of users attacked with exploits. Key findings on exploits used by targeted attackers 2010 -2016:   Overall, targeted attackers and campaigns reported on by Kaspersky Lab in the years 2010 to 2016 appear to have held, used and re-used more than 80 vulnerabilities. The Equation Group is not far behind, with approximately 17 vulnerabilities in its arsenal, of which at least eight were zero-days, according to public data and Kaspersky Labs own intelligence. When looking more closely at the applications used by targeted threat actors to mount exploit-based attacks, we werent surprised to discover that Windows, Flash and Office top the list. To take just one example, when we looked at our most recent threat statistics we found that exploits to CVE-2010-2568 (used in the notorious Stuxnet campaign) still rank first in terms of the number of users attacked.
+
+Post 14 .......................................................................
+https://securelist.com/sofacy-apt-hits-high-profile-targets-with-updated-toolset/72924/
+
+Top N Summary
+-------------
+One example of the new Sofacy USBSTEALER modules is 8b238931a7f64fddcad3057a96855f6c, which is named internally as msdetltemp.dll. At the beginning of August, Sofacy began a new wave of attacks, focusing on  defense-related targets. The module inspects every new disk volume attached to the system. For every disk it creates a stash directory in % root stash directory location %\ %volume serial number in hex% with attributes FILE_ATTRIBUTE_HIDDEN and FILE_ATTRIBUTE_SYSTEM. The function  NvStart  is similar to the main function of the older module; it creates a window and enters the message loop waiting for device arrival notifications.
+
+Mean Scored Summary
+-------------------
+This led us to believe the two groups were connected, at least to begin with, although it appears they parted ways in 2014, with the original Miniduke group switching to the CosmicDuke implant . Decrypted configuration block of the C&C helper library  tf394kv.dll   This code modification marks an unusual departure from the typical AZZY backdoors, with its C&C communication functions moved to an external DLL file. One example of the new Sofacy USBSTEALER modules is 8b238931a7f64fddcad3057a96855f6c, which is named internally as msdetltemp.dll. More details on the new USB stealers are available in the section on technical analysis. At the beginning of August, Sofacy began a new wave of attacks, focusing on  defense-related targets. If one of them was detected, the other one provided the attacker with continued access. The module aborts the thread receiving C2 command after it fails to correctly execute commands more than six times in a row, i.e. The module inspects every new disk volume attached to the system. For every disk it creates a stash directory in % root stash directory location %\ %volume serial number in hex% with attributes FILE_ATTRIBUTE_HIDDEN and FILE_ATTRIBUTE_SYSTEM. The function  NvStart  is similar to the main function of the older module; it creates a window and enters the message loop waiting for device arrival notifications. ]info   Kaspersky Lab products detect the malware mentioned here with the following names:   Trojan.Win32.Sofacy.al  Trojan.Win32.Sofacy.be  Trojan.Win32.Sofacy.bf  Trojan.Win32.Sofacy.bg  Trojan.Win32.Sofacy.bi  Trojan.Win32.Sofacy.bj  Trojan.Win64.Sofacy.q  Trojan.Win64.Sofacy.s  HEUR:Trojan.Win32.Generic
+
+Post 15 .......................................................................
+https://securelist.com/the-cozyduke-apt/69731/
+
+Top N Summary
+-------------
+php 201.76.51.10 : 443 / plugins / json . php 202.206.232.20 : 443 / rss . php 203.156.161.49 : 443 / plugins / twitter . php 209.40.72.2 : 443 / plugins / fsearch . php 208.77.177.24 : 443 / fsearch .
+
+Mean Scored Summary
+-------------------
+Cache.dll connectback urls:   209.200.83.43/ajax/links.php  209.200.83.43/ajax/api.php  209.200.83.43/ajax/index.php  209.200.83.43/ajax/error.php  209.200.83.43/ajax/profile.php  209.200.83.43/ajax/online.php  209.200.83.43/ajax/loader.php  209.200.83.43/ajax/search.php   Observed user-agent string on the wire, but its dynamically generated based on the Windows system settings (retrieved using standard win32 api ObtainUserAgentString): User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)  Communications with the CozyDuke C2 include key/value pairs passed as URL parameters. Both have exactly the same export tables and appear to be called internally UserCache.dll:   This seems to indicate the authors of OnionDuke and CozyDuke / Cozy Bear are the same, or working together. php 201.76.51.10 : 443 / plugins / json . php 202.206.232.20 : 443 / rss . php 203.156.161.49 : 443 / plugins / twitter . php 209.40.72.2 : 443 / plugins / fsearch . php 208.77.177.24 : 443 / fsearch .
+
+Post 16 .......................................................................
+https://www.securityweek.com/fireeye-links-russia-cyber-espionage-campaign-dating-back-2007
+
+Top N Summary
+-------------
+FireEye said the attackers have not been seen trying to steal and profit from financial account information. According to FireEye, the threat actors behind APT28 are after insider information related to governments, militaries, and security organizations that would likely benefit the Russian government. Interestingly, the report (PDF) explained that that two separate CHOPSTICK backdoors could contain vastly different functionality, depending on which modules were included at compile time. The threat actors also targeted attendees of European defense exhibitions, including the Farnborough Airshow 2014, EuroNaval 2014, EUROSATORY 2014, and the Counter Terror Expo. According to researchers at Trend Micro, the Sandworm team may also have their eyes set on compromising SCADA-based systems.
+
+Mean Scored Summary
+-------------------
+Unlike many attacks often attributed to China and detailed in Mandiants (now part of FireEye) APT1 report released in 2013, the APT28 attackers do not appear to be after intellectual property theft for economic gain. FireEye said the attackers have not been seen trying to steal and profit from financial account information. According to FireEye, the threat actors behind APT28 are after insider information related to governments, militaries, and security organizations that would likely benefit the Russian government. Interestingly, the report (PDF) explained that that two separate CHOPSTICK backdoors could contain vastly different functionality, depending on which modules were included at compile time. Such targets would potentially provide APT28 with sensitive tactical and strategic intelligence concerning regional military capabilities and relationships, FireEye said. The threat actors also targeted attendees of European defense exhibitions, including the Farnborough Airshow 2014, EuroNaval 2014, EUROSATORY 2014, and the Counter Terror Expo. Other probable targets identified by FireEye include:
+ Norwegian Army (Forsvaret)
+ Government of Mexico
+ Chilean Military
+ Pakistani Navy
+ U.S. Defense Contractors
+ European Embassy in Iraq
+ Special Operations Forces Exhibition (SOFEX) in Jordan
+ Defense Attaches in East Asia
+ Asia-Pacific Economic Cooperation (APEC)
+ Al-Wayi News Site
+At the time of publishing the report, FireEye had identified 103 malware samples that says were attributed to APT28, butMcWhorter believes there is a great deal more. According to researchers at Trend Micro, the Sandworm team may also have their eyes set on compromising SCADA-based systems.
+
+Post 17 .......................................................................
+https://www.securityweek.com/microsoft-disrupts-election-related-domains-used-russian-hackers
+
+Top N Summary
+-------------
+The first domain appears to mimic the International Republican Institute, a non-profit that receives funding from the U.S. government to promote democracy around the world. Weve also been monitoring and addressing domain activity with Senate IT staff the past several months, following prior attacks we detected on the staffs of two current senators, Brad Smith, Microsofts president and chief legal officer, said in a blog post. The company says it has used court orders a total of 12 times over the past two years to shut down 84 fake websites linked to the threat group. But its important not to lose sight of the bigger issue, Sullivan told SecurityWeek. There seems to be a rush to conclude that these six domains are part of an attack on the elections that risks missing the complete threat model  and therefore the complete countermeasures that should be taken.
+Microsoft took this opportunity to announce its new AccountGuard initiative, which provides free cybersecurity protection to candidates, campaigns and political institutions using Office 365.
+
+Mean Scored Summary
+-------------------
+APT28, which experts believe is sponsored by Russias GRU intelligence agency, has been known to launch politics-focused campaigns, including ones aimed at the latest presidential elections in the United States and France. The first domain appears to mimic the International Republican Institute, a non-profit that receives funding from the U.S. government to promote democracy around the world. Weve also been monitoring and addressing domain activity with Senate IT staff the past several months, following prior attacks we detected on the staffs of two current senators, Brad Smith, Microsofts president and chief legal officer, said in a blog post. The company says it has used court orders a total of 12 times over the past two years to shut down 84 fake websites linked to the threat group. But its important not to lose sight of the bigger issue, Sullivan told SecurityWeek. There seems to be a rush to conclude that these six domains are part of an attack on the elections that risks missing the complete threat model  and therefore the complete countermeasures that should be taken.
+Microsoft took this opportunity to announce its new AccountGuard initiative, which provides free cybersecurity protection to candidates, campaigns and political institutions using Office 365.
+
+Post 18 .......................................................................
+https://www.securityweek.com/russian-hackers-exploit-recently-patched-flash-vulnerability
+
+Top N Summary
+-------------
+Russian Hackers Exploit Recently Patched Flash Vulnerability
+
+The Russia-linked cyber espionage group known as APT28 has been using a recently patched Adobe Flash Player vulnerability in attacks aimed at government organizations and aerospace companies, security firm Proofpoint reported on Thursday. The messages delivering the exploits were highly targeted and they were sent out using free email services, Proofpoint said. The attackers leveraged malicious documents and their previously known Flash Player exploit platform named DealersChoice to deliver the first-stage implant, specifically a reconnaissance tool. The exploit, however, fails to execute on 64-bit systems running Windows 10 Fall Creators Update (RS3) and Office 2016. Related: Russian Hackers Target Montenegro as Country Joins NATO
+Related: Russian Cyberspies Target Hotels in Europe
+Related: Tech Firms Target Domains Used by Russia-linked Threat Group
+
+Mean Scored Summary
+-------------------
+Russian Hackers Exploit Recently Patched Flash Vulnerability
+
+The Russia-linked cyber espionage group known as APT28 has been using a recently patched Adobe Flash Player vulnerability in attacks aimed at government organizations and aerospace companies, security firm Proofpoint reported on Thursday. The messages delivering the exploits were highly targeted and they were sent out using free email services, Proofpoint said. The attackers leveraged malicious documents and their previously known Flash Player exploit platform named DealersChoice to deliver the first-stage implant, specifically a reconnaissance tool. The exploit, however, fails to execute on 64-bit systems running Windows 10 Fall Creators Update (RS3) and Office 2016.
+
+Post 19 .......................................................................
+https://www.securityweek.com/russia-linked-hackers-used-two-zero-days-recent-targeted-attack-fireeye
+
+Top N Summary
+-------------
+HTML/JS launcher page serves Flash exploit
+3. Flash exploit triggers CVE-2015-3043, executes shellcode
+4. ]246, also hosts a suspected APT28 domain ssl-icloud[. The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Trend Micro also eluded to possible connections with the Russian government.
+
+Mean Scored Summary
+-------------------
+FireEye has described APT28 as a skilled team of developers and operators collecting intelligence on defense and geopolitical issues that would clearly benefit Russia. Through its analysis and technical indicators and command and control infrastructure, FireEye believes that the APT28 attackers are responsible for the campaign, which it is calling "Operation RussianDoll". HTML/JS launcher page serves Flash exploit
+3. Flash exploit triggers CVE-2015-3043, executes shellcode
+4. ]246, also hosts a suspected APT28 domain ssl-icloud[. The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Trend Micro also eluded to possible connections with the Russian government.
+
+Post 20 .......................................................................
+https://www.securityweek.com/russia-linked-hackers-used-two-zero-days-recent-targeted-attack-fireeye
+
+Top N Summary
+-------------
+HTML/JS launcher page serves Flash exploit
+3. Flash exploit triggers CVE-2015-3043, executes shellcode
+4. ]246, also hosts a suspected APT28 domain ssl-icloud[. The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Trend Micro also eluded to possible connections with the Russian government.
+
+Mean Scored Summary
+-------------------
+FireEye has described APT28 as a skilled team of developers and operators collecting intelligence on defense and geopolitical issues that would clearly benefit Russia. Through its analysis and technical indicators and command and control infrastructure, FireEye believes that the APT28 attackers are responsible for the campaign, which it is calling "Operation RussianDoll". HTML/JS launcher page serves Flash exploit
+3. Flash exploit triggers CVE-2015-3043, executes shellcode
+4. ]246, also hosts a suspected APT28 domain ssl-icloud[. The payload contains an exploit for the unpatched local privilege escalation vulnerability CVE-2015-1701 in Microsoft Windows. Trend Micro also eluded to possible connections with the Russian government.
+
+Post 21 .......................................................................
+https://www.securityweek.com/who-hacked-french-president-elect-emmanuel-macrons-campaign
+
+Top N Summary
+-------------
+Who Hacked French President-elect Emmanuel Macron's Campaign? The New York Times reported, "'We created false accounts, with false content, as traps. And if the intruder does manage to exfiltrate any data, it is false data. "In the Macron hack," he told SecurityWeek, "the deception seems to be at the data level only." "If it's information warfare -- rather than cyber warfare," suggests F-Secure security advisor Sean Sullivan, "then the point is not stealth.
+
+Mean Scored Summary
+-------------------
+Who Hacked French President-elect Emmanuel Macron's Campaign? The Macron hack occurred far later in the election campaign than the DNC hack; the phishing emails appear to be far clumsier; and the email leak occurred too late to have any effect on the election outcome. The New York Times reported, "'We created false accounts, with false content, as traps. And if the intruder does manage to exfiltrate any data, it is false data. "In the Macron hack," he told SecurityWeek, "the deception seems to be at the data level only." In other words, it can explain but does not prove why the leak occurred so late -- the attackers simply didn't know what to leak. "As far as attribution related to the hacks Macron's campaign suffered, or the origins of the stolen documents," F-Secure researcher Andy Patel told SecurityWeek, "fingers are being pointed based on 'who would/wouldn't do something like this?' "If it's information warfare -- rather than cyber warfare," suggests F-Secure security advisor Sean Sullivan, "then the point is not stealth.
+
+Post 22 .......................................................................
+https://www.securityweek.com/cyberattack-ongoing-against-german-government-network
+
+Top N Summary
+-------------
+The highly professional assault had been monitored by the security agencies in order to gain insights into the mode of attack and its targets, said de Maiziere. German news agency DPA, which first reported the attack the previous day, said Thursday, citing unnamed security sources, that the likely authors were the Russian cyber espionage group "Snake". Konstantin von Notz, deputy of the committee, complained it was "completely unacceptable" that members of the oversight body only learnt of the attack through the media. Amid the rising frequency of attacks, Germany's defence ministry in 2016 set up a cyber department to coordinate the response to online intrusions. Related:Russia-linked Hackers Directly Targeting Diplomats: Report
+
+Mean Scored Summary
+-------------------
+The highly professional assault had been monitored by the security agencies in order to gain insights into the mode of attack and its targets, said de Maiziere. German news agency DPA, which first reported the attack the previous day, said Thursday, citing unnamed security sources, that the likely authors were the Russian cyber espionage group "Snake". Konstantin von Notz, deputy of the committee, complained it was "completely unacceptable" that members of the oversight body only learnt of the attack through the media. - Russian hackers -
+Top security officials had repeatedly warned during Germany's 2017 general election campaign that Russian hackers may seek to influence or disrupt the polls. Amid the rising frequency of attacks, Germany's defence ministry in 2016 set up a cyber department to coordinate the response to online intrusions. Related:Russia-linked Hackers Directly Targeting Diplomats: Report
+
+Post 23 .......................................................................
+https://www.securityweek.com/russian-spies-lure-targets-nato-cybersecurity-conference
+
+Top N Summary
+-------------
+Russian Spies Lure Targets With NATO Cybersecurity Conference
+
+A cyber espionage group linked to Russia has been trying to deliver malware to targeted individuals using documents referencing a NATO cybersecurity conference, Ciscos Talos research team reported on Monday. The campaign was apparently aimed at individuals interested in the CyCon U.S. conference organized by the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) in collaboration with the Army Cyber Institute at West Point on November 7-8 in Washington, D.C. In the previous campaign where adversaries used Office document exploits as an infection vector, the payload was executed in the Office word process. In this campaign, adversaries did not use any exploit. The variant used in these attacks is slightly different compared to previously known samples, which is likely an attempt to evade detection.
+
+Mean Scored Summary
+-------------------
+Russian Spies Lure Targets With NATO Cybersecurity Conference
+
+A cyber espionage group linked to Russia has been trying to deliver malware to targeted individuals using documents referencing a NATO cybersecurity conference, Ciscos Talos research team reported on Monday. The campaign was apparently aimed at individuals interested in the CyCon U.S. conference organized by the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) in collaboration with the Army Cyber Institute at West Point on November 7-8 in Washington, D.C. The hackers created malicious documents with information that was copied from the official CyCon U.S. website. In the previous campaign where adversaries used Office document exploits as an infection vector, the payload was executed in the Office word process. In this campaign, adversaries did not use any exploit. The variant used in these attacks is slightly different compared to previously known samples, which is likely an attempt to evade detection.
+
+Post 24 .......................................................................
+https://www.securityweek.com/russian-hackers-target-montenegro-country-joins-nato
+
+Top N Summary
+-------------
+Despite strong opposition from Russia, Montenegro officially joined NATO on June 5. In the latest attacks observed by researchers, the hackers used spear-phishing emails to deliver malicious documents pertaining to a NATO secretary meeting and a visit by a European army unit to Montenegro. GAMEFISH is a backdoor that is tracked by other security firms as Sednit, Seduploader, JHUHUGIT and Sofacy. A command and control (C&C) server is then contacted and the appropriate Flash exploit is downloaded. Montenegro's accession could increase cyber threat activity directed toward NATO, and provide additional avenues for adversaries like Russia to illicitly access NATO information.
+APT28 has been known to target NATO member countries, including by leveraging zero-day vulnerabilities.
+
+Mean Scored Summary
+-------------------
+Despite strong opposition from Russia, Montenegro officially joined NATO on June 5. In the latest attacks observed by researchers, the hackers used spear-phishing emails to deliver malicious documents pertaining to a NATO secretary meeting and a visit by a European army unit to Montenegro. GAMEFISH is a backdoor that is tracked by other security firms as Sednit, Seduploader, JHUHUGIT and Sofacy. A command and control (C&C) server is then contacted and the appropriate Flash exploit is downloaded. Montenegro's accession could increase cyber threat activity directed toward NATO, and provide additional avenues for adversaries like Russia to illicitly access NATO information.
+APT28 has been known to target NATO member countries, including by leveraging zero-day vulnerabilities.
+
+Post 25 .......................................................................
+https://www.securityweek.com/russia-linked-spies-deliver-malware-dde-attack
+
+Top N Summary
+-------------
+Shortly after, security firms reported seeing attacks leveraging DDE to deliver malware, including Locky ransomware. In the APT28 attacks spotted by McAfee, cyberspies used the document referencing the New York City attack to deliver a first-stage malware tracked as Seduploader. Another recent APT28 attack leveraged a document describing CyCon U.S., a conference organized by the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) in collaboration with the Army Cyber Institute at West Point. [The] use of recent domestic events and a prominent US military exercise focused on deterring Russian aggression highlight APT28s ability and interest in exploiting geopolitical events for their operations, they added. Related: Tech Firms Target Domains Used by Russia-linked Threat Group
+Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Mean Scored Summary
+-------------------
+Shortly after, security firms reported seeing attacks leveraging DDE to deliver malware, including Locky ransomware. Another recent APT28 attack leveraged a document describing CyCon U.S., a conference organized by the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) in collaboration with the Army Cyber Institute at West Point. Related: Tech Firms Target Domains Used by Russia-linked Threat Group
+Related: Attribution Hell - Cyberspies Hacking Other Cyberspies
+
+Post 26 .......................................................................
+https://www.securityweek.com/pawn-storm-cyberspies-target-german-ruling-party
+
+Top N Summary
+-------------
+Trend Micro discovered in April that the threat actor was launching credential phishing attacks against the Christian Democratic Union (CDU) and high-profile users of German freemail providers GMX and WEB.DE. Trend Micro previously reported that this provider, which has servers in the Netherlands and Romania, was used by Pawn Storm in at least 80 high profile attacks aimed at governments around the world. Pawn Storm attackers often conduct sophisticated, simultaneous attacks against targets corporate and personal email accounts. The attackers build a fake version of the corporate webmail server of the targeted organization and at the same attack key members of the organization on their private free webmail accounts, said Feike Hacquebord, senior threat researcher at Trend Micro. Credential phishing is an important espionage tool: we have witnessed Pawn Storm downloading complete online e-mail boxes and securing future access by e.g.
+
+Mean Scored Summary
+-------------------
+Trend Micro previously reported that this provider, which has servers in the Netherlands and Romania, was used by Pawn Storm in at least 80 high profile attacks aimed at governments around the world. Pawn Storm attackers often conduct sophisticated, simultaneous attacks against targets corporate and personal email accounts. The attackers build a fake version of the corporate webmail server of the targeted organization and at the same attack key members of the organization on their private free webmail accounts, said Feike Hacquebord, senior threat researcher at Trend Micro. Credential phishing is an important espionage tool: we have witnessed Pawn Storm downloading complete online e-mail boxes and securing future access by e.g.
+
+Post 27 .......................................................................
+https://www.securityweek.com/researchers-dissect-tool-used-infamous-russian-hacker-group
+
+Top N Summary
+-------------
+Also referred to as APT28, Fancy Bear, Pawn Storm, Sednit, and Strontium, and active since around 2007, the group is focused on cyber espionage and has hit government, military, and defense organizations worldwide. Supposedly the actor behind attacks targeting the 2016 presidential election in the United States, Sofacy has been known to target Ukraine and NATO countries, and has recently switched focus to targets in Asia. When launched, the malware displays a splash window with a bogus error message to distract the user. The tool was last seen in September 2015, two months before Zebrocy emerged and both malware families also use a similar deployment method, the researchers note. We can consider it as one of the stable, mature tools in Sednits arsenal, a tool that deserves to be monitored closely, ESET concludes.
+
+Mean Scored Summary
+-------------------
+Dubbed Zebrocy, the tool serves as a first-stage malware in attacks and is comprised of a Delphi downloader, an AutoIt downloader and a Delphi backdoor. Also referred to as APT28, Fancy Bear, Pawn Storm, Sednit, and Strontium, and active since around 2007, the group is focused on cyber espionage and has hit government, military, and defense organizations worldwide. Supposedly the actor behind attacks targeting the 2016 presidential election in the United States, Sofacy has been known to target Ukraine and NATO countries, and has recently switched focus to targets in Asia. When launched, the malware displays a splash window with a bogus error message to distract the user. The tool was last seen in September 2015, two months before Zebrocy emerged and both malware families also use a similar deployment method, the researchers note. We have seen Zebrocy being heavily used by the Sednit group over the last two years. We can consider it as one of the stable, mature tools in Sednits arsenal, a tool that deserves to be monitored closely, ESET concludes.
+
+Post 28 .......................................................................
+https://www.securityweek.com/russian-cyberspies-shift-focus-nato-countries-asia
+
+Top N Summary
+-------------
+According to the security firm, by mid-2017, detections of a Sofacy backdoor tracked as SPLM, CHOPSTICK and X-Agent showed that the hackers had been increasingly targeting former Soviet countries in Central Asia, including telecoms firms and defense-related organizations. Attacks involving SPLM and a tool tracked as Zebrocy were increasingly spotted between the second and fourth quarters of 2017 further east. The list of countries where these pieces of malware were detected by Kaspersky includes China, Mongolia, South Korea and Malaysia. As a result, Kaspersky expects to see some changes this year. Mass campaigns appear to have given way to subsets of activity and malware involving such tools as Zebrocy and SPLM.
+Related: Russia-Linked Spies Deliver Malware via DDE Attack
+Related: Russian 'Fancy Bear' Hackers Abuse Blogspot for Phishing
+Related: Kaspersky Details APT Trends for Q2 2017
+
+Mean Scored Summary
+-------------------
+According to the security firm, by mid-2017, detections of a Sofacy backdoor tracked as SPLM, CHOPSTICK and X-Agent showed that the hackers had been increasingly targeting former Soviet countries in Central Asia, including telecoms firms and defense-related organizations. Attacks involving SPLM and a tool tracked as Zebrocy were increasingly spotted between the second and fourth quarters of 2017 further east. The list of countries where these pieces of malware were detected by Kaspersky includes China, Mongolia, South Korea and Malaysia. Mass campaigns appear to have given way to subsets of activity and malware involving such tools as Zebrocy and SPLM.
+Related: Russia-Linked Spies Deliver Malware via DDE Attack
+Related: Russian 'Fancy Bear' Hackers Abuse Blogspot for Phishing
+Related: Kaspersky Details APT Trends for Q2 2017
+
+Post 29 .......................................................................
+https://www.securityweek.com/germany-accuses-russia-hybrid-warfare
+
+Top N Summary
+-------------
+Germany Accuses Russia of Hybrid Warfare
+
+Russia has been accused of waging its own brand of cyber hybrid warfare against Germany, with specific focus on next year's elections. Now both the heads of the German foreign intelligence agency (BND), Bruno Kahl, and the domestic intelligence agency (BfV), Hans-Georg Maassen, have warned about increasing Russian cyber activity in Germany. APT28 successfully exfiltrated data from the German Bundestag in 2015." He points to social networks as the new way for people to share and consume information, adding that it provides the perfect entry point for disinformation and campaigns designed to reshape public opinion. The political theory is that Russia will benefit from a weakened European Union -- already wounded by Brexit.
+
+Mean Scored Summary
+-------------------
+Germany Accuses Russia of Hybrid Warfare
+
+Russia has been accused of waging its own brand of cyber hybrid warfare against Germany, with specific focus on next year's elections. In particular, the APT28 (Fancy Bear) hacking group -- thought to be linked to the Russian government -- is accused of spreading propaganda and disinformation under the guise of 'hacktivists'. Now both the heads of the German foreign intelligence agency (BND), Bruno Kahl, and the domestic intelligence agency (BfV), Hans-Georg Maassen, have warned about increasing Russian cyber activity in Germany. Yesterday, however, a statement issued by the BfV was more forthright. "Since the start of the Ukraine crisis," it started, "we have seen a significant increase in Russian propaganda and disinformation campaigns in Germany." APT28 successfully exfiltrated data from the German Bundestag in 2015." He points to social networks as the new way for people to share and consume information, adding that it provides the perfect entry point for disinformation and campaigns designed to reshape public opinion. He also warns of an "increase in cyber espionage within the political arena". The political theory is that Russia will benefit from a weakened European Union -- already wounded by Brexit.
+
+Post 30 .......................................................................
+https://www.securityweek.com/russian-cyberspies-target-hotels-europe
+
+Top N Summary
+-------------
+This technique listens for NBT-NS (UDP/137) broadcasts from victim computers attempting to connect to network resources. APT28 used this technique to steal usernames and hashed passwords that allowed escalation of privileges in the victim network, FireEye researchers explained. The attackers started moving through the victims network and accessed their Outlook Web Access (OWA) account. While these attacks can be carried out remotely, in this case the attacker appeared to be on the same network and physically close to the victim. Other campaigns include DarkHotel, which some have linked to South Korea, Duqu 2.0, targeting the networks of European hotels hosting participants in Iranian nuclear negotiations, and according to some reports, high-profile people visiting Russia and China may have their devices accessed.
+
+Mean Scored Summary
+-------------------
+This technique listens for NBT-NS (UDP/137) broadcasts from victim computers attempting to connect to network resources. APT28 used this technique to steal usernames and hashed passwords that allowed escalation of privileges in the victim network, FireEye researchers explained. In one incident that occurred in 2016, a user connected to a hotels Wi-Fi and 12 hours later their device was accessed by APT28 using stolen credentials. The attackers started moving through the victims network and accessed their Outlook Web Access (OWA) account. While these attacks can be carried out remotely, in this case the attacker appeared to be on the same network and physically close to the victim. Other campaigns include DarkHotel, which some have linked to South Korea, Duqu 2.0, targeting the networks of European hotels hosting participants in Iranian nuclear negotiations, and according to some reports, high-profile people visiting Russia and China may have their devices accessed.
+
+Post 31 .......................................................................
+https://www.securityweek.com/russia-linked-pawn-storm-attackers-exploiting-new-adobe-flash-zero-day
+
+Top N Summary
+-------------
+Russia-linked Pawn Storm Attackers Exploiting New Adobe Flash Zero-Day
+
+
+While Adobe released security updates on Tuesday to address multiple security vulnerabilities in Flash Player, Reader and Acrobat, a prominent Russian threat actor group is actively exploiting an unpatched Flash Zero-Day vulnerability in attacks. According to Trend Micro, the threat group behind Operation Pawn Storm (also known as APT28, Sednit, Fancy Bear, Sofacy and Tsar Team) is using Adobe Flash zero-day exploit code in attacks targeting several Ministries of Foreign Affairs. Despite recent patches issued by Adobe on Oct. 13, this vulnerability is still unpatched, leaving Flash users vulnerable to attacks. The Flash zero-day affects at least Adobe Flash Player versions 19.0.0.185 and 19.0.0.207, the security firm said. This means that Pawn Storm has been intercepting incoming e-mail to this organization for an extended period of time in 2015.
+The campaign has also targeted the spouses of senior U.S. officials, Tom Kellermann, Chief Cybersecurity Officer at Trend Micro, told SecurityWeek.
+
+Mean Scored Summary
+-------------------
+Russia-linked Pawn Storm Attackers Exploiting New Adobe Flash Zero-Day
+
+
+While Adobe released security updates on Tuesday to address multiple security vulnerabilities in Flash Player, Reader and Acrobat, a prominent Russian threat actor group is actively exploiting an unpatched Flash Zero-Day vulnerability in attacks. According to Trend Micro, the threat group behind Operation Pawn Storm (also known as APT28, Sednit, Fancy Bear, Sofacy and Tsar Team) is using Adobe Flash zero-day exploit code in attacks targeting several Ministries of Foreign Affairs. Despite recent patches issued by Adobe on Oct. 13, this vulnerability is still unpatched, leaving Flash users vulnerable to attacks. The Flash zero-day affects at least Adobe Flash Player versions 19.0.0.185 and 19.0.0.207, the security firm said. This means that Pawn Storm has been intercepting incoming e-mail to this organization for an extended period of time in 2015.
+The campaign has also targeted the spouses of senior U.S. officials, Tom Kellermann, Chief Cybersecurity Officer at Trend Micro, told SecurityWeek.
+
+Post 32 .......................................................................
+https://www.securityweek.com/russian-cyber-espionage-group-planning-hit-banks-report
+
+Top N Summary
+-------------
+The security firm says it has notified authorities in the United States and the UAE, and the security teams of the targeted financial institutions of APT28s plans. Researchers stumbled upon a spear-phishing domain aimed at the UAE-based financial organization. The domain attracted the attention of experts because it was hosted on a server known to be associated with state-sponsored operations. They also discovered several pieces of new malware with signatures specific to APT28. This attack vector will likely use a well-crafted email containing either a malicious file or web hyperlink to what recipients believe is the actual website; but is instead a fake landing page, the security firm wrote in its report.
+
+Mean Scored Summary
+-------------------
+The security firm says it has notified authorities in the United States and the UAE, and the security teams of the targeted financial institutions of APT28s plans. Researchers stumbled upon a spear-phishing domain aimed at the UAE-based financial organization. The domain attracted the attention of experts because it was hosted on a server known to be associated with state-sponsored operations. They also discovered several pieces of new malware with signatures specific to APT28. This attack vector will likely use a well-crafted email containing either a malicious file or web hyperlink to what recipients believe is the actual website; but is instead a fake landing page, the security firm wrote in its report.
+
+Post 33 .......................................................................
+https://www.securityweek.com/microsoft-patches-zero-days-exploited-russia-linked-hackers
+
+Top N Summary
+-------------
+Microsoft Patches Zero-Days Exploited by Russia-Linked Hackers
+
+Microsofts Patch Tuesday updates for May 2017 address tens of vulnerabilities, including several zero-day flaws exploited by profit-driven cybercriminals and two notorious Russia-linked cyber espionage groups. A blog post published by Microsoft revealed that the company had worked with ESET and FireEye to protect customers against attacks leveraging vulnerabilities in the Encapsulated PostScript (EPS) filter in Office. In April, the company also rolled out a defense-in-depth protection designed to prevent EPS attacks by disabling the EPS filter by default. No information has been shared on the attacks leveraging this security hole. The list includes an RCE flaw in the JavaScript engines used by web browsers (CVE-2017-0229), a SmartScreen filter-related browser spoofing vulnerability (CVE-2017-0231), a privilege escalation in Edge (CVE-2017-0241), and a Mixed Content warnings bypass in Internet Explorer (CVE-2017-0064).
+
+Mean Scored Summary
+-------------------
+Microsoft Patches Zero-Days Exploited by Russia-Linked Hackers
+
+Microsofts Patch Tuesday updates for May 2017 address tens of vulnerabilities, including several zero-day flaws exploited by profit-driven cybercriminals and two notorious Russia-linked cyber espionage groups. A blog post published by Microsoft revealed that the company had worked with ESET and FireEye to protect customers against attacks leveraging vulnerabilities in the Encapsulated PostScript (EPS) filter in Office. The Turla groups attacks also leveraged CVE-2017-0001 for privilege escalation, while the cybercriminals used CVE-2016-7255 for privilege escalation. In April, the company also rolled out a defense-in-depth protection designed to prevent EPS attacks by disabling the EPS filter by default. No information has been shared on the attacks leveraging this security hole. The list includes an RCE flaw in the JavaScript engines used by web browsers (CVE-2017-0229), a SmartScreen filter-related browser spoofing vulnerability (CVE-2017-0231), a privilege escalation in Edge (CVE-2017-0241), and a Mixed Content warnings bypass in Internet Explorer (CVE-2017-0064).
+
+Post 34 .......................................................................
+https://www.securityweek.com/russia-linked-hackers-exploit-lojack-recovery-tool-attacks
+
+Top N Summary
+-------------
+Lojack represents a great double-agent because it is usually considered legitimate software but also allows for remote code execution, NETSCOUT Arbor's Security Engineering and Research Team (ASERT) points out. The ASERT security researchers observed five Lojack agents that were pointing to four different suspected domains, three of which have been tied to Sofacy. In fact, the group heavily targeted NATO in early 2017, including with zero-day exploits. The group was also observed shifting focus towards the Middle East and Central Asia last year. ASERT assesses with moderate confidence that the rogue Lojack agents are attributed to Fancy Bear based on shared infrastructure with previous operations, the security researchers say.
+
+Mean Scored Summary
+-------------------
+Lojack represents a great double-agent because it is usually considered legitimate software but also allows for remote code execution, NETSCOUT Arbor's Security Engineering and Research Team (ASERT) points out. The ASERT security researchers observed five Lojack agents that were pointing to four different suspected domains, three of which have been tied to Sofacy. In fact, the group heavily targeted NATO in early 2017, including with zero-day exploits. The group was also observed shifting focus towards the Middle East and Central Asia last year. ASERT assesses with moderate confidence that the rogue Lojack agents are attributed to Fancy Bear based on shared infrastructure with previous operations, the security researchers say. ]org (tied to the group last year), and sysanalyticweb[.
+
+Post 35 .......................................................................
+https://www.securityweek.com/attackers-using-usb-malware-steal-data-air-gapped-networks
+
+Top N Summary
+-------------
+Isolating a sensitive computer network from the Internet can be an efficient security measure, but threat actors have found ways to get around it. Researchers identified one variant of CHOPSTICK that defeats closed networks by routing messages between local directories, the registry and USB drives. Dubbed Win32/USBStealer, the malware has been used since at least 2005 in campaigns against government organizations in Eastern Europe, researchers said. Researchers say it's uncertain how the initial infection occurs, but a likely attack vector is spear phishing. Related:"AirHopper" Malware Uses Radio Signals to Steal Data from Isolated Computers
+
+Mean Scored Summary
+-------------------
+Isolating a sensitive computer network from the Internet can be an efficient security measure, but threat actors have found ways to get around it. Researchers identified one variant of CHOPSTICK that defeats closed networks by routing messages between local directories, the registry and USB drives. Dubbed Win32/USBStealer, the malware has been used since at least 2005 in campaigns against government organizations in Eastern Europe, researchers said. Researchers say it's uncertain how the initial infection occurs, but a likely attack vector is spear phishing. Related:"AirHopper" Malware Uses Radio Signals to Steal Data from Isolated Computers
+
+Post 36 .......................................................................
+https://www.securityweek.com/sofacy-attacks-overlap-other-state-sponsored-operations
+
+Top N Summary
+-------------
+Sofacy Attacks Overlap With Other State-Sponsored Operations
+
+
+CANCUN - KASPERSKY SECURITY ANALYST SUMMIT - Attacks carried out by a Russian threat group appear to overlap with campaigns conducted by other cyberspies, including ones linked by researchers to China and the United States. On Friday, at Kasperskys Security Analyst Summit (SAS), researcher Kurt Baumgartner revealed that the group appears to be particularly interested in military, defense and diplomatic entities in the far east. Sofacys SPLM malware (aka CHOPSTICK and X-Agent) was found on devices that had also been infected with other Turla malware, which often precedes SPLM. As the threat landscape grows ever more crowded and complex, we may encounter more examples of target overlap and it could explain why many threat actors check victim systems for the presence of other intruders before fully launching their attacks.
+Kaspersky recently spotted the SPLM malware being used in an attack aimed at major air defense organization in China, while the Zebrocy tool has been used in high volume campaigns targeting entities in Armenia, Turkey, Tajikistan, Kazakhstan, Afghanistan, Mongolia, Japan and China. Related: Russia-Linked Spies Deliver Malware via DDE Attack
+Related: Russian 'Fancy Bear' Hackers Abuse Blogspot for Phishing
+
+Mean Scored Summary
+-------------------
+Sofacy Attacks Overlap With Other State-Sponsored Operations
+
+
+CANCUN - KASPERSKY SECURITY ANALYST SUMMIT - Attacks carried out by a Russian threat group appear to overlap with campaigns conducted by other cyberspies, including ones linked by researchers to China and the United States. On Friday, at Kasperskys Security Analyst Summit (SAS), researcher Kurt Baumgartner revealed that the group appears to be particularly interested in military, defense and diplomatic entities in the far east. Sofacys SPLM malware (aka CHOPSTICK and X-Agent) was found on devices that had also been infected with other Turla malware, which often precedes SPLM. These tools are believed to have been developed and used by the U.S. Central Intelligence Agency (CIA). As the threat landscape grows ever more crowded and complex, we may encounter more examples of target overlap and it could explain why many threat actors check victim systems for the presence of other intruders before fully launching their attacks.
+Kaspersky recently spotted the SPLM malware being used in an attack aimed at major air defense organization in China, while the Zebrocy tool has been used in high volume campaigns targeting entities in Armenia, Turkey, Tajikistan, Kazakhstan, Afghanistan, Mongolia, Japan and China. Related: Russia-Linked Spies Deliver Malware via DDE Attack
+Related: Russian 'Fancy Bear' Hackers Abuse Blogspot for Phishing
+
+Post 37 .......................................................................
+https://www.securityweek.com/tech-firms-target-domains-used-russia-linked-threat-group
+
+Top N Summary
+-------------
+The researchers also managed to find name servers used by Fancy Bear, including nemohosts[. ]com, bacloud[. Microsoft seeks a preliminary injunction directing the registries associated with these Internet domains to take all steps necessary to disable access to and operation of these Internet domains to ensure that changes or access to the Internet domains cannot be made absent a court order and that all content and material associated with these Internet domains are to be isolated and preserved pending resolution of the dispute. In 2014, in an attempt to take down the Bladabindi (njRAT) and Jenxcus (NJw0rm) malware families, the company seized 23 No-IP domains to route bad traffic to a sinkhole. Related: DHS Uses Cyber Kill Chain to Analyze Russia-Linked Election Hacks
+Related: Russian Cyberspies Use New Mac Malware to Steal Data
+
+Mean Scored Summary
+-------------------
+Last year, the threat group was said to have orchestrated election-related hacker attacks in the United States. ]org, which was registered using the email address [emailprotected][. The researchers also managed to find name servers used by Fancy Bear, including nemohosts[. ]com, bacloud[. Microsoft seeks a preliminary injunction directing the registries associated with these Internet domains to take all steps necessary to disable access to and operation of these Internet domains to ensure that changes or access to the Internet domains cannot be made absent a court order and that all content and material associated with these Internet domains are to be isolated and preserved pending resolution of the dispute. In 2014, in an attempt to take down the Bladabindi (njRAT) and Jenxcus (NJw0rm) malware families, the company seized 23 No-IP domains to route bad traffic to a sinkhole. Related: DHS Uses Cyber Kill Chain to Analyze Russia-Linked Election Hacks
+Related: Russian Cyberspies Use New Mac Malware to Steal Data
+
+Post 38 .......................................................................
+https://www.securityweek.com/russian-cyberspies-change-tactics-recent-campaign
+
+Top N Summary
+-------------
+Earlier this year, security researchers revealed that Sofacys campaigns overlap with other state-sponsored operations, and also dissected a new backdoor employed by the group. Now, Palo Alto reveals that a C++ version of Zebrocy has also been seen in attacks. Furthermore, the security researchers discovered Sofacy attacks that leveraged the Dynamic Data Exchange (DDE) exploit technique to deliver different payloads than before. The targeted individuals did not follow any significant pattern, and the email addresses were found easily using web search engines. Sofacy is carrying out parallel campaigns to attack similar targets around the world but with different toolsets.
+
+Mean Scored Summary
+-------------------
+Earlier this year, security researchers revealed that Sofacys campaigns overlap with other state-sponsored operations, and also dissected a new backdoor employed by the group. Now, Palo Alto reveals that a C++ version of Zebrocy has also been seen in attacks. Furthermore, the security researchers discovered Sofacy attacks that leveraged the Dynamic Data Exchange (DDE) exploit technique to deliver different payloads than before. The targeted individuals did not follow any significant pattern, and the email addresses were found easily using web search engines. From this command and control (C&C) IP, the researchers discovered another hard-coded user agent being used by Zebrocy. Sofacy is carrying out parallel campaigns to attack similar targets around the world but with different toolsets.
+
+Post 39 .......................................................................
+https://www.securityweek.com/dhs-uses-cyber-kill-chain-analyze-russia-linked-election-hacks
+
+Top N Summary
+-------------
+The previous report, however, didnt deliver on its promise, security experts argued. The former is also known asCozy Bear, orCozyDuke, while the latter is referred to asFancy Bear,Pawn Storm, Strontium, Sofacy, Sednit and Tsar Team. DHS recommends that security teams read multiple bodies of work from various sources concerning GRIZZLY STEPPE. While DHS does not endorse any particular company or their findings, we believe the breadth of literature created by multiple sources enhances the overall understanding of the threat. DHS encourages analysts to review these resources to determine the level of threat posed to their local network environments, the agency said.
+
+Mean Scored Summary
+-------------------
+DHS recommends that security teams read multiple bodies of work from various sources concerning GRIZZLY STEPPE. While DHS does not endorse any particular company or their findings, we believe the breadth of literature created by multiple sources enhances the overall understanding of the threat. DHS encourages analysts to review these resources to determine the level of threat posed to their local network environments, the agency said.
+
+Post 40 .......................................................................
+https://www.securityweek.com/russia-linked-hackers-directly-targeting-diplomats-report
+
+Top N Summary
+-------------
+Russia-linked Hackers Directly Targeting Diplomats: Report
+
+The Russia-linked cyber espionage group Sofacy has been targeting foreign affairs agencies and ministries worldwide in a recently discovered campaign, Palo Alto Networks warns. Sofacy was supposedly behind the attacks on the 2016 United States presidential election, but also hit Ukraine and NATO countries. The only difference between the two, besides random function name and random cell values, would be the path to the .txt and .exe files. ]net was registered on January 30, 2018. Related: Russian Cyberspies Shift Focus From NATO Countries to Asia
+Related: Russia-Linked Spies Deliver Malware via DDE Attack
+
+Mean Scored Summary
+-------------------
+Russia-linked Hackers Directly Targeting Diplomats: Report
+
+The Russia-linked cyber espionage group Sofacy has been targeting foreign affairs agencies and ministries worldwide in a recently discovered campaign, Palo Alto Networks warns. Sofacy was supposedly behind the attacks on the 2016 United States presidential election, but also hit Ukraine and NATO countries. One of the efforts was observed in the beginning of February 2018 to use phishing emails as the attack vector, to target an organization in Europe and another in North America. The only difference between the two, besides random function name and random cell values, would be the path to the .txt and .exe files. The security researchers also noticed that the Sofacy group registered new domains as part of the campaign, but that it used a default landing page they employed in other attacks as well. ]net was registered on January 30, 2018. Related: Russian Cyberspies Shift Focus From NATO Countries to Asia
+Related: Russia-Linked Spies Deliver Malware via DDE Attack
+
+Post 41 .......................................................................
+https://www.securityweek.com/russian-hackers-favor-windows-office-exploits-report
+
+Top N Summary
+-------------
+State-sponsored actors have been focusing on widely adopted software, and only 46% of the known Russian APT exploited vulnerabilities can be also found in exploit kits used by cyber criminals. The massive user bases these products enjoy make them targets of choice: Windows has over 1.5 billion users, while Office has over 1.2 billion. Heavy Russian APT use of Office and Adobe PDF exploits may be in line with the more targeted nature of state-sponsored attacks. When looking at the 22 exploits used by APT28 and the 5 employed by APT29, researchers discovered that they are different, meaning that the two groups are not connected. Previous reports also suggested that the two groups do not coordinate or share resources and infrastructure.
+
+Mean Scored Summary
+-------------------
+State-sponsored actors have been focusing on widely adopted software, and only 46% of the known Russian APT exploited vulnerabilities can be also found in exploit kits used by cyber criminals. Dubbed Running for Office: Russian APT Toolkits Revealed, Recorded Futures report also reveals that there might be no connection between APT28 and APT29, two of the most active actors. The massive user bases these products enjoy make them targets of choice: Windows has over 1.5 billion users, while Office has over 1.2 billion. The attack tactics employed by these groups are similar to those used by other threat actors, such as spear-phishing, spoofed domains supporting credential phishing, social engineering and watering hole attacks. Heavy Russian APT use of Office and Adobe PDF exploits may be in line with the more targeted nature of state-sponsored attacks. Criminal campaigns such as ransomware play a numbers game, while state-sponsored attacks focus on specific organizations and information, the report reveals. When looking at the 22 exploits used by APT28 and the 5 employed by APT29, researchers discovered that they are different, meaning that the two groups are not connected. Previous reports also suggested that the two groups do not coordinate or share resources and infrastructure.
+
+Post 42 .......................................................................
+https://www.securityweek.com/russian-hackers-infiltrated-german-ministries-network-report
+
+Top N Summary
+-------------
+Russian Hackers Infiltrated German Ministries' Network: Report
+
+Berlin - Russian hackers have infiltrated Germany's foreign and interior ministries' online networks, German news agency DPA reported Wednesday quoting unnamed security sources. The hacker group known as APT28 -- which has been linked to Russia's GRU military intelligence and accused of attacks on Hillary Clinton's 2016 presidential campaign -- managed to plant malware in the ministries' networks for possibly as long as a year, the news agency said. German security authorities only detected the online spying in December, it said, adding that an isolated government IT network had also been hit. Top security officials had repeatedly warned during Germany's 2017 general elections that Russia hackers may seek to disrupt the polls. The attack netted 17 gigabytes of data which, officials feared, could be used to blackmail MPs or discredit them.
+
+Mean Scored Summary
+-------------------
+Russian Hackers Infiltrated German Ministries' Network: Report
+
+Berlin - Russian hackers have infiltrated Germany's foreign and interior ministries' online networks, German news agency DPA reported Wednesday quoting unnamed security sources. The hacker group known as APT28 -- which has been linked to Russia's GRU military intelligence and accused of attacks on Hillary Clinton's 2016 presidential campaign -- managed to plant malware in the ministries' networks for possibly as long as a year, the news agency said. Top security officials had repeatedly warned during Germany's 2017 general elections that Russia hackers may seek to disrupt the polls.
+
+Post 43 .......................................................................
+https://www.securityweek.com/pawn-storm-attackers-target-mh17-plane-crash-investigators
+
+Top N Summary
+-------------
+Pawn Storm Attackers Target MH17 Plane Crash Investigators
+
+Organizations tasked with investigating the crash of Malaysia Airlines Flight MH17 have been targeted by the Russia-linked threat group known as Pawn Storm, Trend Micro reported on Thursday. The investigation into the incident was led by the Dutch Safety Board (DSB), which published a report on the crash of MH17 on October 13. Trend Micro says this is the first time it has found direct evidence that an APT actor has targeted a VPN server. The VPN server of the Safety Board looks to use temporary tokens for authentication. Over the past couple of months, Pawn Storm has also taken an increased interest in Syrian opposition groups and Arab countries that object to Russias intervention in Syria.
+
+Mean Scored Summary
+-------------------
+Pawn Storm Attackers Target MH17 Plane Crash Investigators
+
+Organizations tasked with investigating the crash of Malaysia Airlines Flight MH17 have been targeted by the Russia-linked threat group known as Pawn Storm, Trend Micro reported on Thursday. The investigation into the incident was led by the Dutch Safety Board (DSB), which published a report on the crash of MH17 on October 13. Trend Micro says this is the first time it has found direct evidence that an APT actor has targeted a VPN server. The VPN server of the Safety Board looks to use temporary tokens for authentication. Over the past couple of months, Pawn Storm has also taken an increased interest in Syrian opposition groups and Arab countries that object to Russias intervention in Syria.
+
+Post 44 .......................................................................
+https://www.securityweek.com/fysbis-backdoor-preferred-pawn-storm-group-target-linux
+
+Top N Summary
+-------------
+The tool, a modular Linux Trojan / backdoor that implements plug-in and controller modules as distinct classes, is not sophisticated, Palo Altos Bryan Lee and Rob Downs explain in a blog post. Palo Alto Networks believes that the domain and IP are associated to a newer campaign, although the malware samples show similarities at the code level and in terms of shared behavior. What is clear, however, is that while other adversaries seem hesitant to change their infrastructure, Pawn Storm did invest in additional resources to do so, although some Fysbis samples displayed the same type of behavior. They also note that expertise in the Linux platform is highly sought after across all industries, as the platform remains largely unknown even to enterprise IT specialists. Related:Russian Cyberspies Use Updated Arsenal to Attack Defense Contractors
+Related: Multipurpose "Xunpes" Trojan Targeting Linux Systems
+
+Related: New Cross-Platform Backdoors Target Linux, Windows
+
+Mean Scored Summary
+-------------------
+The tool, a modular Linux Trojan / backdoor that implements plug-in and controller modules as distinct classes, is not sophisticated, Palo Altos Bryan Lee and Rob Downs explain in a blog post. Palo Alto Networks believes that the domain and IP are associated to a newer campaign, although the malware samples show similarities at the code level and in terms of shared behavior. What is clear, however, is that while other adversaries seem hesitant to change their infrastructure, Pawn Storm did invest in additional resources to do so, although some Fysbis samples displayed the same type of behavior. According to Palo Alto Networks researchers, Fysbis has contributed to the success of associated attacks by the Pawn Storm / Sofacy group mainly because Linux security is missing key elements. They also note that expertise in the Linux platform is highly sought after across all industries, as the platform remains largely unknown even to enterprise IT specialists. Related:Russian Cyberspies Use Updated Arsenal to Attack Defense Contractors
+Related: Multipurpose "Xunpes" Trojan Targeting Linux Systems
+
+Related: New Cross-Platform Backdoors Target Linux, Windows
+
+Post 45 .......................................................................
+https://www.securityweek.com/russian-fancy-bear-hackers-abuse-blogspot-phishing
+
+Top N Summary
+-------------
+Threat intelligence firm ThreatConnect spotted the use of the blogging service while analyzing attacks aimed at Bellingcat, a group of investigative journalists that uses open source information to report on various events taking place around the world. The latest attacks aimed at Bellingcat involved fake emails instructing users to change their Gmail passwords as a result of unauthorized activity on their account, and Dropbox invitations to view shared folders. Researchers at SecureWorks reported last year that they had identified thousands of Gmail accounts targeted by the hackers. They identified the email addresses of entities in 116 countries, including former U.S. Related: Russian Cyberspies Target Hotels in Europe
+Related: Russian Hackers Exploit Recently Patched Flash Vulnerability
+Related: Russian Hackers Target Montenegro as Country Joins NATO
+
+Mean Scored Summary
+-------------------
+The latest attacks aimed at Bellingcat involved fake emails instructing users to change their Gmail passwords as a result of unauthorized activity on their account, and Dropbox invitations to view shared folders. Researchers at SecureWorks reported last year that they had identified thousands of Gmail accounts targeted by the hackers. They identified the email addresses of entities in 116 countries, including former U.S.
+
+Post 46 .......................................................................
+https://www.securityweek.com/google-tightens-oauth-rules-combat-phishing
+
+Top N Summary
+-------------
+Googles email service blocks millions of phishing emails each day, but last weeks incident proved that the system isnt invincible. We've removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again, Google said after the incident. It was first presented in 2011 by Andr DeMarre, and then thoroughly detailed by Greg Carson in February 2017. Trend Micro recently revealed that this actors phishing scheme employed an application dubbed Google Defender, while abusing the same legitimate OAuth connection to exploit the users lack of knowledge of available services.
+In an emailed statement to SecurityWeek, Jaime Blasco, Chief Scientist atAlienVault, shared a similar point of view: This is similar to what APT28 (the group behind the DNS hack, France election groups attacks, etc) was using a while back. Thus, users will be warned when clicking on suspicious links they receive via email, which should help prevent them from disclosing financial and personal information.
+
+Mean Scored Summary
+-------------------
+We've removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again, Google said after the incident. Trend Micro recently revealed that this actors phishing scheme employed an application dubbed Google Defender, while abusing the same legitimate OAuth connection to exploit the users lack of knowledge of available services.
+In an emailed statement to SecurityWeek, Jaime Blasco, Chief Scientist atAlienVault, shared a similar point of view: This is similar to what APT28 (the group behind the DNS hack, France election groups attacks, etc) was using a while back.
+
+Post 47 .......................................................................
+https://www.securityweek.com/sofacy-targets-european-govt-us-accuses-russia-hacking
+
+Top N Summary
+-------------
+The United States on Thursday announced sanctions against Russian spy agencies and more than a dozen individuals for trying to influence the 2016 presidential election and launching cyberattacks, including the destructive NotPetya campaign and operations targeting energy firms. The Department of Homeland Security and Federal Bureau of Investigation issued a joint technical alert via US-CERT last year to warn about attacks launched by a group known as Dragonfly, Crouching Yeti and Energetic Bear on critical infrastructure. On March 12 and March 14, security firm Palo Alto Networks spotted attacks launched by Sofacy against an unnamed European government agency using an updated variant of a known tool. Sofacy has been using a Flash Player exploit platform dubbed DealersChoicesince at least 2016 and it has continued improving it. Older versions of DealersChoice loaded a malicious Flash object as soon as the bait document was opened.
+
+Mean Scored Summary
+-------------------
+The United States on Thursday announced sanctions against Russian spy agencies and more than a dozen individuals for trying to influence the 2016 presidential election and launching cyberattacks, including the destructive NotPetya campaign and operations targeting energy firms. The Department of Homeland Security and Federal Bureau of Investigation issued a joint technical alert via US-CERT last year to warn about attacks launched by a group known as Dragonfly, Crouching Yeti and Energetic Bear on critical infrastructure. On March 12 and March 14, security firm Palo Alto Networks spotted attacks launched by Sofacy against an unnamed European government agency using an updated variant of a known tool. Sofacy has been using a Flash Player exploit platform dubbed DealersChoicesince at least 2016 and it has continued improving it. Older versions of DealersChoice loaded a malicious Flash object as soon as the bait document was opened.
+
+Post 48 .......................................................................
+https://www.securityweek.com/evidence-links-russia-second-democratic-party-hack
+
+Top N Summary
+-------------
+Evidence Links Russia to Second Democratic Party Hack
+
+Researchers from two security firms have uncovered evidence linking a Russian threat actor to the cyberattack targeting the U.S. Democratic Congressional Campaign Committee (DCCC). Democratic Party officials revealed last week that the DCCC had also been breached in an attack similar to the one targeting the DNC, and researchers claim to have found evidence linking the attack to the Fancy Bear group. The security firms discovered that the email address used to register the actblues domain, [emailprotected][. Itch, claims to provide anonymous web and Bitcoin hosting, and private domain registration services. Fidelis and ThreatConnect expect the hacker known as Guccifer 2.0 to come forward and take responsibility for the DCCC attack.
+
+Mean Scored Summary
+-------------------
+Evidence Links Russia to Second Democratic Party Hack
+
+Researchers from two security firms have uncovered evidence linking a Russian threat actor to the cyberattack targeting the U.S. Democratic Congressional Campaign Committee (DCCC). The DCCC is the second Democratic Party committee targeted by hackers over the past months. Democratic Party officials revealed last week that the DCCC had also been breached in an attack similar to the one targeting the DNC, and researchers claim to have found evidence linking the attack to the Fancy Bear group. Experts from Fidelis Cybersecurity and ThreatConnect analyzed secure.actblues[. The security firms discovered that the email address used to register the actblues domain, [emailprotected][. The firm, called I.T. Itch, claims to provide anonymous web and Bitcoin hosting, and private domain registration services. Researchers have identified numerous domains that use Itch services and appear to be related to APT activity. Fidelis and ThreatConnect expect the hacker known as Guccifer 2.0 to come forward and take responsibility for the DCCC attack.
+
+Post 49 .......................................................................
+https://www.securityweek.com/hackers-leak-olympic-committee-emails-response-russia-ban
+
+Top N Summary
+-------------
+The group, calling itself Fancy Bears and claiming to be a team of hacktivists that stand for fair play and clean sport, previously released confidential athlete medical records stolen from the systems of the World Anti-Doping Agency (WADA), and also targeted the International Association of Athletics Federations (IAAF). One of their most recent leaks included emails and medical records related to football (soccer) players who used illegal substances. While Fancy Bears claim to be hacktivists, researchers have found ties between the group and Fancy Bear, a sophisticated Russian cyber espionage team also known as APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium. The latest leak includes emails apparently exchanged between IOC officials and other individuals involved with the Olympics. WADA representatives told Wired that Fancy Bears are looking to undermine the work of WADA and others, and claimed that everything they leaked this week is dated. WADA officially accused Russia of being behind previous attacks.
+
+Mean Scored Summary
+-------------------
+The group, calling itself Fancy Bears and claiming to be a team of hacktivists that stand for fair play and clean sport, previously released confidential athlete medical records stolen from the systems of the World Anti-Doping Agency (WADA), and also targeted the International Association of Athletics Federations (IAAF). One of their most recent leaks included emails and medical records related to football (soccer) players who used illegal substances. While Fancy Bears claim to be hacktivists, researchers have found ties between the group and Fancy Bear, a sophisticated Russian cyber espionage team also known as APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium. The latest leak includes emails apparently exchanged between IOC officials and other individuals involved with the Olympics. These emails and documents point to the fact that the Europeans and the Anglo-Saxons are fighting for power and cash in the sports world. However, the genuine intentions of the coalition headed by the Anglo-Saxons are much less noble than a war against doping. WADA representatives told Wired that Fancy Bears are looking to undermine the work of WADA and others, and claimed that everything they leaked this week is dated. WADA officially accused Russia of being behind previous attacks.
+
+Post 50 .......................................................................
+https://www.securityweek.com/attack-olympics-anti-doping-agency-linked-russia
+
+Top N Summary
+-------------
+One of the users who fell for the scam was Yuliya Stepanova, a whistleblower who exposed widespread doping in Russian athletics. Russias interest in the WADA seems to back the findings of threat intelligence firm ThreatConnect, which uncovered evidence that a threat actor believed to be sponsored by the Russian government is behind the attacks. [org], which typosquats the official domain of the Court of Arbitration for Sport (CAS). We assess that the phishing and Stepanovas compromise most likely are part of targeted activity by Russian actors in response to the whistleblower and the WADAs recommendation to ban all Russian athletes from the Olympic and Paralympic games in Rio de Janeiro, Brazil, researchers explained. While they havent found any definitive proof, circumstantial evidence suggests that these attacks could also be the work of a Russian group that used the Anonymous brand to throw investigators off track.
+
+Mean Scored Summary
+-------------------
+One of the users who fell for the scam was Yuliya Stepanova, a whistleblower who exposed widespread doping in Russian athletics. [org], which typosquats the official domain of the Court of Arbitration for Sport (CAS). We assess that the phishing and Stepanovas compromise most likely are part of targeted activity by Russian actors in response to the whistleblower and the WADAs recommendation to ban all Russian athletes from the Olympic and Paralympic games in Rio de Janeiro, Brazil, researchers explained. While they havent found any definitive proof, circumstantial evidence suggests that these attacks could also be the work of a Russian group that used the Anonymous brand to throw investigators off track.
+
+Post 51 .......................................................................
+https://www.securityweek.com/putin-patriotic-russians-could-be-behind-election-hacks
+
+Top N Summary
+-------------
+Following accusations that Russian state-sponsored hackers interfered with the recent elections in the United States, Putin was asked on Thursday at the International Economic Forum in St. Petersburg about the possibility of Russian hackers influencing the upcoming elections in Germany. Putin also highlighted that threat actors could launch attacks and make it look like the source was Russia  a task that he described as very easy.
+On the other hand, Putin said he was convinced that hackers cannot have a real impact on an election campaign. Thomas Rid, a professor in the department of War Studies at King's College London, believes the comments made by Putin are strategic. Russian hackers are also believed to have targeted the political campaign of French President Emmanuel Macron. Related: DHS Uses Cyber Kill Chain to Analyze Russia-Linked Election Hacks
+Related: Trump's Intel Bosses Reiterate - Russia Meddled in Election
+Related: Ex-CIA Chief Says He Warned Russia to Stay Out of Election
+
+Mean Scored Summary
+-------------------
+Following accusations that Russian state-sponsored hackers interfered with the recent elections in the United States, Putin was asked on Thursday at the International Economic Forum in St. Petersburg about the possibility of Russian hackers influencing the upcoming elections in Germany. Putin also highlighted that threat actors could launch attacks and make it look like the source was Russia  a task that he described as very easy.
+On the other hand, Putin said he was convinced that hackers cannot have a real impact on an election campaign. Thomas Rid, a professor in the department of War Studies at King's College London, believes the comments made by Putin are strategic. Russian hackers are also believed to have targeted the political campaign of French President Emmanuel Macron.
+
+Post 52 .......................................................................
+https://www.securityweek.com/cyberspies-ramped-attacks-after-exposure-zero-days
+
+Top N Summary
+-------------
+Microsoft revealed in early November that the Pawn Storm group, which it calls Strontium, exploited the Windows flaw (CVE-2016-7255) in combination with a Flash Player vulnerability (CVE-2016-7855). Then, after the existence of the flaws was disclosed and Adobe released patches, the threat actor sent several waves of spear-phishing emails to embassies and other government agencies. Starting with early November, the cyberspies used the zero-days in attacks aimed at various governments around the world. The vulnerabilities have been used against an increasing number of targets, which suggests that they started losing their value following Googles disclosure. Some of them appeared to advertise Defence IQs Cyber Threat Intelligence and Incident Response conference.
+
+Mean Scored Summary
+-------------------
+Then, after the existence of the flaws was disclosed and Adobe released patches, the threat actor sent several waves of spear-phishing emails to embassies and other government agencies. Starting with early November, the cyberspies used the zero-days in attacks aimed at various governments around the world. The vulnerabilities have been used against an increasing number of targets, which suggests that they started losing their value following Googles disclosure. Some of them appeared to advertise Defence IQs Cyber Threat Intelligence and Incident Response conference.
+
+Post 53 .......................................................................
+https://www.securityweek.com/adobe-patch-tuesday-updates-fix-only-one-flash-player-flaw
+
+Top N Summary
+-------------
+Adobe Patch Tuesday Updates Fix Only One Flash Player Flaw
+
+Adobes Patch Tuesday updates for January 2018 resolve only an information disclosure vulnerability affecting Flash Player. Adobe says it has learned about the vulnerability from an anonymous researcher via Trend Micros Zero Day Initiative (ZDI). The number of vulnerabilities discovered by researchers in Flash Player has dropped significantly in the past months after Adobe announced its intention to kill the application by 2020. In October, shortly after Adobe announced that it had no Patch Tuesday updates, the company was forced to quickly release a fix for Flash Player after learning that a cyber espionage group from the Middle East had been leveraging a zero-day to deliver spyware. The same vulnerability was later exploited by the Russia-linked group APT28 (also known as Fancy Bear, Pawn Storm, Strontium, Sofacy, Sednit and Tsar Team) in attacks aimed at government organizations and aerospace companies.
+
+Mean Scored Summary
+-------------------
+Adobe says it has learned about the vulnerability from an anonymous researcher via Trend Micros Zero Day Initiative (ZDI). In October, shortly after Adobe announced that it had no Patch Tuesday updates, the company was forced to quickly release a fix for Flash Player after learning that a cyber espionage group from the Middle East had been leveraging a zero-day to deliver spyware.
+
+Post 54 .......................................................................
+https://www.securityweek.com/adobe-patches-flash-zero-day-exploited-pawn-storm
+
+Top N Summary
+-------------
+Flash Player 19.0.0.226 for Mac and Windows, and Flash Player 11.2.202.540 for Linux patch the vulnerability exploited in targeted attacks (CVE-2015-7645) and a couple of other type confusion flaws that could lead to arbitrary code execution (CVE-2015-7647, CVE-2015-7648). The threat actor has targeted numerous military, government, and defense organizations, including NATO members and the White House. The mitigation techniques, developed in collaboration with Google Project Zero, are designed to prevent attacks leveraging Vector/<*> exploits. While Adobe classifies CVE-2015-7645 as a type confusion vulnerability, Trend Micros Pi says this is a new type of flaw that the security firm calls method confusion. The weakness exists in the writeObject method of the ByteArray object. Attackers need not rely on targeting Vector.<*> for exploits in the future.
+
+Mean Scored Summary
+-------------------
+Flash Player 19.0.0.226 for Mac and Windows, and Flash Player 11.2.202.540 for Linux patch the vulnerability exploited in targeted attacks (CVE-2015-7645) and a couple of other type confusion flaws that could lead to arbitrary code execution (CVE-2015-7647, CVE-2015-7648). The threat actor has targeted numerous military, government, and defense organizations, including NATO members and the White House. The mitigation techniques, developed in collaboration with Google Project Zero, are designed to prevent attacks leveraging Vector/<*> exploits. While Adobe classifies CVE-2015-7645 as a type confusion vulnerability, Trend Micros Pi says this is a new type of flaw that the security firm calls method confusion. The weakness exists in the writeObject method of the ByteArray object.
+
+Post 55 .......................................................................
+https://www.securityweek.com/hackers-target-czech-foreign-ministrys-email-system
+
+Top N Summary
+-------------
+Hackers Target Czech Foreign Ministry's Email System
+
+Prague - The Czech foreign minister said Tuesday his office had fallen prey to hackers who worked their way into the email accounts of dozens of employees including himself. "Since early January we have known one of the attacks was partly successful as the hackers managed to penetrate the email system of the ministry," Lubomir Zaoralek told reporters. The way it was done bears a very strong resemblance to the attacks on the US Democratic Party's internet system," said the foreign minister, citing experts. In early January, US intelligence said Russian President Vladimir Putin had ordered a campaign of hacking and media manipulation aimed at undermining Clinton's presidential campaign and boosting Donald Trump. In neighboring Poland, the Rzeczpospolita daily reported Monday that a group of Russian hackers called APT28 had tried to attack local foreign ministry servers in December through emails pretending to be sent by the NATO secretary general.
+
+Mean Scored Summary
+-------------------
+Hackers Target Czech Foreign Ministry's Email System
+
+Prague - The Czech foreign minister said Tuesday his office had fallen prey to hackers who worked their way into the email accounts of dozens of employees including himself. "Since early January we have known one of the attacks was partly successful as the hackers managed to penetrate the email system of the ministry," Lubomir Zaoralek told reporters. In neighboring Poland, the Rzeczpospolita daily reported Monday that a group of Russian hackers called APT28 had tried to attack local foreign ministry servers in December through emails pretending to be sent by the NATO secretary general.
+
+Post 56 .......................................................................
+https://www.securityweek.com/windows-zero-day-exploited-attacks-aimed-middle-east
+
+Top N Summary
+-------------
+The flaw, tracked as CVE-2018-8453, has been described by Microsoft as a privilege escalation issue related to how the Win32k component of Windows handles objects in memory. Kaspersky said it had reported the vulnerability to Microsoft on August 17  it's unclear why Microsoft waited so long to release a fix. The security firm said FruityArmor created a high quality and reliable exploit that would work on as many versions of Windows as possible, including Windows 10. This is not the first time Kaspersky has come across a zero-day vulnerability exploited by FruityArmor. The hackers also exploited a Windows zero-day back in 2016, which Microsoft patched in October 2016 after being alerted by Kaspersky.
+
+Mean Scored Summary
+-------------------
+The flaw, tracked as CVE-2018-8453, has been described by Microsoft as a privilege escalation issue related to how the Win32k component of Windows handles objects in memory. Kaspersky said it had reported the vulnerability to Microsoft on August 17  it's unclear why Microsoft waited so long to release a fix. According to Kaspersky, CVE-2018-8453 has been exploited by an APT group it tracks as FruityArmor. The security firm said FruityArmor created a high quality and reliable exploit that would work on as many versions of Windows as possible, including Windows 10. Kaspersky has described the vulnerability as a use-after-free bug that is similar to CVE-2017-0263, a flaw patched by Microsoft back in May 2017 after it had been exploited by the Russia-linked threat actor known as APT28, Sofacy and Fancy Bear. This is not the first time Kaspersky has come across a zero-day vulnerability exploited by FruityArmor. The hackers also exploited a Windows zero-day back in 2016, which Microsoft patched in October 2016 after being alerted by Kaspersky.
+
+Post 57 .......................................................................
+https://www.securityweek.com/hackers-leak-more-confidential-athlete-data
+
+Top N Summary
+-------------
+The list of doping addicts includes not only the athletes of the top Olympic teams but also those who compete for other countries, the hackers said in a statement accompanying the leak. Stay tuned for new leaks.
+WADA has confirmed that the leaked files are genuine and pointed out that the information was obtained after hackers accessed the organizations Anti-Doping Administration and Management System (ADAMS) through compromised credentials obtained via email spear-phishing attacks. WADA insists that the Russia-linked cyberespionage group known as Fancy Bear, APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium is behind the cyberattack. News of the WADA hack emerged in August. A hacktivist using the online moniker Guccifer 2.0 took credit for the Democratic Party breach, and while he claims to be a lone wolf from Romania, experts believe its just a persona used by Russian intelligence to throw investigators off track.
+
+Mean Scored Summary
+-------------------
+The list of doping addicts includes not only the athletes of the top Olympic teams but also those who compete for other countries, the hackers said in a statement accompanying the leak. We'll keep on telling the world about doping in elite sports. Stay tuned for new leaks.
+WADA has confirmed that the leaked files are genuine and pointed out that the information was obtained after hackers accessed the organizations Anti-Doping Administration and Management System (ADAMS) through compromised credentials obtained via email spear-phishing attacks. WADA insists that the Russia-linked cyberespionage group known as Fancy Bear, APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium is behind the cyberattack. News of the WADA hack emerged in August. A hacktivist using the online moniker Guccifer 2.0 took credit for the Democratic Party breach, and while he claims to be a lone wolf from Romania, experts believe its just a persona used by Russian intelligence to throw investigators off track.
+
+Post 58 .......................................................................
+https://www.securityweek.com/russian-cyberspies-accused-attack-olympics-anti-doping-agency
+
+Top N Summary
+-------------
+Researchers quickly found connections between the attack on WADA and the notorious Russia-linked threat actor known as Fancy Bear, APT28, Pawn Storm, Strontium, Sofacy, Tsar Team and Sednit. WADA condemns these ongoing cyber-attacks that are being carried out in an attempt to undermine WADA and the global anti-doping system, said Olivier Niggli, director general of WADA. After detailed studying of the hacked WADA databases we figured out that dozens of American athletes had tested positive, the hackers said. The athletes havent [done anything wrong], said USADA CEO Travis T. Tygart. In the case of Guccifer 2.0, who has claimed to be Romanian, although he has failed to prove it, some researchers believe he is actually a personna used by cyberspies to throw investigators off track.
+
+Mean Scored Summary
+-------------------
+Researchers quickly found connections between the attack on WADA and the notorious Russia-linked threat actor known as Fancy Bear, APT28, Pawn Storm, Strontium, Sofacy, Tsar Team and Sednit. WADA condemns these ongoing cyber-attacks that are being carried out in an attempt to undermine WADA and the global anti-doping system, said Olivier Niggli, director general of WADA. After detailed studying of the hacked WADA databases we figured out that dozens of American athletes had tested positive, the hackers said. The athletes havent [done anything wrong], said USADA CEO Travis T. Tygart. In the case of Guccifer 2.0, who has claimed to be Romanian, although he has failed to prove it, some researchers believe he is actually a personna used by cyberspies to throw investigators off track.
+
+Post 59 .......................................................................
+https://www.securityweek.com/state-election-system-hacking-linked-previous-attacks
+
+Top N Summary
+-------------
+The phishing campaigns, conducted between March and August 2016, leveraged an open source phishing framework named Phishing Frenzy. Researchers managed to access the attackers control panel and discovered a total of 113 emails written in Ukrainian, Turkish, German and English. In addition to links to previous attacks, ThreatConnect discovered some connections to Russia and operations believed to be sponsored by the Russian government. Some of the tools were previously used by Anonymous Poland, a group that recently leaked files from the anti-doping agency WADA. Related: Pawn Storm Group Targets Turkey
+Related: German Spy Service Says Russia Behind Major Cyber Attacks
+
+Mean Scored Summary
+-------------------
+The phishing campaigns, conducted between March and August 2016, leveraged an open source phishing framework named Phishing Frenzy. Researchers managed to access the attackers control panel and discovered a total of 113 emails written in Ukrainian, Turkish, German and English. In addition to links to previous attacks, ThreatConnect discovered some connections to Russia and operations believed to be sponsored by the Russian government. Related: Pawn Storm Group Targets Turkey
+Related: German Spy Service Says Russia Behind Major Cyber Attacks
+
+Post 60 .......................................................................
+https://www.securityweek.com/fbi-attribution-vpnfilter-attack-raises-questions
+
+Top N Summary
+-------------
+Researchers also spotted code similarities to the BlackEnergy malware and pointed out that there are only a few weeks until Ukraine celebrates its Constitution Day, which last year coincided with the destructive NotPetya attack. Sandworm is a similar team whose interests overlap with APT 28. However, VPNFilter has some clever persistence mechanisms that help its stage 1 component survive a reboot. An alert issued on Friday by the FBI advises owners of small office and home office routers to reboot their devices to temporarily disrupt the malware and aid the potential identification of infected devices.
+Owners are advised to consider disabling remote management settings on devices and secure with strong passwords and encryption when enabled. The VPNFilter malware has been observed targeting devices from Linksys, MikroTik, Netgear, TP-Link and QNAP.
+
+Mean Scored Summary
+-------------------
+FBI Attribution of 'VPNFilter' Attack Raises Questions
+
+Information shared by the FBI on the massive VPNFilter attack in which more than half a million devices have been compromised raises some interesting questions about the connection between Russia-linked hacker groups. Researchers also spotted code similarities to the BlackEnergy malware and pointed out that there are only a few weeks until Ukraine celebrates its Constitution Day, which last year coincided with the destructive NotPetya attack. While this is not surprising, one noteworthy piece of information is that U.S. authorities say Sofacy is also known as APT28, Pawn Storm, Fancy Bear, Sednit, X-Agent, and Sandworm. Sandworm is a similar team whose interests overlap with APT 28. However, VPNFilter has some clever persistence mechanisms that help its stage 1 component survive a reboot. An alert issued on Friday by the FBI advises owners of small office and home office routers to reboot their devices to temporarily disrupt the malware and aid the potential identification of infected devices.
+Owners are advised to consider disabling remote management settings on devices and secure with strong passwords and encryption when enabled. The VPNFilter malware has been observed targeting devices from Linksys, MikroTik, Netgear, TP-Link and QNAP. Affected vendors noted that the flaws targeted by VPNFilter have already been patched and advised customers to update the firmware on their devices.
+
+Post 61 .......................................................................
+https://www.securityweek.com/more-evidence-links-russia-dnc-attack
+
+Top N Summary
+-------------
+More Evidence Links Russia to DNC Attack
+
+Several security firms have found evidence that the recent attacks against the Democratic National Committee (DNC), the formal governing body for the U.S. Democratic Party, were launched by Russia-linked threat groups. The actor is believed to have breached the DNCs networks as far back as the summer of 2015 using an implant dubbed SeaDaddy and a PowerShell backdoor. The malware samples contain data and programing elements that are similar to malware that we have encountered in past incident response investigations and are linked to similar threat actors, Fidelis said. An analysis of the documents leaked by Guccifer has shown that the individual might be based in Russia, and experts have pointed out several reasons why Russia could benefit from the hack. Whether or not this posting is part of a Russian Intelligence disinformation campaign, we are exploring the documents authenticity and origin.
+
+Mean Scored Summary
+-------------------
+More Evidence Links Russia to DNC Attack
+
+Several security firms have found evidence that the recent attacks against the Democratic National Committee (DNC), the formal governing body for the U.S. Democratic Party, were launched by Russia-linked threat groups. The actor is believed to have breached the DNCs networks as far back as the summer of 2015 using an implant dubbed SeaDaddy and a PowerShell backdoor. An analysis of the documents leaked by Guccifer has shown that the individual might be based in Russia, and experts have pointed out several reasons why Russia could benefit from the hack. Whether or not this posting is part of a Russian Intelligence disinformation campaign, we are exploring the documents authenticity and origin.
+
+Post 62 .......................................................................
+https://www.securityweek.com/uk-australia-blame-russia-bad-rabbit-other-attacks
+
+Top N Summary
+-------------
+While many of these names represent the same threat actor, the line between the operations carried out by various Russian groups often gets blurred, as shown by the recent VPNFilter attack. Its worth noting that the U.S. has previously accused Russia of election-related hacks and even charged 12 intelligence officers. This pattern of behaviour demonstrates their desire to operate without regard to international law or established norms and to do so with a feeling of impunity and without consequences, said British Foreign Secretary Jeremy Hunt. Australia says there must be consequences for these types of actions and public attribution is only the first step. But I think its also important to consider who benefits from attacks against these specific targets - WADA, Ukraine and the West in general.
+
+Mean Scored Summary
+-------------------
+While many of these names represent the same threat actor, the line between the operations carried out by various Russian groups often gets blurred, as shown by the recent VPNFilter attack. Its worth noting that the U.S. has previously accused Russia of election-related hacks and even charged 12 intelligence officers. This pattern of behaviour demonstrates their desire to operate without regard to international law or established norms and to do so with a feeling of impunity and without consequences, said British Foreign Secretary Jeremy Hunt. Cyberspace is not the Wild West. Australia says there must be consequences for these types of actions and public attribution is only the first step. They must be very confident of their facts, either due to some sort of technical fingerprint in the attack vectors themselves, or perhaps through corroboration from various other intelligence sources, Malcolm Taylor, Director Cyber Advisory at ITC Secure and a former senior British intelligence officer, told SecurityWeek. But I think its also important to consider who benefits from attacks against these specific targets - WADA, Ukraine and the West in general.
+
+Post 63 .......................................................................
+https://www.securityweek.com/experts-doubt-russia-used-malware-track-ukrainian-troops
+
+Top N Summary
+-------------
+Specifically, researchers found an Android version of X-Agent, a piece of malware known to be used by Fancy Bear, embedded in an app developed by artillery officer Yaroslav Sherstuk to help military personnel reduce the time to fire D-30 howitzers. CrowdStrike also pointed to a report claiming that Ukraine had lost many D-30 guns in the past years, and speculated that this cyber operation may have contributed to those losses. CrowdStrike said it had obtained the information on D-30 howitzer losses from the International Institute for Strategic Studies (IISS), but as VOA pointed out, the loss estimates actually come from a pro-Russia website that published its own interpretation of some IISS reports. Carr also highlighted that the malware-infected app may have not actually made it onto a single Ukrainian soldiers Android device, considering that each user needed to contact Sherstuk personally to obtain an activation code. Instead, they worked inside of their own research bubble, performed no verification of infected applications or tablets used by Ukraines artillery corps, and extrapolated an effect of 80% losses based upon a self-proclaimed, pro-Russian propagandist and an imaginary number of infected applications.
+CrowdStrike stands by its findings and is confident that the military app has been hacked by the Fancy Bear group.
+
+Mean Scored Summary
+-------------------
+Specifically, researchers found an Android version of X-Agent, a piece of malware known to be used by Fancy Bear, embedded in an app developed by artillery officer Yaroslav Sherstuk to help military personnel reduce the time to fire D-30 howitzers. CrowdStrike also pointed to a report claiming that Ukraine had lost many D-30 guns in the past years, and speculated that this cyber operation may have contributed to those losses. CrowdStrike said it had obtained the information on D-30 howitzer losses from the International Institute for Strategic Studies (IISS), but as VOA pointed out, the loss estimates actually come from a pro-Russia website that published its own interpretation of some IISS reports. Carr also highlighted that the malware-infected app may have not actually made it onto a single Ukrainian soldiers Android device, considering that each user needed to contact Sherstuk personally to obtain an activation code.
+
+Post 64 .......................................................................
+https://www.securityweek.com/microsoft-patches-windows-zero-day-exploited-russian-hackers
+
+Top N Summary
+-------------
+MS16-135 fixes two information disclosure and three privilege escalation flaws, one of which is a Windows kernel bug exploited in attacks by a Russia-linked cyber espionage group to elevate privileges and escape the browser sandbox. The zero-day, tracked as CVE-2016-7255, was reported to Microsoft by Google researchers on October 21 and it was disclosed by the search giant ten days later. While Google decided that it would be in the best interest of users to disclose the vulnerability, Microsoft disagreed and criticized the company for putting its customers at risk. Adobe also released security updates this Patch Tuesday. The company addressed one vulnerability in Connect for Windows and nine arbitrary code execution flaws in Flash Player.
+
+Mean Scored Summary
+-------------------
+One of the zero-days has been patched with MS16-135, a bulletin rated important. MS16-135 fixes two information disclosure and three privilege escalation flaws, one of which is a Windows kernel bug exploited in attacks by a Russia-linked cyber espionage group to elevate privileges and escape the browser sandbox. The zero-day, tracked as CVE-2016-7255, was reported to Microsoft by Google researchers on October 21 and it was disclosed by the search giant ten days later. While Google decided that it would be in the best interest of users to disclose the vulnerability, Microsoft disagreed and criticized the company for putting its customers at risk. Adobe also released security updates this Patch Tuesday. The company addressed one vulnerability in Connect for Windows and nine arbitrary code execution flaws in Flash Player. The Flash Player issues have also been patched in Internet Explorer and Edge with the MS16-141 critical bulletin.
+
+Post 65 .......................................................................
+https://www.securityweek.com/pawn-storm-group-targets-turkey
+
+Top N Summary
+-------------
+Pawn Storm Group Targets Turkey
+
+Pawn Storm, the cyber espionage group linked by some researchers to Russia, has recently started targeting government and news organizations in Turkey, Trend Micro reported on Monday. The list of known targets also includes governments in Europe, Asia and the Middle East. Experts noted that if Pawn Storm is really a Russian group, it would make sense for it to target Turkey. Russia could have an interest in Turkey for several reasons, including the incident in which Turkey shot down a Russian warplane in the Turkey-Syria border area, disputes related to Kurdish groups, and refugees entering Europe via Turkey. The fact they have set up at least two fake OWA servers for one of the largest Turkish newspapers may also be considered as further proof that they are also after information on what is going on in major media outlets in that country, Hacquebord noted.
+
+Mean Scored Summary
+-------------------
+Pawn Storm Group Targets Turkey
+
+Pawn Storm, the cyber espionage group linked by some researchers to Russia, has recently started targeting government and news organizations in Turkey, Trend Micro reported on Monday. The list of known targets also includes governments in Europe, Asia and the Middle East. Experts noted that if Pawn Storm is really a Russian group, it would make sense for it to target Turkey. Russia could have an interest in Turkey for several reasons, including the incident in which Turkey shot down a Russian warplane in the Turkey-Syria border area, disputes related to Kurdish groups, and refugees entering Europe via Turkey. In one attack against Turkey, Pawn Storm set up fake Outlook Web Access (OWA) servers in order to gain access to sensitive information. The fact they have set up at least two fake OWA servers for one of the largest Turkish newspapers may also be considered as further proof that they are also after information on what is going on in major media outlets in that country, Hacquebord noted. Related: Fysbis Backdoor Preferred by Pawn Storm Group to Target Linux
+Related: Oracle Patches Java Zero-Day Exploited by Pawn Storm Attackers
+
+Post 66 .......................................................................
+https://www.securityweek.com/macronleaks-hackers-find-flaw-french-cyber-fortress
+
+Top N Summary
+-------------
+But, in the end, French presidential candidate Emmanuel Macron's team got hacked. "It's just incredible what's happening," said Belgian researcher Nicolas Vanderbiest, a specialist on online rumours, whose map showing how the "Macron Leak" propagated on Twitter has Wikileaks at the centre. Because security procedures can become long and cumbersome, some people can be tempted to get around them by using personal email services which are little or badly protected. "Throughout the campaign, En Marche! "The aim of those behind this leak is, all evidence suggests, to hurt the En Marche!
+
+Mean Scored Summary
+-------------------
+But, in the end, French presidential candidate Emmanuel Macron's team got hacked. "It's just incredible what's happening," said Belgian researcher Nicolas Vanderbiest, a specialist on online rumours, whose map showing how the "Macron Leak" propagated on Twitter has Wikileaks at the centre. Because security procedures can become long and cumbersome, some people can be tempted to get around them by using personal email services which are little or badly protected. "Throughout the campaign, En Marche! "The aim of those behind this leak is, all evidence suggests, to hurt the En Marche! Clearly, the documents arising from the hacking are all lawful and show the normal functioning of a presidential campaign."
+
+Post 67 .......................................................................
+https://www.securityweek.com/evidence-russia-behind-cyber-attacks-germany-secret-service
+
+Top N Summary
+-------------
+German Spy Service Says Russia Behind Major Cyber Attacks
+
+'Evidence' Russia Behind Cyber Attacks in Germany: Secret Service
+Germany's domestic secret service said Friday it had evidence that Russia was behind a series of cyber attacks, including one that targeted the German parliament last year. The operations cited by the BfV intelligence agency ranged from an aggressive attack called Sofacy or APT 28 that hit NATO members and knocked French TV station TV5Monde off air, to a hacking campaign called Sandstorm that brought down part of Ukraine's power grid last year. It opens a new space of operations for espionage and sabotage," said Hans-Georg Maassen, who heads the BfV agency. The operation included the attempted hacking of the Dutch Safety Board's computer systems by Russian spies seeking to access a sensitive final report into the July 2014 shooting down of flight MH17 over Ukraine, according to security experts Trend Micro. The West has been boosting resources and tightening cooperation to fight the mounting threat of international cyber attacks, with cyber defence designated as a core NATO task.
+
+Mean Scored Summary
+-------------------
+The operations cited by the BfV intelligence agency ranged from an aggressive attack called Sofacy or APT 28 that hit NATO members and knocked French TV station TV5Monde off air, to a hacking campaign called Sandstorm that brought down part of Ukraine's power grid last year. It opens a new space of operations for espionage and sabotage," said Hans-Georg Maassen, who heads the BfV agency. The operation included the attempted hacking of the Dutch Safety Board's computer systems by Russian spies seeking to access a sensitive final report into the July 2014 shooting down of flight MH17 over Ukraine, according to security experts Trend Micro. The West has been boosting resources and tightening cooperation to fight the mounting threat of international cyber attacks, with cyber defence designated as a core NATO task.
+
+Post 68 .......................................................................
+https://www.securityweek.com/sofacy-threat-group-targets-us-government
+
+Top N Summary
+-------------
+According to Palo Alto Networks Unit 42 research team, the threat actor recently attempted to deliver a piece of malware to an unnamed U.S. government organization. Palo Alto Networks noticed that a new persistence tactic was used in this attack. An added benefit for the threat actor to using this specific tactic for persistence is that it requires user interaction to load and execute the malicious payload, which can cause challenges for detection in automated sandboxes.
+The document attached to the spear phishing email targeting the U.S. government entity referenced a joint military training exercise that took place in May between Georgia and the United States. Researchers also reported seeing documents referencing the Russian military  these had been used in attacks against Poland. The threat group was recently observed attacking the Christian Democratic Union of Germany, the political party of Chancellor Angela Merkel, and various media and government organizations in Turkey.
+
+Mean Scored Summary
+-------------------
+According to Palo Alto Networks Unit 42 research team, the threat actor recently attempted to deliver a piece of malware to an unnamed U.S. government organization. An added benefit for the threat actor to using this specific tactic for persistence is that it requires user interaction to load and execute the malicious payload, which can cause challenges for detection in automated sandboxes.
+The document attached to the spear phishing email targeting the U.S. government entity referenced a joint military training exercise that took place in May between Georgia and the United States. Researchers also reported seeing documents referencing the Russian military  these had been used in attacks against Poland.
+
+Post 69 .......................................................................
+https://www.securityweek.com/russia-linked-cyberspies-target-google-accounts
+
+Top N Summary
+-------------
+It is one of the two supposedly Russian threat groups believed to have breached the systems of the U.S. Democratic National Committee (DNC). A new report published this week by SecureWorks details an earlier spear phishing campaign that targeted over 1,800 Google accounts. A link to this phishing website was disguised using the Bit.ly URL shortening service and sent via email to targeted individuals. Researchers discovered nearly 4,400 phishing URLs sent to the owners of more than 1,800 Google accounts between March and September 2015. While many of the accounts received multiple phishing URLs, roughly one-third of them were only targeted once and 60 percent of these recipients clicked the malicious link, which could indicate that they were successfully compromised.
+
+Mean Scored Summary
+-------------------
+It is one of the two supposedly Russian threat groups believed to have breached the systems of the U.S. Democratic National Committee (DNC). A new report published this week by SecureWorks details an earlier spear phishing campaign that targeted over 1,800 Google accounts. A link to this phishing website was disguised using the Bit.ly URL shortening service and sent via email to targeted individuals. Researchers discovered nearly 4,400 phishing URLs sent to the owners of more than 1,800 Google accounts between March and September 2015.
+
+Post 70 .......................................................................
+https://www.securityweek.com/adobe-patches-9-flash-player-flaws-reported-zdi
+
+Top N Summary
+-------------
+Flash Player 23.0.0.207 for Windows, Mac and web browsers, and Flash Player 11.2.202.644 for Linux patch type confusion and use-after-free vulnerabilities tracked as CVE-2016-7857, CVE-2016-7858, CVE-2016-7859, CVE-2016-7860, CVE-2016-7861, CVE-2016-7862, CVE-2016-7863, CVE-2016-7864 and CVE-2016-7865. Adobe has also informed customers of a Connect update that resolves an input validation vulnerability in the events registration module. A Flash Player vulnerability exploited in targeted attacks was addressed by Adobe on October 26. The flaw (CVE-2016-7855) has been used by the Russia-linked threat actor known as Pawn Storm, APT28 and Fancy Bear. Both Adobe and Microsoft were informed about the vulnerabilities by Google on October 21, but Microsoft only managed to patch the Windows flaw on Tuesday with its monthly security updates.
+
+Mean Scored Summary
+-------------------
+Flash Player 23.0.0.207 for Windows, Mac and web browsers, and Flash Player 11.2.202.644 for Linux patch type confusion and use-after-free vulnerabilities tracked as CVE-2016-7857, CVE-2016-7858, CVE-2016-7859, CVE-2016-7860, CVE-2016-7861, CVE-2016-7862, CVE-2016-7863, CVE-2016-7864 and CVE-2016-7865. A Flash Player vulnerability exploited in targeted attacks was addressed by Adobe on October 26. The flaw (CVE-2016-7855) has been used by the Russia-linked threat actor known as Pawn Storm, APT28 and Fancy Bear. Both Adobe and Microsoft were informed about the vulnerabilities by Google on October 21, but Microsoft only managed to patch the Windows flaw on Tuesday with its monthly security updates.
+
+Post 71 .......................................................................
+https://www.securityweek.com/malicious-pdf-leads-discovery-adobe-reader-windows-zero-days
+
+Top N Summary
+-------------
+The malicious document leverages a privilege escalation flaw in Windows (CVE-2018-8120) and a remote code execution vulnerability in Adobe Reader (CVE-2018-4990). In order to make it more difficult for attackers to execute arbitrary code on a system running its Reader software, Adobe has implemented a sandbox. Its worth noting that CVE-2018-8120 only affects Windows 7 and Windows Server 2008  newer versions of the operating system include security features that prevent attacks. Even though the sample does not contain a real malicious final payload, which may suggest that it was caught during its early development stages, the author(s) demonstrated a high level of skills in vulnerability discovery and exploit writing, explained Anton Cherepanov, the ESET researcher credited by Microsoft and Adobe for reporting the flaws. At the time of writing, 18 of the 59 antivirus engines on VirusTotal detect the files discovered by ESET as a generic Trojan or exploit.
+
+Mean Scored Summary
+-------------------
+The malicious document leverages a privilege escalation flaw in Windows (CVE-2018-8120) and a remote code execution vulnerability in Adobe Reader (CVE-2018-4990). In order to make it more difficult for attackers to execute arbitrary code on a system running its Reader software, Adobe has implemented a sandbox. Its worth noting that CVE-2018-8120 only affects Windows 7 and Windows Server 2008  newer versions of the operating system include security features that prevent attacks. Even though the sample does not contain a real malicious final payload, which may suggest that it was caught during its early development stages, the author(s) demonstrated a high level of skills in vulnerability discovery and exploit writing, explained Anton Cherepanov, the ESET researcher credited by Microsoft and Adobe for reporting the flaws. At the time of writing, 18 of the 59 antivirus engines on VirusTotal detect the files discovered by ESET as a generic Trojan or exploit.
+
+Post 72 .......................................................................
+https://www.securityweek.com/us-govs-grizzly-steppe-report-fails-achieve-purpose-experts
+
+Top N Summary
+-------------
+The information was also meant for network defenders in the United States and abroad to use to better identify, detect, and disrupt Russias global campaign of malicious cyber activities.
+But the information included in the JAR isnt enough to help improve defenses, some experts argue. web shell used by hundreds if not thousands of hackers, which makes attribution problematic. Robert M. Lee, CEO and Founder of security company Dragos, also believes that the report provides weak evidence for attribution and that the technical details included in it fail to achieve the intended purpose: it doesnt help network defenders and doesnt reveal new information on the two APTs (Advanced Persistent Threats) either, although it attributes the attacks to them (yet without offering the evidence everyone was expecting). One might reasonably expect Russian intelligence operatives to develop their own tools or at least use current malicious tools from outside sources, Maunder says. The newsworthy elements here are the source of the actors and their motivations in hitting political systems and implications of what it means in regards to national security.
+Related: Spies and Hackers: Russians Sanctioned by US
+Related: Trump to Meet U.S. Spy Chiefs to Get Russian Hacking 'Facts'
+Related: U.S. Punishes Russia Over Election Hacks
+
+Mean Scored Summary
+-------------------
+U.S. Gov's "GRIZZLY STEPPE" Report Fails to Achieve Purpose: Experts
+
+The recently releasedJoint Analysis Report (JAR) published by the Department of Homeland Security (DHS) and Federal Bureau of Investigation (FBI) to detail tools used by Russian hackers in cyber attacks against the United States election didnt deliver on its promise, security experts argue. The information was also meant for network defenders in the United States and abroad to use to better identify, detect, and disrupt Russias global campaign of malicious cyber activities.
+But the information included in the JAR isnt enough to help improve defenses, some experts argue. The report included a series of Indicators of Compromise (IOCs), but security exert Robert Graham explains that they are of low quality, have limited utility to defenders, and are published as a political tool, to prove they have evidence pointing to Russia.
+One of these is the YARA rule included in the report, which is a tool security researchers use to classify files and to analyze infected systems for attribution purposes. web shell used by hundreds if not thousands of hackers, which makes attribution problematic. Robert M. Lee, CEO and Founder of security company Dragos, also believes that the report provides weak evidence for attribution and that the technical details included in it fail to achieve the intended purpose: it doesnt help network defenders and doesnt reveal new information on the two APTs (Advanced Persistent Threats) either, although it attributes the attacks to them (yet without offering the evidence everyone was expecting). One might reasonably expect Russian intelligence operatives to develop their own tools or at least use current malicious tools from outside sources, Maunder says. But they dont appear to provide any association with Russia. It has no apparent relationship with Russian intelligence and it would be an indicator of compromise for any website, Maunder concludes. Paul Calatayud, CTO at FireMon, also told SecurityWeek that the report doesnt offer new information regarding the activities of these threat groups: Upon review, there is nothing new in regards to these actors and the techniques they are using. The newsworthy elements here are the source of the actors and their motivations in hitting political systems and implications of what it means in regards to national security.
+Related: Spies and Hackers: Russians Sanctioned by US
+Related: Trump to Meet U.S. Spy Chiefs to Get Russian Hacking 'Facts'
+Related: U.S. Punishes Russia Over Election Hacks
+
+Post 73 .......................................................................
+https://www.securityweek.com/windows-zero-day-exploited-russia-linked-cyberspies
+
+Top N Summary
+-------------
+Microsoft has been working on a patch and expects to release it on November 8. The companies were given 7 days to patch the flaws or publish workarounds that would help users protect themselves against attacks. Microsoft does not agree and accused Google of putting its customers at risk. Furthermore, the company says its Windows Defender Advanced Threat Protection (ATP) system also detects and blocks these attacks. Related: Russian Cyberspies Use "Komplex" Trojan to Target OS X Systems
+Related: U.S. Officially Accuses Russia of Election Hacks
+
+Mean Scored Summary
+-------------------
+Microsoft has been working on a patch and expects to release it on November 8. The companies were given 7 days to patch the flaws or publish workarounds that would help users protect themselves against attacks. Microsoft does not agree and accused Google of putting its customers at risk. Furthermore, the company says its Windows Defender Advanced Threat Protection (ATP) system also detects and blocks these attacks. Related: Russian Cyberspies Use "Komplex" Trojan to Target OS X Systems
+Related: U.S. Officially Accuses Russia of Election Hacks
+
+Post 74 .......................................................................
+https://www.securityweek.com/adobe-patches-flash-zero-day-exploited-targeted-attacks
+
+Top N Summary
+-------------
+The most interesting of the security holes is CVE-2016-7892, a use-after-free reported to Adobe by an individual who wanted to remain anonymous. According to Adobe, an exploit for CVE-2016-7892 exists in the wild and the vulnerability has been leveraged in limited, targeted attacks aimed at Windows users running a 32-bit version of Internet Explorer. The other Flash Player vulnerabilities were reported to Adobe by independent researchers and experts from Microsoft, Pangu LAB, Tencent, CloverSec Labs, Qihoo 360, Trend Micros Zero Day Initiative (ZDI) and Palo Alto Networks. Adobe also announced the availability of security updates that patch a memory corruption flaw in Animate, two cross-site scripting (XSS) issues in Experience Manager Forms, and a critical memory corruption in DNG Converter. Authorities Reach Settlement With Adobe Over 2013 Breach
+Related: Adobe Patches 9 Flash Player Flaws Reported via ZDI
+
+Mean Scored Summary
+-------------------
+The other Flash Player vulnerabilities were reported to Adobe by independent researchers and experts from Microsoft, Pangu LAB, Tencent, CloverSec Labs, Qihoo 360, Trend Micros Zero Day Initiative (ZDI) and Palo Alto Networks. Adobe also announced the availability of security updates that patch a memory corruption flaw in Animate, two cross-site scripting (XSS) issues in Experience Manager Forms, and a critical memory corruption in DNG Converter. Authorities Reach Settlement With Adobe Over 2013 Breach
+Related: Adobe Patches 9 Flash Player Flaws Reported via ZDI
+
+Post 75 .......................................................................
+https://www.securityweek.com/russia-used-android-malware-track-ukrainian-troops-report
+
+Top N Summary
+-------------
+Russia Used Android Malware to Track Ukrainian Troops: Report
+
+The Russia-linked cyberespionage group known as Fancy Bear has tracked Ukrainian artillery forces by planting a piece of Android malware in a legitimate military application, threat intelligence firm CrowdStrike reported on Thursday. According to CrowdStrike, Fancy Bear took the legitimate Android app and bundled it with an Android variant of X-Agent, a piece of malware that has been used by the threat actor in attacks aimed at high-value targets, including the Democratic National Committee (DNC). Experts believe the legitimate program had been mainly distributed through social media, not via the Google Play store. This type of strategic analysis can enable the identification of zones in which troops are operating and help prioritize assets within those zones for future targeting, CrowdStrike wrote in its report. It is possible that the deployment of this malware infected application may have contributed to the high-loss nature of this platform, the report adds.
+
+Mean Scored Summary
+-------------------
+Russia Used Android Malware to Track Ukrainian Troops: Report
+
+The Russia-linked cyberespionage group known as Fancy Bear has tracked Ukrainian artillery forces by planting a piece of Android malware in a legitimate military application, threat intelligence firm CrowdStrike reported on Thursday. According to CrowdStrike, Fancy Bear took the legitimate Android app and bundled it with an Android variant of X-Agent, a piece of malware that has been used by the threat actor in attacks aimed at high-value targets, including the Democratic National Committee (DNC). Experts believe the legitimate program had been mainly distributed through social media, not via the Google Play store. It is possible that the deployment of this malware infected application may have contributed to the high-loss nature of this platform, the report adds.
+
+Post 76 .......................................................................
+https://www.securityweek.com/windows-10-blocks-zero-days-patches-arrive-microsoft
+
+Top N Summary
+-------------
+To get access to the targeted computers, the group used an Adobe Flash Player vulnerability (tracked as CVE-2016-7855). The two exploits were used in a small spear-phishing campaign targeting think tanks and nongovernmental organizations in the United States. The STRONTIUM group, Microsoft says, leveraged the Win32k exploit in attacks in October 2016, where they attempted to corrupt the tagWND.strName structure and use SetWindowTextW to write arbitrary content anywhere in kernel memory. The Windows 10 Anniversary Update includes techniques that prevent abusive use of tagWND.strName, thus mitigating the Win32k exploit and similar exploits. The font samples found on affected computers were specifically manipulated with hardcoded addresses and data to reflect actual kernel memory layouts.
+
+Mean Scored Summary
+-------------------
+The update was meant to harden the platform to ensure it can stop exploits of newly discovered and even undisclosed vulnerabilities before a patch is released, and Microsoft claims that it already proved to be effective against two exploits associated with well-known threat groups. To get access to the targeted computers, the group used an Adobe Flash Player vulnerability (tracked as CVE-2016-7855). The two exploits were used in a small spear-phishing campaign targeting think tanks and nongovernmental organizations in the United States. The STRONTIUM group, Microsoft says, leveraged the Win32k exploit in attacks in October 2016, where they attempted to corrupt the tagWND.strName structure and use SetWindowTextW to write arbitrary content anywhere in kernel memory. The Windows 10 Anniversary Update includes techniques that prevent abusive use of tagWND.strName, thus mitigating the Win32k exploit and similar exploits. The font samples found on affected computers were specifically manipulated with hardcoded addresses and data to reflect actual kernel memory layouts. Because it creates an isolated sandbox, AppContainer can prevent font exploits (among other types of exploits) from achieving privilege escalation.
+
+Post 77 .......................................................................
+https://www.securityweek.com/russian-cyberspies-use-komplex-trojan-target-os-x-systems
+
+Top N Summary
+-------------
+Palo Alto Networks analysis revealed that Komplex is likely the unnamed Mac Trojan described in a June 2015 blog post by BAE Systems. Based on these observations, we believe that the author of Sofacys Carberp variant used the same code, or at least the same design, to create the Komplex Trojan, Palo Alto Networks explained in a blog post. Ryan Olson, intelligence director at Palo Alto Networks Unit 42, told SecurityWeek that they first detected Komplex at the beginning of August. While there is no indication of significant changes in the malware functionality compared to the variant analyzed by BAE Systems last year, the attackers have apparently switched from exploiting MacKeeper vulnerabilities to using decoy documents. Related: Fysbis Backdoor Preferred by Pawn Storm Group to Target Linux
+
+Mean Scored Summary
+-------------------
+Palo Alto Networks analysis revealed that Komplex is likely the unnamed Mac Trojan described in a June 2015 blog post by BAE Systems. Based on these observations, we believe that the author of Sofacys Carberp variant used the same code, or at least the same design, to create the Komplex Trojan, Palo Alto Networks explained in a blog post. While there is no indication of significant changes in the malware functionality compared to the variant analyzed by BAE Systems last year, the attackers have apparently switched from exploiting MacKeeper vulnerabilities to using decoy documents. Related: Fysbis Backdoor Preferred by Pawn Storm Group to Target Linux
+
+Post 78 .......................................................................
+https://www.securityweek.com/russian-cyberspies-use-uefi-rootkit-attacks
+
+Top N Summary
+-------------
+Earlier this year, after the groups Zerbrocy malware was found on systems infected with Turlas Mosquito backdoor, security researchers concluded that the threat actors activities overlap with other state-sponsored operations. The third tool would then write the modified firmware image back to the SPI flash memory, thus effectively installing the UEFI rootkit on the system. If the platform allows write operations to the SPI flash memory, it will just go ahead and write to it. The security researchers also note that the attack can write the modified firmware image only if SPI flash memory protections are vulnerable or misconfigured. Related: Russia-linked Hackers Exploit Lojack Recovery Tool in Attacks
+
+Mean Scored Summary
+-------------------
+Not only does this prove that UEFI rootkits are a real threat, but also shows that Fancy Bear may be even more dangerous than thought, ESET says. Earlier this year, after the groups Zerbrocy malware was found on systems infected with Turlas Mosquito backdoor, security researchers concluded that the threat actors activities overlap with other state-sponsored operations. The third tool would then write the modified firmware image back to the SPI flash memory, thus effectively installing the UEFI rootkit on the system. If the platform allows write operations to the SPI flash memory, it will just go ahead and write to it. If not, it actually implements an exploit against a known vulnerability, ESET reveals. The security researchers also note that the attack can write the modified firmware image only if SPI flash memory protections are vulnerable or misconfigured. Related: Russia-linked Hackers Exploit Lojack Recovery Tool in Attacks
+
+Post 79 .......................................................................
+https://www.securityweek.com/oracle-patches-java-zero-day-192-other-security-bugs
+
+Top N Summary
+-------------
+Oracle Patches Java Zero-Day, 192 Other Security Bugs
+
+Oracle on Tuesday released its July 2015 Critical Patch Update (CPU). After Oracle announced the availability of a patch for the remote code execution vulnerability (CVE-2015-2590), Trend Micro published a blog post with additional technical details on the attack. 16 of these Java SE fixes are for Java client-only, including one fix for the client installation of Java SE. 5 of the Java fixes are for client and server deployment. And 4 fixes are for JSSE client and server deployments, Eric Maurice, director of Oracle Software Security Assurance, said in a blog post.
+
+Mean Scored Summary
+-------------------
+Oracle Patches Java Zero-Day, 192 Other Security Bugs
+
+Oracle on Tuesday released its July 2015 Critical Patch Update (CPU). After Oracle announced the availability of a patch for the remote code execution vulnerability (CVE-2015-2590), Trend Micro published a blog post with additional technical details on the attack.
+
+Post 80 .......................................................................
+https://www.securityweek.com/sophisticated-false-flags-planted-olympic-destroyer-malware
+
+Top N Summary
+-------------
+The attack involved Olympic Destroyer, a piece of malware designed to wipe files and make systems inoperable, and steal passwords from browsers and Windows. The security firm has found a unique fingerprint associated with the notorious Lazarus Group, which has been linked to North Korea and blamed for high profile attacks such as the one on Sony, the WannaCry campaign, and various operations targeting financial organizations. Yet the attackers decided to use it, predicting that someone would find it. They counted on the fact that forgery of this artifact is very hard to prove, explained Vitaly Kamluk, head of the APAC research team at Kaspersky. Its analysis led to the discovery of numerous code fragments uniquely linked to threat groups tracked as APT3, APT10 and APT12.
+
+Mean Scored Summary
+-------------------
+The Olympic Winter Games in Pyeongchang, South Korea, was hit by a cyberattack that caused temporary disruption to IT systems, including the official Olympics website, display monitors, and Wi-Fi connections. The attack involved Olympic Destroyer, a piece of malware designed to wipe files and make systems inoperable, and steal passwords from browsers and Windows. Kaspersky has also spotted infections at several ski resorts in South Korea. The security firm has found a unique fingerprint associated with the notorious Lazarus Group, which has been linked to North Korea and blamed for high profile attacks such as the one on Sony, the WannaCry campaign, and various operations targeting financial organizations. Yet the attackers decided to use it, predicting that someone would find it. They counted on the fact that forgery of this artifact is very hard to prove, explained Vitaly Kamluk, head of the APAC research team at Kaspersky. Its analysis led to the discovery of numerous code fragments uniquely linked to threat groups tracked as APT3, APT10 and APT12.
+
+Post 81 .......................................................................
+https://www.securityweek.com/us-attributes-election-hacks-russian-threat-groups
+
+Top N Summary
+-------------
+Attributes Election Hacks to Russian Threat Groups
+
+U.S. Government Maps Election Hacks to Russian Threat Groups, But Industry Raises Concern Over Attribution Evidence
+The Department of Homeland Security (DHS) and the Federal Bureau of Investigation (FBI) on Thursday published a Joint Analysis Report (JAR) to detail the tools and infrastructure that Russian hackers used in attacks against the United States election. As expected, U.S. President Barack Obama on Thursday announced several retaliatory actions against Moscow, imposing sanctions on two intelligence agencies, expelling 35 diplomats and denying access to two Russian compounds inside the United States. These groups use this information to craft highly targeted spearphishing campaigns. It was all a jumbled mess, tweeted Dmitri Alperovitch, Co-Founder & CTO at CrowdStrike. That said, if you want to practice some hunting, go wild.
+
+Mean Scored Summary
+-------------------
+Attributes Election Hacks to Russian Threat Groups
+
+U.S. Government Maps Election Hacks to Russian Threat Groups, But Industry Raises Concern Over Attribution Evidence
+The Department of Homeland Security (DHS) and the Federal Bureau of Investigation (FBI) on Thursday published a Joint Analysis Report (JAR) to detail the tools and infrastructure that Russian hackers used in attacks against the United States election. As expected, U.S. President Barack Obama on Thursday announced several retaliatory actions against Moscow, imposing sanctions on two intelligence agencies, expelling 35 diplomats and denying access to two Russian compounds inside the United States. These groups use this information to craft highly targeted spearphishing campaigns. It was all a jumbled mess, tweeted Dmitri Alperovitch, Co-Founder & CTO at CrowdStrike. That said, if you want to practice some hunting, go wild.
+
+Post 82 .......................................................................
+https://www.securityweek.com/russia-linked-hackers-leak-football-doping-files
+
+Top N Summary
+-------------
+The group calls itself Fancy Bears and claims to be associated with the Anonymous hacktivist movement. Our team perceived these numerous claims as a challenge and now we will prove they are lying.
+The leaked files include emails exchanged between the Fdration Internationale de Football Association (FIFA) and representatives of anti-doping agencies discussing the test results of various football players. Both the Football Association and FIFA condemned the leak of confidential medical information. The threat actor is tracked by various security firms as APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium. The organization has provided the following statement:
+Related: Russian Hackers May Have Manipulated Leaked WADA Data
+Related: Attack on Olympics Anti-Doping Agency Linked to Russia
+
+Mean Scored Summary
+-------------------
+The group calls itself Fancy Bears and claims to be associated with the Anonymous hacktivist movement. Our team perceived these numerous claims as a challenge and now we will prove they are lying.
+The leaked files include emails exchanged between the Fdration Internationale de Football Association (FIFA) and representatives of anti-doping agencies discussing the test results of various football players. Both the Football Association and FIFA condemned the leak of confidential medical information. The threat actor is tracked by various security firms as APT28, Pawn Storm, Sednit, Sofacy, Tsar Team and Strontium. The message reads very clear and loud - Dare to touch us, we'll come after you. The organization has provided the following statement:
+Related: Russian Hackers May Have Manipulated Leaked WADA Data
+Related: Attack on Olympics Anti-Doping Agency Linked to Russia
+
+Post 83 .......................................................................
+https://www.securityweek.com/corporate-users-increasingly-targeted-exploits-kaspersky
+
+Top N Summary
+-------------
+The security firm observed more than 700 million attempts to execute an exploit in 2016, which represents a 25% increase compared to 2015. This indicates that while fewer users encountered exploits, the likelihood of coming across an exploit increased as the number of websites and spam messages delivering such threats has continued to grow. Of all the exploit attacks observed by Kaspersky in 2016, more than 15% were aimed at corporate machines. Exploits for vulnerabilities in Office software became the absolute champions in terms of the number of attacked users. Related: Exploit Kits Take Cyberattacks to the Masses, But They're Preventable
+Related: New Terror Exploit Kit Emerges
+
+Mean Scored Summary
+-------------------
+The security firm observed more than 700 million attempts to execute an exploit in 2016, which represents a 25% increase compared to 2015. This indicates that while fewer users encountered exploits, the likelihood of coming across an exploit increased as the number of websites and spam messages delivering such threats has continued to grow. Of all the exploit attacks observed by Kaspersky in 2016, more than 15% were aimed at corporate machines. Related: Exploit Kits Take Cyberattacks to the Masses, But They're Preventable
+Related: New Terror Exploit Kit Emerges
+
+Post 84 .......................................................................
+https://www.securityweek.com/usual-threats-more-sophisticated-and-faster-report
+
+Top N Summary
+-------------
+Last week, Microsoft discovered a major campaign focused on stealing Electroneum. "Adversaries," writes Samani, "have the luxury of access to research done by the technical community, and can download and use opensource tools to support their campaigns, while the defenders level of insight into cybercriminal activities is considerably more limited, and identifying evolving tactics often must take place after malicious campaigns have begun." The hackers used it in a phishing campaign that cited the New York City terror attacks. A second example comes from the December Gold Dragon attacks on organizations involved with the Winter Olympics. In this case the attackers employed steganography, "and a new tool released days before the attack."
+
+Mean Scored Summary
+-------------------
+With the cost of dedicated mining hardware at upwards of $5,000 per machine, criminals chose to steal users' CPU time via malware. Last week, Microsoft discovered a major campaign focused on stealing Electroneum. "Adversaries," writes Samani, "have the luxury of access to research done by the technical community, and can download and use opensource tools to support their campaigns, while the defenders level of insight into cybercriminal activities is considerably more limited, and identifying evolving tactics often must take place after malicious campaigns have begun." The hackers used it in a phishing campaign that cited the New York City terror attacks. A second example comes from the December Gold Dragon attacks on organizations involved with the Winter Olympics. In this case the attackers employed steganography, "and a new tool released days before the attack."
+
+Post 85 .......................................................................
+https://www.securityweek.com/iaaf-says-russia-linked-hackers-accessed-medical-records
+
+Top N Summary
+-------------
+IAAF Says Russia-Linked Hackers Accessed Medical Records
+
+The International Association of Athletics Federations (IAAF) revealed on Monday that athletes' medical records were accessed in an attack the organization believes was carried out by the Russia-linked cyber espionage group known as Fancy Bear. The group is said to be responsible for many high-profile attacks, including the recent U.S. election hacks. The IAAF, which is based in Monaco, said it learned of the breach after it hired incident response firm Context Information Security in January to conduct a technical investigation. Investigators found signs of unauthorized remote access on February 21, when they discovered metadata on athletes' Therapeutic Use Exemption (TUE) applications stored in a newly created file. Last year, the World Anti-Doping Agency (WADA) said the hackers had stolen sensitive athlete data, including medical test results and TUEs.
+
+Mean Scored Summary
+-------------------
+The group is said to be responsible for many high-profile attacks, including the recent U.S. election hacks. The IAAF, which is based in Monaco, said it learned of the breach after it hired incident response firm Context Information Security in January to conduct a technical investigation. Investigators found signs of unauthorized remote access on February 21, when they discovered metadata on athletes' Therapeutic Use Exemption (TUE) applications stored in a newly created file. Last year, the World Anti-Doping Agency (WADA) said the hackers had stolen sensitive athlete data, including medical test results and TUEs.
+
+Post 86 .......................................................................
+https://www.securityweek.com/france-tv-cyberattack-probe-focused-russian-hackers
+
+Top N Summary
+-------------
+France TV Cyberattack Probe Focused on 'Russian Hackers'
+
+The investigation into the cyberattack suffered by France's TV5Monde television channel in April is now focusing on "a group of Russian hackers", a judicial source told AFP on Tuesday. But confirming information first published by L'Express newspaper, the judicial source said "the investigations are at this stage looking towards a group of Russian hackers designated by the name APT28." The hackers posted documents on TV5Monde's Facebook page purporting to be the identity cards and CVs of relatives of French soldiers involved in anti-IS operations, along with threats against the troops. You have the chance to save your families, take advantage of it," read one message on the hacked Facebook page. "The CyberCaliphate continues its cyberjihad against the enemies of Islamic State," the message added.
+
+Mean Scored Summary
+-------------------
+France TV Cyberattack Probe Focused on 'Russian Hackers'
+
+The investigation into the cyberattack suffered by France's TV5Monde television channel in April is now focusing on "a group of Russian hackers", a judicial source told AFP on Tuesday. The hackers posted documents on TV5Monde's Facebook page purporting to be the identity cards and CVs of relatives of French soldiers involved in anti-IS operations, along with threats against the troops. You have the chance to save your families, take advantage of it," read one message on the hacked Facebook page.
+
+Post 87 .......................................................................
+https://www.securityweek.com/microsoft-patches-office-zero-day-bug-used-apt-group
+
+Top N Summary
+-------------
+When we found the exploit it appeared to be under development and evidence suggests it was deployed in Georgia, iSIGHT Partners noted in a blog post. The flaw affects Office 2013 SP1 and prior, and it can be exploited to execute arbitrary code via a specially crafted Office document. In the Pawn Storm attack spotted by iSIGHT, the attackers used a document named Iran_nuclear_talks.rtf to hide the exploit. When the document was opened, an embedded OLE object triggered the vulnerability and a dropper payload was written and executed on the targeted system. In April, FireEye reported that the threat group had used Flash Player and Windows zero-days in a highly targeted attack aimed at an international government entity.
+
+Mean Scored Summary
+-------------------
+On June 30, the threat intelligence company discovered that Pawn Storm had been exploiting an unpatched vulnerability in Microsoft Office (CVE-2015-2424). iSIGHT Partners immediately notified Microsoft and the flaw was patched when the company released its July 2015 security updates. When we found the exploit it appeared to be under development and evidence suggests it was deployed in Georgia, iSIGHT Partners noted in a blog post. The flaw affects Office 2013 SP1 and prior, and it can be exploited to execute arbitrary code via a specially crafted Office document. In the Pawn Storm attack spotted by iSIGHT, the attackers used a document named Iran_nuclear_talks.rtf to hide the exploit. When the document was opened, an embedded OLE object triggered the vulnerability and a dropper payload was written and executed on the targeted system. In April, FireEye reported that the threat group had used Flash Player and Windows zero-days in a highly targeted attack aimed at an international government entity.
+
+Post 88 .......................................................................
+https://www.securityweek.com/russias-hackers-long-tied-military-secret-services
+
+Top N Summary
+-------------
+That practice appears to have resumed under President Vladimir Putin, as Russia faces accusations of waging a global campaign of cyber attacks. "Now Russian hackers are excellently trained and equipped and they still occupy one of the top positions in banking crime," said Demidov -- even if the Russian justice system has begun to crack down on them. For Demidov, the growing wave of attacks attributed to Russian hackers has come about as Russia becomes better able to defend its own cyber security more strongly, the military sphere included. This week a military tribunal in Moscow held a closed-doors trial for the head of operational control at the FSB's centre for information security, Colonel Sergei Mikhalkov and three alleged accomplices. Kommersant daily reported that they were accused of passing secrets on the Russian secret services' cyber technology to the FBI in return for $10 million.
+
+Mean Scored Summary
+-------------------
+That practice appears to have resumed under President Vladimir Putin, as Russia faces accusations of waging a global campaign of cyber attacks. The agency has investigated both the fatal poisoning of Russian former double-agent Sergei Skripal; and an alleged chemical attack by Moscow-allied Syrian President Bashar al-Assad. The most brilliant students were pushed to work in the military and space sector, he added. "Now Russian hackers are excellently trained and equipped and they still occupy one of the top positions in banking crime," said Demidov -- even if the Russian justice system has begun to crack down on them. For Demidov, the growing wave of attacks attributed to Russian hackers has come about as Russia becomes better able to defend its own cyber security more strongly, the military sphere included. This week a military tribunal in Moscow held a closed-doors trial for the head of operational control at the FSB's centre for information security, Colonel Sergei Mikhalkov and three alleged accomplices. Kommersant daily reported that they were accused of passing secrets on the Russian secret services' cyber technology to the FBI in return for $10 million.
+
+Post 89 .......................................................................
+https://www.securityweek.com/adobe-patch-flash-zero-day-exploited-russian-attackers
+
+Top N Summary
+-------------
+Adobe noted in its advisory that its aware of limited, targeted attacks exploiting the flaw. The attackers lured their victims to websites hosting the exploit via spear phishing emails that used suicide car bombings in Kabul, airstrikes in Syria and Gaza, and other military-related topics as a lure. Researchers have pointed out that the URLs used by the APT group were similar to the ones spotted earlier this year in attacks aimed at the White House and NATO members. Pawn Storm has used six zero-day vulnerabilities in the last year, Tom Kellermann, chief cybersecurity officer at Trend Micro, told SecurityWeek on Tuesday. This includes Java, Windows, and Flash Player zero-days, including some of the exploits leaked as a result of the breach suffered earlier this year by the Italian spyware maker Hacking Team.
+
+Mean Scored Summary
+-------------------
+Adobe noted in its advisory that its aware of limited, targeted attacks exploiting the flaw. The attackers lured their victims to websites hosting the exploit via spear phishing emails that used suicide car bombings in Kabul, airstrikes in Syria and Gaza, and other military-related topics as a lure. Researchers have pointed out that the URLs used by the APT group were similar to the ones spotted earlier this year in attacks aimed at the White House and NATO members. Pawn Storm has used six zero-day vulnerabilities in the last year, Tom Kellermann, chief cybersecurity officer at Trend Micro, told SecurityWeek on Tuesday. This includes Java, Windows, and Flash Player zero-days, including some of the exploits leaked as a result of the breach suffered earlier this year by the Italian spyware maker Hacking Team.
+
+Post 90 .......................................................................
+https://www.securityweek.com/denmark-says-russia-hacked-defense-ministry-emails
+
+Top N Summary
+-------------
+"This is part of a continuing war from the Russian side in this field, where we are seeing a very aggressive Russia," Defense Minister Claus Hjort Frederiksen told Danish news agency Ritzau. A report published Sunday by the Centre for Cyber Security accused a group of pro-Kremlin hackers of breaking into the emails of defense ministry employees in 2015 and 2016. The report identified the hacker group as APT28, also known as Pawn Storm, Sofacy and Fancy Bear, which has links to the Russian government and security services and has previously been named by the FBI and US Homeland Security as being behind "malicious cyber activity" against US government bodies. The group is also believed to be behind other high-profile cyber attacks. In Denmark, the Centre for Cyber Security said earlier this year that the threat against Danish authorities and companies remained "very high".
+
+Mean Scored Summary
+-------------------
+"This is part of a continuing war from the Russian side in this field, where we are seeing a very aggressive Russia," Defense Minister Claus Hjort Frederiksen told Danish news agency Ritzau. The report identified the hacker group as APT28, also known as Pawn Storm, Sofacy and Fancy Bear, which has links to the Russian government and security services and has previously been named by the FBI and US Homeland Security as being behind "malicious cyber activity" against US government bodies.
+
+Post 91 .......................................................................
+https://www.securityweek.com/french-presidential-candidate-targeted-russia-linked-hackers
+
+Top N Summary
+-------------
+Many believe he will become the countys next president after he was endorsed by several top politicians, including former opponents in the presidential race. The National Cybersecurity Agency of France (ANSSI) also confirmed the attacks, but refused to comment on their origin, Reuters reported. Pawn Storms political operations have made a lot of headlines, particularly after the group targeted organizations affiliated with the Democratic Party in the United States. For instance, an individual using the online moniker Guccifer 2.0 has taken credit for the Democratic Party attacks, and a group calling itself Fancy Bears claimed to have been behind the attack on the World Anti-Doping Agency (WADA). Several other hacktivist groups have been connected to Pawn Storm, including Cyber Caliphate, which claimed to be linked to ISIS when it attacked the U.S. Army and French TV station TV5Monde back in 2015.
+
+Mean Scored Summary
+-------------------
+French Presidential Candidate Targeted by Russia-Linked Hackers
+
+A notorious cyber espionage group linked to the Russian government has targeted the political party of French presidential candidate Emmanuel Macron, according to a report published on Tuesday by Trend Micro. The news comes shortly after Macron won the first round of Frances presidential election. Many believe he will become the countys next president after he was endorsed by several top politicians, including former opponents in the presidential race. The National Cybersecurity Agency of France (ANSSI) also confirmed the attacks, but refused to comment on their origin, Reuters reported. Pawn Storms political operations have made a lot of headlines, particularly after the group targeted organizations affiliated with the Democratic Party in the United States. For instance, an individual using the online moniker Guccifer 2.0 has taken credit for the Democratic Party attacks, and a group calling itself Fancy Bears claimed to have been behind the attack on the World Anti-Doping Agency (WADA). Several other hacktivist groups have been connected to Pawn Storm, including Cyber Caliphate, which claimed to be linked to ISIS when it attacked the U.S. Army and French TV station TV5Monde back in 2015.
+
+Post 92 .......................................................................
+https://www.securityweek.com/industry-reactions-us-indicting-12-russians-dnc-hack
+
+Top N Summary
+-------------
+Industry Reactions to U.S. Indicting 12 Russians for DNC Hack
+
+The U.S. last week indicted 12 Russian intelligence officers over their alleged role in a hacking operation targeting the Democratic National Committee (DNC) and Hillary Clintons 2016 presidential campaign. The charges, part of special counsel Robert Muellers investigation into Russias attempt to interfere in the presidential election, were announced just days before President Donald Trump met his Russian counterpart, Vladimir Putin. Industry professionals have commented on the charges, their impact, the possible threat actors responsible for the operation, and how these types of attacks can be avoided. And the feedback begins...
+John Hultquist, Director of Intelligence Analysis, FireEye:
+John Gomez, CEO, Sensato:
+Richard Ford, Chief Scientist, Forcepoint:
+Ross Rustici, Head of Intelligence Research, Cybereason:
+Kevin Mitnick, Chief Hacking Officer, KnowBe4:
+Leo Taddeo, CISO, Cyxtera:
+
+Mean Scored Summary
+-------------------
+Industry Reactions to U.S. Indicting 12 Russians for DNC Hack
+
+The U.S. last week indicted 12 Russian intelligence officers over their alleged role in a hacking operation targeting the Democratic National Committee (DNC) and Hillary Clintons 2016 presidential campaign. And the feedback begins...
+John Hultquist, Director of Intelligence Analysis, FireEye:
+John Gomez, CEO, Sensato:
+Richard Ford, Chief Scientist, Forcepoint:
+Ross Rustici, Head of Intelligence Research, Cybereason:
+Kevin Mitnick, Chief Hacking Officer, KnowBe4:
+Leo Taddeo, CISO, Cyxtera:
+
+Post 93 .......................................................................
+https://www.securityweek.com/vermont-utility-refutes-reports-russia-hacking-us-electric-grid
+
+Top N Summary
+-------------
+This malicious activity, dubbed by the U.S. government Grizzly Steppe, included attacks launched by two well-known Russia-linked threat groups tracked as APT28 (aka Fancy Bear, Pawn Storm, Strontium, Sofacy, Sednit and Tsar Team) and APT29 (aka Cozy Bear and CozyDuke). However, security experts have criticized the U.S. government for failing to provide strong evidence that Russia did in fact attempt to interfere with the presidential election. After the Grizzly Steppe report was published, Burlington Electric conducted a scan of all its computers in an effort to determine if any devices had been infected with Grizzly Steppe malware. However, experts say even the new headline, Russian operation hacked a Vermont utility, showing risk to U.S. electrical grid security, is FUD. On the other hand, many experts believe the U.S. power grid is vulnerable to cyberattacks.
+
+Mean Scored Summary
+-------------------
+After the Grizzly Steppe report was published, Burlington Electric conducted a scan of all its computers in an effort to determine if any devices had been infected with Grizzly Steppe malware. However, experts say even the new headline, Russian operation hacked a Vermont utility, showing risk to U.S. electrical grid security, is FUD. On the other hand, many experts believe the U.S. power grid is vulnerable to cyberattacks.
+
+Post 94 .......................................................................
+https://www.securityweek.com/russian-cyberspies-use-updated-arsenal-attack-defense-contractors
+
+Top N Summary
+-------------
+Russian Cyberspies Use Updated Arsenal to Attack Defense Contractors
+
+A Russia-linked cyber espionage group has been using new tools in attacks against defense contractors and other high profile targets, Kaspersky Lab reported on Friday. The threat actor, known as Pawn Storm, Strontium, APT28, Sofacy, Sednit and Fancy Bear, has been actively targeting military, media, defense and government organizations from across the world since 2007. Entities in NATO countries have been primarily targeted, but researchers recently spotted an increase in attacks aimed at Ukraine. Up until August, Pawn Storm leveraged zero-day exploits to infect systems with JHUHUGIT and JKEYSKW first-stage implants. Older versions of USBStealer malware were analyzed by researchers at ESET in November 2014.
+
+Mean Scored Summary
+-------------------
+Russian Cyberspies Use Updated Arsenal to Attack Defense Contractors
+
+A Russia-linked cyber espionage group has been using new tools in attacks against defense contractors and other high profile targets, Kaspersky Lab reported on Friday. The threat actor, known as Pawn Storm, Strontium, APT28, Sofacy, Sednit and Fancy Bear, has been actively targeting military, media, defense and government organizations from across the world since 2007. Entities in NATO countries have been primarily targeted, but researchers recently spotted an increase in attacks aimed at Ukraine. Up until August, Pawn Storm leveraged zero-day exploits to infect systems with JHUHUGIT and JKEYSKW first-stage implants. Older versions of USBStealer malware were analyzed by researchers at ESET in November 2014.
+
+Post 95 .......................................................................
+https://www.symantec.com/connect/blogs/adobe-patches-flash-player-vulnerability-used-pawn-storm-apt-campaign
+
+Top N Summary
+-------------
+Adobe patches Flash Player vulnerability used in Pawn Storm APT campaign Adobe has issued an emergency patch for a new Flash Player vulnerability (CVE-2015-7645) exploited by attackers behind the Operation Pawn Storm campaign. On October 16, Adobe released an emergency patch for a new Adobe Flash Player vulnerability (CVE-2015-7645), which was reportedly used by the attackers behind the Operation Pawn Storm (also known as APT28, Sednit, Fancy Bear, or Tsar Team) advanced persistent threat (APT) campaign. The attack group is not new to the usage of zero-day vulnerabilities, as in July 2015, it exploited a then zero-day vulnerability in Java. Select the version of Internet Explorer you are using at the top right corner. In the meantime, customers are advised to apply the patch as soon as possible.
+
+Mean Scored Summary
+-------------------
+Adobe patches Flash Player vulnerability used in Pawn Storm APT campaign Adobe has issued an emergency patch for a new Flash Player vulnerability (CVE-2015-7645) exploited by attackers behind the Operation Pawn Storm campaign. Select the version of Internet Explorer you are using at the top right corner. In the meantime, customers are advised to apply the patch as soon as possible.
+
+Post 96 .......................................................................
+https://www.symantec.com/connect/blogs/java-zero-day-vulnerability-used-limited-attacks
+
+Top N Summary
+-------------
+Java zero-day vulnerability used in limited attacks Vulnerability is reported to be exploitable by way of drive-by-download on the latest version of Java (1.8.0.45). The attackers behind this zero-day vulnerability have been linked to the APT group Operation Pawn Storm (also known as APT28, Sednit, Fancy Bear, or Tsar Team). This is the first Java zero-day reported since 2013, however a vulnerability in this widely used platform does pose a significant risk. Update  July 14, 2015: Oracle has released a patch to address the zero-day vulnerability discussed in this blog, the Oracle Java SE Remote Security Vulnerability (CVE-2015-2590). The July 2015 Critical Patch Update contains a total of 193 security fixes across Oracle products, including 25 fixes for Oracle Java SE.
+
+Mean Scored Summary
+-------------------
+The attackers behind this zero-day vulnerability have been linked to the APT group Operation Pawn Storm (also known as APT28, Sednit, Fancy Bear, or Tsar Team). This is the first Java zero-day reported since 2013, however a vulnerability in this widely used platform does pose a significant risk. Update  July 14, 2015: Oracle has released a patch to address the zero-day vulnerability discussed in this blog, the Oracle Java SE Remote Security Vulnerability (CVE-2015-2590). The July 2015 Critical Patch Update contains a total of 193 security fixes across Oracle products, including 25 fixes for Oracle Java SE.
+
+Post 97 .......................................................................
+https://www.symantec.com/blogs/election-security/apt28-espionage-military-government
+
+Top N Summary
+-------------
+APT28: New Espionage Operations Target Military and Government Organizations Recent campaigns see APT28 group return to covert intelligence gathering operations in Europe and South America. APT28 has continued to develop its tools over the past two years. Earworm uses two malware tools. However, Earworm also appears to conduct separate operations from APT28 and thus Symantec tracks them as a distinct group. An ongoing threat It is now clear that after being implicated in the U.S. presidential election attacks in late 2016, APT28 was undeterred by the resulting publicity and continues to mount further attacks using its existing tools.
+
+Mean Scored Summary
+-------------------
+APT28: New Espionage Operations Target Military and Government Organizations Recent campaigns see APT28 group return to covert intelligence gathering operations in Europe and South America. These emails were designed to trick recipients into supposedly changing their email passwords on a fake webmail domain. A Mac version of the Trojan also exists (OSX.Sofacy). APT28 has continued to develop its tools over the past two years. Earworm uses two malware tools. Backdoor.Zekapab is installed on selected infected computers and is capable of taking screenshots, executing files and commands, uploading and downloading files, performing registry and file system operations, and carrying out system information tasks. However, Earworm also appears to conduct separate operations from APT28 and thus Symantec tracks them as a distinct group. An ongoing threat It is now clear that after being implicated in the U.S. presidential election attacks in late 2016, APT28 was undeterred by the resulting publicity and continues to mount further attacks using its existing tools.
+
+Post 98 .......................................................................
+https://www.symantec.com/blogs/election-security/election-hacking-faq
+
+Top N Summary
+-------------
+The group was initially known for traditional, information-stealing espionage campaigns, targeting governments in the U.S. and Europe. During the 2016 U.S. presidential election attacks, APT28 used spear-phishing emails that tricked recipients into supposedly changing their email passwords on a fake webmail domain. APT29 (aka Cozy Bear, Fritillary, the Dukes) is believed to be a Russian cyber espionage group which has been active since at least January 2010. Symantec has seen APT29 use a number of custom malware tools, including: Trojan.Cozer Trojan.Seaduke Trojan.Dionisduke Backdoor.Netduke Trojan.Powerduke Backdoor.Miniduke Has Symantec previously published research on APT29? How has the link between APT28, APT29, and Russia been established?
+
+Mean Scored Summary
+-------------------
+Heres a short primer on the 2016 attacks and what tactics were used by the attackers: How can cyber espionage groups interfere with elections? APT28 (aka Sofacy, Fancy Bear, Swallowtail, Tsar Team, Sednit) is believed to be a Russian cyber espionage group which has been active since at least January 2007. The group was initially known for traditional, information-stealing espionage campaigns, targeting governments in the U.S. and Europe. During the 2016 U.S. presidential election attacks, APT28 used spear-phishing emails that tricked recipients into supposedly changing their email passwords on a fake webmail domain. What tools does APT28 use? APT29 (aka Cozy Bear, Fritillary, the Dukes) is believed to be a Russian cyber espionage group which has been active since at least January 2010. These emails contained malicious links which, if clicked, would lead to malware being installed on the targets computer. What tools does APT29 use? Symantec has seen APT29 use a number of custom malware tools, including: Trojan.Cozer Trojan.Seaduke Trojan.Dionisduke Backdoor.Netduke Trojan.Powerduke Backdoor.Miniduke Has Symantec previously published research on APT29? How has the link between APT28, APT29, and Russia been established?
+
